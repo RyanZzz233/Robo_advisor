@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 from scipy.optimize import minimize
 import plotly.graph_objects as go
 import plotly.express as px
@@ -152,6 +153,38 @@ def get_portfolio_for_risk_level(efficient_frontier_data, risk_level):
     # Find closest portfolio
     closest_portfolio = min(portfolios, key=lambda p: abs(p['volatility'] - target_volatility))
     return closest_portfolio, target_volatility
+
+# Generate a heatmap for the covariance matrix
+def plot_correlation_heatmap(cov_matrix):
+    # Create correlation matrix from covariance matrix
+    corr_matrix = pd.DataFrame(
+        data=np.zeros(cov_matrix.shape),
+        index=cov_matrix.index,
+        columns=cov_matrix.columns
+    )
+    
+    # Convert covariance to correlation
+    for i in range(len(cov_matrix.index)):
+        for j in range(len(cov_matrix.columns)):
+            corr_matrix.iloc[i, j] = cov_matrix.iloc[i, j] / (
+                np.sqrt(cov_matrix.iloc[i, i]) * np.sqrt(cov_matrix.iloc[j, j])
+            )
+    
+    # Plot using Plotly
+    fig = px.imshow(
+        corr_matrix,
+        color_continuous_scale='RdBu_r',
+        zmin=-1, zmax=1,
+        text_auto='.2f'
+    )
+    
+    fig.update_layout(
+        title='Correlation Matrix Heatmap',
+        height=600,
+        width=800
+    )
+    
+    return fig
 
 # Risk appetite questionnaire
 def risk_appetite_questionnaire():
@@ -455,7 +488,7 @@ def main():
                 color='purple',
                 symbol='circle'
             ),
-            name='Global Minimum Variance Portfolio'
+            name='Global Minimum Variance Portfolio (Without Short Sales)'
         ))
         
         # Add minimum volatility portfolio with short sales
@@ -469,10 +502,10 @@ def main():
                 color='purple',
                 symbol='triangle-up'
             ),
-            name='GMVP (With Short Sales)'
+            name='Global Minimum Variance Portfolio (With Short Sales)'
         ))
         
-        # Add tangency portfolio (max Sharpe)
+        # Add tangency portfolio (max Sharpe) for no shorts
         fig.add_trace(go.Scatter(
             x=[tangency_portfolio['volatility']],
             y=[tangency_portfolio['return']],
@@ -482,7 +515,21 @@ def main():
                 color='orange',
                 symbol='diamond'
             ),
-            name='Tangency Portfolio (Max Sharpe Ratio)'
+            name='Tangency Portfolio (No Short Sales)'
+        ))
+        
+        # Add tangency portfolio with short sales
+        tangency_short = ef_with_short['tangency_portfolio']
+        fig.add_trace(go.Scatter(
+            x=[tangency_short['volatility']],
+            y=[tangency_short['return']],
+            mode='markers',
+            marker=dict(
+                size=12,
+                color='darkorange',
+                symbol='diamond-open'
+            ),
+            name='Tangency Portfolio (With Short Sales)'
         ))
         
         # Draw the Capital Market Line as a tangent from risk-free rate through tangency portfolio
@@ -626,7 +673,8 @@ def main():
         - **Blue line**: Efficient frontier with short sales allowed
         - **Purple circle**: Global Minimum Variance Portfolio without short sales (lowest possible risk)
         - **Purple triangle**: Global Minimum Variance Portfolio with short sales allowed
-        - **Orange diamond**: Tangency Portfolio (highest Sharpe ratio)
+        - **Orange diamond**: Tangency Portfolio (highest Sharpe ratio) without short sales
+        - **Orange open diamond**: Tangency Portfolio with short sales allowed
         - **Red dashed line**: Capital Market Line (tangent from risk-free rate through tangency portfolio)
         - **Blue dots**: Individual funds
         - **Red star**: Your recommended portfolio based on your risk profile
@@ -649,9 +697,27 @@ def main():
         })
         st.dataframe(mean_returns_df, hide_index=True)
         
-        # Display variance-covariance matrix
-        st.subheader("Variance-Covariance Matrix")
-        st.dataframe(cov_matrix.style.format("{:.4f}"), height=400)
+        # Display covariance matrix as a heatmap
+        st.subheader("Variance-Covariance Matrix Visualization")
+        
+        # Create two tabs for different ways to view the covariance data
+        cov_tab1, cov_tab2 = st.tabs(["Heatmap Visualization", "Raw Data"])
+        
+        with cov_tab1:
+            # Generate and display the heatmap
+            corr_heatmap = plot_correlation_heatmap(cov_matrix)
+            st.plotly_chart(corr_heatmap, use_container_width=True)
+            
+            st.markdown("""
+            **Note**: The heatmap shows the **correlation matrix** derived from the covariance matrix. 
+            Values closer to +1 (dark blue) indicate strong positive correlation, 
+            values closer to -1 (dark red) indicate strong negative correlation, 
+            and values near 0 (white) indicate little to no correlation.
+            """)
+        
+        with cov_tab2:
+            # Display the raw data with formatting
+            st.dataframe(cov_matrix.style.background_gradient(cmap='coolwarm', axis=None).format("{:.4f}"), height=400)
         
         # Add information about both GMVPs
         st.subheader("Global Minimum Variance Portfolios")
@@ -687,19 +753,39 @@ def main():
             })
             st.dataframe(gmvp_weights_df, hide_index=True)
         
-        # Display tangency portfolio details
-        st.subheader("Tangency Portfolio (Maximum Sharpe Ratio)")
-        st.markdown(f"**Return:** {tangency_portfolio['return']:.4f}")
-        st.markdown(f"**Volatility:** {tangency_portfolio['volatility']:.4f}")
-        st.markdown(f"**Sharpe Ratio:** {tangency_portfolio['sharpe_ratio']:.4f}")
+        # Display tangency portfolio details with both options (with and without short sales)
+        st.subheader("Tangency Portfolios (Maximum Sharpe Ratio)")
         
-        # Display weights
-        tangency_weights = tangency_portfolio['weights']
-        tangency_weights_df = pd.DataFrame({
-            'Fund': selected_funds,
-            'Weight': [f"{w*100:.2f}%" for w in tangency_weights]
-        })
-        st.dataframe(tangency_weights_df, hide_index=True)
+        # Create columns for both tangency portfolios
+        tang_col1, tang_col2 = st.columns(2)
+        
+        with tang_col1:
+            st.markdown("#### Without Short Sales")
+            st.markdown(f"**Return:** {ef_no_short['tangency_portfolio']['return']:.4f}")
+            st.markdown(f"**Volatility:** {ef_no_short['tangency_portfolio']['volatility']:.4f}")
+            st.markdown(f"**Sharpe Ratio:** {ef_no_short['tangency_portfolio']['sharpe_ratio']:.4f}")
+            
+            # Display weights
+            tang_weights = ef_no_short['tangency_portfolio']['weights']
+            tang_weights_df = pd.DataFrame({
+                'Fund': selected_funds,
+                'Weight': [f"{w*100:.2f}%" for w in tang_weights]
+            })
+            st.dataframe(tang_weights_df, hide_index=True)
+        
+        with tang_col2:
+            st.markdown("#### With Short Sales")
+            st.markdown(f"**Return:** {ef_with_short['tangency_portfolio']['return']:.4f}")
+            st.markdown(f"**Volatility:** {ef_with_short['tangency_portfolio']['volatility']:.4f}")
+            st.markdown(f"**Sharpe Ratio:** {ef_with_short['tangency_portfolio']['sharpe_ratio']:.4f}")
+            
+            # Display weights
+            tang_weights = ef_with_short['tangency_portfolio']['weights']
+            tang_weights_df = pd.DataFrame({
+                'Fund': selected_funds,
+                'Weight': [f"{w*100:.2f}%" for w in tang_weights]
+            })
+            st.dataframe(tang_weights_df, hide_index=True)
 
 if __name__ == "__main__":
     # Initialize session state for questionnaire

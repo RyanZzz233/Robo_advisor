@@ -1,0 +1,2183 @@
+yf-umfm46,symbol,tw-text-left,sector
+1,RCWBX,American Funds Capital World Bond R2,basic materials
+2,CCWFX,American Funds Capital World Bond Fund,basic materials
+3,RCEBX,American Funds Capital World Bond R2E,basic materials
+4,WFBFX,American Funds Capital World Bond F3,basic materials
+5,WBFFX,American Funds Capital World Bond F1,basic materials
+6,CWBCX,American Funds Capital World Bond C,basic materials
+7,CCWEX,American Funds Capital World Bond Fund,basic materials
+8,BFWFX,American Funds Capital World Bond Fund,basic materials
+9,FCWBX,American Funds Capital World Bond 529-F2,basic materials
+10,RCWCX,American Funds Capital World Bond R3,basic materials
+11,RCWEX,American Funds Capital World Bond R4,basic materials
+12,RCWHX,American Funds Capital World Bond R5E,basic materials
+13,CCWCX,American Funds Capital World Bond Fund,basic materials
+14,CWBFX,American Funds Capital World Bond A,basic materials
+15,RCWFX,American Funds Capital World Bond R5,basic materials
+16,RCWAX,American Funds Capital World Bond R1,basic materials
+17,CCWAX,American Funds Capital World Bond Fund,basic materials
+18,RCWGX,American Funds Capital World Bond R6,basic materials
+19,FWBCX,American Funds Capital World Bond 529-F3,basic materials
+20,CRDOX,Six Circles Credit Opportunities,basic materials
+21,GIOSX,Guggenheim Macro Opportunities R6,basic materials
+22,GIOIX,Guggenheim Macro Opportunities Instl,basic materials
+23,GIOCX,Guggenheim Macro Opportunities C,basic materials
+24,GIOAX,Guggenheim Macro Opportunities A,basic materials
+25,GIOPX,Guggenheim Macro Opportunities P,basic materials
+26,MEDGX,MFS Emerging Markets Debt R4,basic materials
+27,MEDAX,MFS Emerging Markets Debt A,basic materials
+28,MEDHX,MFS Emerging Markets Debt R6,basic materials
+29,MEDFX,MFS Emerging Markets Debt R3,basic materials
+30,MEDEX,MFS Emerging Markets Debt R2,basic materials
+31,MEDBX,MFS Emerging Markets Debt B,basic materials
+32,MEDCX,MFS Emerging Markets Debt C,basic materials
+33,MEDIX,MFS Emerging Markets Debt I,basic materials
+34,MEDDX,MFS Emerging Markets Debt R1,basic materials
+35,TRKZX,T. Rowe Price High Yield Z,basic materials
+36,PRHIX,T. Rowe Price High Yield I,basic materials
+37,PRHYX,T. Rowe Price High Yield,basic materials
+38,PAHIX,T. Rowe Price High Yield Adv,basic materials
+39,VMIAX,Vanguard Materials Index Admiral,basic materials
+40,BBMHX,Bridge Builder Municipal High-Income Bond Fund,basic materials
+41,PTYIX,T. Rowe Price Tax Free High Yield I,basic materials
+42,PATFX,T. Rowe Price Tax-Free High Yield Adv,basic materials
+43,PRFHX,T. Rowe Price Tax-Free High Yield,basic materials
+44,FEGOX,First Eagle Gold C,basic materials
+45,FEURX,First Eagle Gold R6,basic materials
+46,FEGIX,First Eagle Gold I,basic materials
+47,SGGDX,First Eagle Gold A,basic materials
+48,ERABX,Eaton Vance Total Return Bond R6,basic materials
+49,EIBAX,Eaton Vance Total Return Bond I,basic materials
+50,ECBAX,Eaton Vance Total Return Bond C,basic materials
+51,EBABX,Eaton Vance Total Return Bond Fund,basic materials
+52,PFRIX,PGIM Floating Rate Income Fund,basic materials
+53,FRFCX,PGIM Floating Rate Income C,basic materials
+54,FRFAX,PGIM Floating Rate Income A,basic materials
+55,FRFZX,PGIM Floating Rate Income Z,basic materials
+56,0P0000TISB,Pender Corporate Bond A,basic materials
+57,0P0000TISC,Pender Corporate Bond F,basic materials
+58,0P0001HZWM,Pender Corporate Bond I,basic materials
+59,0P0001HZWL,Pender Corporate Bond H,basic materials
+60,OGMYX,Invesco Gold & Special Minerals Y,basic materials
+61,OGMIX,Invesco Gold & Special Minerals R6,basic materials
+62,OGMNX,Invesco Gold & Special Minerals R,basic materials
+63,OPGSX,Invesco Gold & Special Minerals A,basic materials
+64,OGMCX,Invesco Gold & Special Minerals C,basic materials
+65,IOGYX,Invesco Gold & Special Minerals R5,basic materials
+66,MHICX,MFS High Income C,basic materials
+67,MHIBX,MFS High Income B,basic materials
+68,MIHRX,MFS High Income R2,basic materials
+69,MHIHX,MFS High Income R3,basic materials
+70,MHIGX,MFS High Income R1,basic materials
+71,MHIJX,MFS High Income R4,basic materials
+72,MHITX,MFS High Income A,basic materials
+73,MHIIX,MFS High Income I,basic materials
+74,MHIKX,MFS High Income R6,basic materials
+75,TRHYX,T. Rowe Price Instl High Yield,basic materials
+76,FIJDX,Fidelity Advisor Gold Z,basic materials
+77,FGDTX,Fidelity Advisor Gold M,basic materials
+78,FGDCX,Fidelity Advisor Gold C,basic materials
+79,FGDIX,Fidelity Advisor Gold I,basic materials
+80,FGDAX,Fidelity Advisor Gold A,basic materials
+81,FSAGX,Fidelity Select Gold,basic materials
+82,ISHSX,Invesco Short Duration High Yld Muni R6,basic materials
+83,ISHYX,Invesco Short Duration High Yld Muni Y,basic materials
+84,ISHFX,Invesco Short Duration High Yld Muni R5,basic materials
+85,ISHCX,Invesco Short Duration High Yld Muni C,basic materials
+86,ISHAX,Invesco Short Duration High Yld Muni A,basic materials
+87,FGPMX,Franklin Gold and Precious Metals R6,basic materials
+88,FRGOX,Franklin Gold and Precious Metals C,basic materials
+89,FKRCX,Franklin Gold and Precious Metals A,basic materials
+90,FGADX,Franklin Gold and Precious Metals Adv,basic materials
+91,CSOAX,Credit Suisse Strategic Income A,basic materials
+92,CSOIX,Credit Suisse Strategic Income I,basic materials
+93,CSOCX,Credit Suisse Strategic Income C,basic materials
+94,SGDLX,Sprott Gold Equity Investor,basic materials
+95,SGDIX,Sprott Gold Equity Institutional,basic materials
+96,HWHZX,Hotchkis & Wiley High Yield Z,basic materials
+97,HWHAX,Hotchkis & Wiley High Yield A,basic materials
+98,HWHIX,Hotchkis & Wiley High Yield I,basic materials
+99,RHYAX,RBC BlueBay High Yield Bond A,basic materials
+100,RGHYX,RBC BlueBay High Yield Bond I,basic materials
+101,AGGWX,American Century Global Gold R,basic materials
+102,BGEIX,American Century Global Gold Fund,basic materials
+103,AGYCX,American Century Global Gold C,basic materials
+104,AGGNX,American Century Global Gold I,basic materials
+105,ACGGX,American Century Global Gold A,basic materials
+106,FMFCX,Fidelity Advisor Materials C,basic materials
+107,FMFEX,Fidelity Advisor Materials I,basic materials
+108,FMFTX,Fidelity Advisor Materials M,basic materials
+109,FMFAX,Fidelity Advisor Materials A,basic materials
+110,FIJFX,Fidelity Advisor Materials Z,basic materials
+111,FSDPX,Fidelity Select Materials,basic materials
+112,IIGCX,VanEck International Investors Gold C,basic materials
+113,INIIX,VanEck International Investors Gold I,basic materials
+114,INIYX,VanEck International Investors Gold Y,basic materials
+115,INIVX,VanEck International Investors Gold A,basic materials
+116,PTHYX,Putnam Tax-Free High Yield B,basic materials
+117,PTCCX,Putnam Tax-Free High Yield C,basic materials
+118,PTFYX,Putnam Tax-Free High Yield Y,basic materials
+119,PTHAX,Putnam Tax-Free High Yield A,basic materials
+120,PTFRX,Putnam Tax Free High Yield R6,basic materials
+121,UIPMX,Victory Precious Metals and Minerals Fund,basic materials
+122,USAGX,Victory Precious Metals and Minerals Fund,basic materials
+123,UPMMX,Victory Precious Metals and Minerals Fund,basic materials
+124,FSCHX,Fidelity Select Chemicals,basic materials
+125,EKWDX,Allspring Precious Metals Fund,basic materials
+126,EKWCX,Allspring Precious Metals Fund,basic materials
+127,EKWAX,Allspring Precious Metals Fund,basic materials
+128,EKWYX,Allspring Precious Metals Fund,basic materials
+129,GLDCX,Gabelli Gold C,basic materials
+130,GLDAX,Gabelli Gold A,basic materials
+131,GLDIX,Gabelli Gold I,basic materials
+132,GOLDX,Gabelli Gold AAA,basic materials
+133,TEIMX,T. Rowe Price Emerg Mkts Lcl Ccy Bd I,basic materials
+134,PRELX,T. Rowe Price Emerg Mkts Lcl Ccy Bd,basic materials
+135,TRZFX,T. Rowe Price Emerg Mkts Lcl Ccy Bd Z,basic materials
+136,PAELX,T. Rowe Price Emerg Mkts Lcl Ccy Bd Adv,basic materials
+137,EPGIX,EuroPac Gold Fund,basic materials
+138,EPGFX,EuroPac Gold Fund,basic materials
+139,APFPX,Artisan Global Unconstrained Fund Investor Shares,basic materials
+140,APDPX,Artisan Global Unconstrained Fund Advisor Shares,basic materials
+141,APHPX,Artisan Global Unconstrained Fund,basic materials
+142,0P0001N8UY,Mackenzie Precious Metals F,basic materials
+143,0P0001N8UH,Mackenzie Precious Metals PW,basic materials
+144,0P0001N8UG,Mackenzie Precious Metals D,basic materials
+145,0P0001N8UX,Mackenzie Precious Metals A,basic materials
+146,HSTRX,Hussman Strategic Total Return,basic materials
+147,PFSIX,PIMCO Emerging Markets Full Spectrum Bond Fund,basic materials
+148,0P0001OCY7,Ninepoint Silver Equities F,basic materials
+149,0P0001AMJA,JNL/Mellon Materials Sect I,basic materials
+150,0P0001AMJ9,JNL/Mellon Materials Sect A,basic materials
+151,JABUX,JHancock Opportunistic Fixed Inc R6,basic materials
+152,JABTX,JHancock Opportunistic Fixed Inc I,basic materials
+153,JABOX,JHancock Opportunistic Fixed Inc C,basic materials
+154,JIGDX,JHancock Opportunistic Fixed Inc 1,basic materials
+155,JABWX,JHancock Opportunistic Fixed Inc A,basic materials
+156,USERX,U.S. Global Investors Gold & Precious Metals Fund,basic materials
+157,IOSSX,Voya Global Bond Port S,basic materials
+158,IOSAX,Voya Global Bond Port A,basic materials
+159,IOSIX,Voya Global Bond Port I,basic materials
+160,0P0001PYYI,Pender Bond Universe Class F USD,basic materials
+161,OCMGX,OCM Gold Investor,basic materials
+162,OCMAX,OCM Gold Atlas,basic materials
+163,RYZCX,Rydex Precious Metals C,basic materials
+164,RYMPX,Rydex Precious Metals H,basic materials
+165,RYMNX,Rydex Precious Metals A,basic materials
+166,RYPMX,Rydex Precious Metals Inv,basic materials
+167,PEMIX,PIMCO Emerging Markets Corporate Bond Fund,basic materials
+168,VCIFX,VALIC Company I International Govt Bond Fund,basic materials
+169,EPBIX,EuroPac International Bond Fund,basic materials
+170,EPIBX,EuroPac International Bond Fund,basic materials
+171,0P00016IK7,Rezco Global Flexible A USD,basic materials
+172,0P0000SCVX,-,basic materials
+173,0P0001ADXY,CI Gold Corporate Class O,basic materials
+174,0P0000SCVW,CI Gold Corporate Class A,basic materials
+175,0P0000Y1ID,CI Gold Corporate Class E,basic materials
+176,UNWPX,U.S. Global Investors World Precious Minerals Fund,basic materials
+177,LCDFX,Lord Abbett Emerging Markets Corp Dbt F,basic materials
+178,LCDVX,Lord Abbett Emerging Markets Corp Dbt R6,basic materials
+179,LEDCX,Lord Abbett Emerging Markets Corporate Debt Fund,basic materials
+180,LCDRX,Lord Abbett Emerging Markets Corp Dbt R3,basic materials
+181,LCDAX,Lord Abbett Emerging Markets Corp Dbt A,basic materials
+182,LCDOX,Lord Abbett Emerging Markets Corp Dbt F3,basic materials
+183,LCDIX,Lord Abbett Emerging Markets Corp Dbt I,basic materials
+184,LCDSX,Lord Abbett Emerging Markets Corp Dbt R4,basic materials
+185,LCDTX,Lord Abbett Emerging Markets Corp Dbt R5,basic materials
+186,PSPFX,US Global Investors Global Res,basic materials
+187,0P0001J43H,Manulife GF Global Resources I3 Acc,basic materials
+188,0P0001J42E,Manulife GF Global Resources AA Acc,basic materials
+189,0P00008YCZ,Manulife GF Global Resources AA,basic materials
+190,0P00008VY4,Craton Capital Precious Metal B,basic materials
+191,0P00000Y8S,Craton Capital Precious Metal A,basic materials
+192,0P00013K6U,Craton Capital Precious Metal I,basic materials
+193,0P0001628C,Craton Capital Precious Metal D,basic materials
+194,0P0000RYYX,Craton Capital Precious Metal E,basic materials
+195,0P00013K6T,Craton Capital Precious Metal R,basic materials
+196,PMPSX,ProFunds Precious Metals UltraSector Svc,basic materials
+197,PMPIX,ProFunds Precious Metals UltraSector Inv,basic materials
+198,HFZTX,Hartford Schroders EmMkts Mlt-Sect Bd R5,basic materials
+199,SMSNX,Hartford Schroders EmMkts Mlt-Sect Bd I,basic materials
+200,HFZYX,Hartford Schroders EmMkts Mlt-Sect Bd Y,basic materials
+1,NHCCX,Nuveen High Yield Municipal Bond C,consumer cyclical
+2,NHMAX,Nuveen High Yield Municipal Bond A,consumer cyclical
+3,NHMFX,Nuveen High Yield Municipal Bond R6,consumer cyclical
+4,NHMRX,Nuveen High Yield Municipal Bond I,consumer cyclical
+5,FSMUX,Strategic Advisers Municipal Bond,consumer cyclical
+6,BPTRX,Baron Partners Retail,consumer cyclical
+7,BPTIX,Baron Partners Institutional,consumer cyclical
+8,BPTUX,Baron Partners R6,consumer cyclical
+9,VCDAX,Vanguard Consumer Discretionary Fund,consumer cyclical
+10,MIMIX,MFS Municipal Income I,consumer cyclical
+11,MMIDX,MFS Municipal Income A1,consumer cyclical
+12,MPMNX,MFS Municipal Income R6,consumer cyclical
+13,MMIBX,MFS Municipal Income B,consumer cyclical
+14,MMICX,MFS Municipal Income C,consumer cyclical
+15,MMIGX,MFS Municipal Income B1,consumer cyclical
+16,MFIAX,MFS Municipal Income A,consumer cyclical
+17,WAPSX,Western Asset Core Plus Bond IS,consumer cyclical
+18,LWCPX,Western Asset Core Plus Bond Fund,consumer cyclical
+19,WAPRX,Western Asset Core Plus Bond R,consumer cyclical
+20,WAPAX,Western Asset Core Plus Bond A,consumer cyclical
+21,WACIX,Western Asset Core Plus Bond FI,consumer cyclical
+22,WAPCX,Western Asset Core Plus Bond C,consumer cyclical
+23,WACPX,Western Asset Core Plus Bond I,consumer cyclical
+24,MMHKX,MFS Municipal High Income R6,consumer cyclical
+25,MMHCX,MFS Municipal High Income C,consumer cyclical
+26,MMIIX,MFS Municipal High Income I,consumer cyclical
+27,MMHYX,MFS Municipal High Income A,consumer cyclical
+28,MMHBX,MFS Municipal High Income B,consumer cyclical
+29,PICYX,Pioneer Bond Y,consumer cyclical
+30,PBFRX,Pioneer Bond R,consumer cyclical
+31,PCYBX,Pioneer Bond Fund,consumer cyclical
+32,PIOBX,Pioneer Bond A,consumer cyclical
+33,PBFKX,Pioneer Bond K,consumer cyclical
+34,FSRPX,Fidelity Select Retailing,consumer cyclical
+35,EASDX,Eaton Vance Short Duration Government Income Fund,consumer cyclical
+36,EILDX,Eaton Vance Short Duration Gov Inc I,consumer cyclical
+37,EALDX,Eaton Vance Short Duration Government Income Fund,consumer cyclical
+38,ECLDX,Eaton Vance Short Duration Government Income Fund,consumer cyclical
+39,IHIFX,Macquarie High Income Fund Class R6,consumer cyclical
+40,WRHIX,Macquarie High Income Fund Class C,consumer cyclical
+41,WHIAX,Macquarie High Income Fund Class A,consumer cyclical
+42,WHIYX,Macquarie High Income Fund Class Y,consumer cyclical
+43,IYHIX,Macquarie High Income Fund Class R,consumer cyclical
+44,IVHIX,Macquarie High Income Fund Class I,consumer cyclical
+45,IORAX,Invesco AMT-Free Municipal Inc R6,consumer cyclical
+46,OPTAX,Invesco AMT-Free Municipal Inc A,consumer cyclical
+47,OMFCX,Invesco AMT-Free Municipal Inc C,consumer cyclical
+48,OMFYX,Invesco AMT-Free Municipal Inc Y,consumer cyclical
+49,PEBIX,PIMCO Emerging Markets Bond Fund,consumer cyclical
+50,PAEMX,PIMCO Emerging Markets Bond A,consumer cyclical
+51,PEMPX,PIMCO Emerging Markets Bond Fund,consumer cyclical
+52,PEBCX,PIMCO Emerging Markets Bond Fund,consumer cyclical
+53,PEBNX,PIMCO Emerging Markets Bond Fund,consumer cyclical
+54,0P00003EHR,JNL/Mellon Consumer Discretionary Sect I,consumer cyclical
+55,0P00003CBJ,JNL/Mellon Consumer Discretionary Sect A,consumer cyclical
+56,TFBVX,T. Rowe Price Virginia Tax Free Bond I,consumer cyclical
+57,PRVAX,T. Rowe Price Virginia Tax Free Bond,consumer cyclical
+58,JSIRX,JPMorgan Unconstrained Debt R5,consumer cyclical
+59,JSIMX,JPMorgan Unconstrained Debt R6,consumer cyclical
+60,JSIAX,JPMorgan Unconstrained Debt A,consumer cyclical
+61,JINCX,JPMorgan Unconstrained Debt C,consumer cyclical
+62,JSISX,JPMorgan Unconstrained Debt I,consumer cyclical
+63,JISZX,JPMorgan Unconstrained Debt R2,consumer cyclical
+64,HFLIX,Hartford Floating Rate I,consumer cyclical
+65,HFLSX,Hartford Floating Rate R4,consumer cyclical
+66,HFLCX,Hartford Floating Rate C,consumer cyclical
+67,HFLAX,Hartford Floating Rate A,consumer cyclical
+68,HFLYX,Hartford Floating Rate Y,consumer cyclical
+69,HFLRX,Hartford Floating Rate R3,consumer cyclical
+70,HFLTX,Hartford Floating Rate R5,consumer cyclical
+71,HFLFX,Hartford Floating Rate F,consumer cyclical
+72,CINCX,Calvert Income I,consumer cyclical
+73,CINRX,Calvert Income R6,consumer cyclical
+74,CIFCX,Calvert Income C,consumer cyclical
+75,CFICX,Calvert Income A,consumer cyclical
+76,0P0000V9FF,BlueBay Emerging Markets Corp Bd F,consumer cyclical
+77,0P0000V9FE,BlueBay Emerging Markets Corp Bd D,consumer cyclical
+78,0P0000V9FC,BlueBay Emerging Markets Corp Bd A,consumer cyclical
+79,0P0000WN8Y,BlueBay Emerging Markets Corp Bd O,consumer cyclical
+80,DDFCX,Macquarie Floating Rate C,consumer cyclical
+81,DDFFX,Macquarie Floating Rate R,consumer cyclical
+82,DDFAX,Macquarie Floating Rate A,consumer cyclical
+83,DDFLX,Macquarie Floating Rate Instl,consumer cyclical
+84,DDFZX,Macquarie Floating Rate R6,consumer cyclical
+85,FDLSX,Fidelity Select Leisure,consumer cyclical
+86,CIOZX,Columbia Income Opportunities Inst,consumer cyclical
+87,CIOYX,Columbia Income Opportunities Inst3,consumer cyclical
+88,RIOCX,Columbia Income Opportunities C,consumer cyclical
+89,AIOAX,Columbia Income Opportunities A,consumer cyclical
+90,CEPRX,Columbia Income Opportunities Inst2,consumer cyclical
+91,CIODX,Columbia Income Opportunities S,consumer cyclical
+92,CUBRX,Calvert Flexible Bond Fund Class R6,consumer cyclical
+93,CUBIX,Calvert Flexible Bond Fund Class I,consumer cyclical
+94,CUBCX,Calvert Flexible Bond Fund Class C,consumer cyclical
+95,CUBAX,Calvert Flexible Bond Fund Class A,consumer cyclical
+96,HYPPX,MFS High Yield Pooled,consumer cyclical
+97,FSCPX,Fidelity Select Consumer Discret Port,consumer cyclical
+98,FIJZX,Fidelity Advisor Consumer Discret Z,consumer cyclical
+99,FCNIX,Fidelity Advisor Consumer Discret I,consumer cyclical
+100,FCNAX,Fidelity Advisor Consumer Discret A,consumer cyclical
+101,FACPX,Fidelity Advisor Consumer Discret M,consumer cyclical
+102,FCECX,Fidelity Advisor Consumer Discretionary Fund,consumer cyclical
+103,ARMZX,Western Asset Ultra-Short Income A,consumer cyclical
+104,LWAIX,Western Asset Ultra-Short Income Fund,consumer cyclical
+105,ARMGX,Western Asset Ultra-Short Income C1,consumer cyclical
+106,ARMLX,Western Asset Ultra-Short Income IS,consumer cyclical
+107,SBAYX,Western Asset Ultra-Short Income I,consumer cyclical
+108,PCCRX,PIMCO Credit Opportunities Bond C,consumer cyclical
+109,PZCRX,PIMCO Credit Opportunities Bond A,consumer cyclical
+110,PPCRX,PIMCO Credit Opportunities Bond I-2,consumer cyclical
+111,PCARX,PIMCO Credit Opportunities Bond Instl,consumer cyclical
+112,MSVAX,MFS VA Municipal Bond A,consumer cyclical
+113,MPVOX,MFS VA Municipal Bond R6,consumer cyclical
+114,MVACX,MFS VA Municipal Bond C,consumer cyclical
+115,MIVAX,MFS VA Municipal Bond I,consumer cyclical
+116,MBVAX,MFS Virginia Municipal Bond Fund,consumer cyclical
+117,TMNAX,Northern Lights Fund Trust III - Counterpoint Tactical Municipal Fund,consumer cyclical
+118,TMNCX,Northern Lights Fund Trust III - Counterpoint Tactical Municipal Fund,consumer cyclical
+119,TMNIX,Northern Lights Fund Trust III - Counterpoint Tactical Municipal Fund,consumer cyclical
+120,0P0000ZLBX,Renaissance U.S. Dollar Corp Bond A,consumer cyclical
+121,0P0000ZMIR,-,consumer cyclical
+122,0P00012HLC,-,consumer cyclical
+123,0P0000ZLBY,Renaissance US Dollar Corp Bond Prem,consumer cyclical
+124,0P0001HAAN,Renaissance U.S. Dollar Corp Bd Cl O U$,consumer cyclical
+125,0P0001L27W,Moneda Luxembourg SICAV - Latin America Corporate Credit II,consumer cyclical
+126,0P0001L27U,Moneda Luxembourg SICAV - Latin America Corporate Credit II,consumer cyclical
+127,0P0001L27V,Moneda Luxembourg SICAV - Latin America Corporate Credit II,consumer cyclical
+128,STMKX,Ocean Park Tactical Municipal A,consumer cyclical
+129,STMYX,Ocean Park Tactical Municipal Special,consumer cyclical
+130,STMEX,Ocean Park Tactical Municipal Instl,consumer cyclical
+131,STMNX,Ocean Park Tactical Municipal Investor,consumer cyclical
+132,STMHX,Ocean Park Tactical Municipal C,consumer cyclical
+133,SMARX,Brandes Separately Managed Acct Rsrv Tr,consumer cyclical
+134,0P00015061,SWC (LU) BF Cmtt Glbl Conv GT,consumer cyclical
+135,0P0001BG2U,SWC (LU) BF Cmtt Glbl Conv NT,consumer cyclical
+136,0P0001262P,SWC (LU) BF Cmtt Glbl Conv AT,consumer cyclical
+137,WAURX,Western Asset Total Return Uncons R,consumer cyclical
+138,WARIX,Western Asset Total Return Uncons FI,consumer cyclical
+139,WAARX,Western Asset Total Return Uncons I,consumer cyclical
+140,WAASX,Western Asset Total Return Uncons IS,consumer cyclical
+141,WAUCX,Western Asset Total Return Uncons C,consumer cyclical
+142,WAUAX,Western Asset Total Return Uncons A,consumer cyclical
+143,BCPRX,Brandes Core Plus Fixed Income Fund,consumer cyclical
+144,BCPAX,Brandes Core Plus Fixed Income Fund,consumer cyclical
+145,BCPIX,Brandes Core Plus Fixed Income Fund,consumer cyclical
+146,CFOIX,Calvert Floating-Rate Advantage I,consumer cyclical
+147,CFORX,Calvert Floating-Rate Advantage R6,consumer cyclical
+148,CFOAX,Calvert Floating-Rate Advantage A,consumer cyclical
+149,PSSCX,PIMCO StocksPLUS Short C,consumer cyclical
+150,PSPLX,PIMCO StocksPLUS Short I2,consumer cyclical
+151,PSNNX,PIMCO StocksPLUS Short I-3,consumer cyclical
+152,PSTIX,PIMCO StocksPLUS Short Institutional,consumer cyclical
+153,PSSAX,PIMCO StocksPLUS Short A,consumer cyclical
+154,FSAVX,Fidelity Select Automotive Port,consumer cyclical
+155,CYPIX,ProFunds Consumer Disctnry Ultra Sec Inv,consumer cyclical
+156,CYPSX,ProFunds Consumer Disctnry Ultra Sec Svc,consumer cyclical
+157,EMBUX,VanEck Emerging Markets Bond Fund,consumer cyclical
+158,EMBAX,VanEck Emerging Markets Bond Fund,consumer cyclical
+159,EMBYX,VanEck Emerging Markets Bond Fund,consumer cyclical
+160,USLUX,U.S. Global Investors Global Luxury Goods Fund,consumer cyclical
+161,PGLOX,"T. Rowe Price International Funds, Inc. - T. Rowe Price Global Consumer Fund",consumer cyclical
+162,0P0000RVKJ,Brandes Corp Focus Bond Cl F Unhdgd,consumer cyclical
+163,0P0000A368,Brandes Corp Focus Bond Cl A Unhedge,consumer cyclical
+164,UGPIX,ProFunds UltraChina,consumer cyclical
+165,UGPSX,ProFunds UltraChina,consumer cyclical
+166,0P0000YKPY,BTG SICAV LatinAmerican Corp Dbt I $ Acc,consumer cyclical
+167,0P0001HONN,BTG SICAV LatinAmerican Corp Dbt O $ Acc,consumer cyclical
+168,0P0000YKPX,BTG SICAV LatinAmerican Corp Dbt A $ Acc,consumer cyclical
+169,SHLMX,Virtus Stone Harbor Local Markets I,consumer cyclical
+170,VSHEX,Virtus Stone Harbor Local Markets A,consumer cyclical
+171,RYRCX,Rydex Retailing C,consumer cyclical
+172,RYRAX,Rydex Retailing H,consumer cyclical
+173,RYRIX,Rydex Retailing Inv,consumer cyclical
+174,RYRTX,Rydex Retailing A,consumer cyclical
+175,0P00018Z52,Sedec UCITS Dollar Bonds USD-R,consumer cyclical
+176,0P0000TORK,ChinaAMC China Growth Fd B USD,consumer cyclical
+177,0P0000ZTJH,ChinaAMC China Growth Fd I USD Acc,consumer cyclical
+178,0P0000TORJ,ChinaAMC China Growth Fd A USD,consumer cyclical
+179,0P0001MQZ0,Invesco Emerging Markets Bond Z USD Acc,consumer cyclical
+180,0P0001DK2M,Invesco Global High Yield B USD SD,consumer cyclical
+181,0P0000SXSG,Invesco Emerging Mkt Corp Bd R USD MD,consumer cyclical
+182,0P0000Y1QA,Muzinich ShortDurationHighYield Fund,consumer cyclical
+183,0P00018E49,Janus Henderson Flexible Inc E3m USD,consumer cyclical
+184,0P0000JMUB,BlueBay Funds - BlueBay High Yield ESG Bond Fund I - USD (Perf),consumer cyclical
+185,0P00000WAS,PIMCO GIS Em Mkts Bd Inv USD Acc,consumer cyclical
+186,0P0000VO6L,Muzinich ShortDurationHY HUSD Inc A,consumer cyclical
+187,0P0000AAYZ,GAM Multistock Luxury Brands Eq USD C,consumer cyclical
+188,0P00015KF0,Lord Abbett Multi Sector Inc Z USD Inc,consumer cyclical
+189,0P0001CMTZ,Schelcher Convertible U,consumer cyclical
+190,0P0001IIG5,Candriam Abs Ret Eq Mkt Netrl V USDH Acc,consumer cyclical
+191,0P0001S1V6,PIMCO GIS Em Mkts Bd BM Retl USD Decl,consumer cyclical
+192,0P0001JMKF,ICG Global Loan A USD Acc,consumer cyclical
+193,0P00019K1R,Maybank Asian Income A (Acc) - USD,consumer cyclical
+194,0P0000Q65J,Muzinich ShortDurationHY HUSD Acc R,consumer cyclical
+195,0P0000N548,Templeton Emerging Mkts Bd A(acc)USD,consumer cyclical
+196,0P0000VTR6,BGF China Bond D2,consumer cyclical
+197,0P0000NHH0,BlueBay Funds - BlueBay Emerging Market Corporate Bond Fund,consumer cyclical
+198,0P0001MTQ4,Lord Abbett Multi Sector Inc AM USD Inc,consumer cyclical
+199,0P0000WDI2,Janus Henderson US Sh Dur Bd Fd I2 USD,consumer cyclical
+200,0P00017FKX,BlueBay Funds - BlueBay High Yi,consumer cyclical
+1,WTIBX,Segall Bryant & Hamill Plus Bond Ret,financial services
+2,WIPIX,Allspring Core Plus Bond Instl,financial services
+3,WIPDX,Allspring Core Plus Bond Admin,financial services
+4,WIIBX,Segall Bryant & Hamill Plus Bond Instl,financial services
+5,WFIPX,Allspring Core Plus Bond C,financial services
+6,WFCPX,Allspring Managed Acct CoreBuilder CP,financial services
+7,WCFRX,Virtus Westchester Credit Event Fd A,financial services
+8,WCFIX,Virtus Westchester Credit Event Fd I,financial services
+9,WATFX,Western Asset Core Bond I,financial services
+10,WAPIX,Western Asset Core Bond FI,financial services
+11,WACSX,Western Asset Core Bond IS,financial services
+12,WABRX,Western Asset Core Bond R,financial services
+13,WABCX,Western Asset Core Bond C,financial services
+14,WABAX,Western Asset Core Bond A,financial services
+15,VWETX,Vanguard Long-Term Investment-Grade Adm,financial services
+16,VWESX,Vanguard Long-Term Investment-Grade Inv,financial services
+17,VWEHX,Vanguard High-Yield Corporate Inv,financial services
+18,VWEAX,Vanguard High-Yield Corporate Adm,financial services
+19,VUSFX,Vanguard Ultra-Short-Term Bond Admiral,financial services
+20,VUBFX,Vanguard Ultra-Short-Term Bond Investor,financial services
+21,VFSUX,Vanguard Short Term Investment Grade Fund,financial services
+22,VFSTX,Vanguard Short Term Investment Grade Fund,financial services
+23,VFSIX,Vanguard Short Term Investment Grade Fund,financial services
+24,VFIDX,Vanguard Intermediate-Term Investment Grade Fund,financial services
+25,VFICX,Vanguard Intermediate-Term Investment Grade Fund,financial services
+26,VFAIX,Vanguard Financials Index Fund,financial services
+27,VCTPX,VALIC Company I Inflation Protected Fund,financial services
+28,VARCX,First Trust Merger Arbitrage Cl C,financial services
+29,VARBX,First Trust Merger Arbitrage Cl I,financial services
+30,VARAX,FirstTrust Merger Arbitrage Cl A,financial services
+31,USIBX,USAA Intermediate Term Bond Fund,financial services
+32,URIBX,Victory Core Plus Intermediate Bond Fund,financial services
+33,UMMGX,Columbia Bond Fund,financial services
+34,UMMDX,Columbia Bond Fund - S,financial services
+35,UITCX,Victory Core Plus Intermediate Bond Fund,financial services
+36,UITBX,Victory Core Plus Intermediate Bond Fund,financial services
+37,UIITX,Victory Core Plus Intermediate Bond Fund,financial services
+38,TTRBX,Ambrus Core Bond Institutional,financial services
+39,TSIDX,T. Rowe Price Short Duration Income I,financial services
+40,TSDLX,T. Rowe Price Short Duration Income Inv,financial services
+41,TSBZX,T. Rowe Price QM US Bond Index Z,financial services
+42,TSBLX,T. Rowe Price QM US Bond Index I,financial services
+43,TRZWX,T. Rowe Price Ultra Short-Term Bond Z,financial services
+44,TRZOX,T. Rowe Price Short-Term Bond Z,financial services
+45,TRZHX,T. Rowe Price Inflation Protected Bond Z,financial services
+46,TRTMX,Invesco Core Bond R5,financial services
+47,TRSTX,T. Rowe Price Ultra Short-Term Bond I,financial services
+48,TRECX,T. Rowe Price Emerging Mkts Corp Bd,financial services
+49,TRDZX,T. Rowe Price Dynamic Global Bond Z,financial services
+50,TRCDX,T. Rowe Price Dynamic Credit Z,financial services
+51,TRBUX,T. Rowe Price Ultra Short-Term Bond,financial services
+52,TIIPX,T. Rowe Price Inflation Protected Bond I,financial services
+53,THHYX,Toews Tactical Income Fund,financial services
+54,TFXIX,Transamerica Bond I,financial services
+55,TFSAX,American Beacon Funds - American Beacon Twentyfour Strategic Income Fund,financial services
+56,TFIFX,T. Rowe Price Financial Services I,financial services
+57,TFGYX,American Beacon Funds - American Beacon Twentyfour Strategic Income Fund,financial services
+58,TFGPX,American Beacon Funds - American Beacon Twentyfour Strategic Income Fund,financial services
+59,TFGIX,American Beacon Funds - American Beacon Twentyfour Strategic Income Fund,financial services
+60,TFGCX,American Beacon Funds - American Beacon Twentyfour Strategic Income Fund,financial services
+61,TECIX,T. Rowe Price Emerging Mkts Corp Bd I,financial services
+62,TCNBX,Fundvantage Trust - Ambrus Tax-Conscious National Bond Fund,financial services
+63,TCCBX,Fundvantage Trust - Ambrus Tax-Conscious California Bond Fund,financial services
+64,TBSIX,T. Rowe Price Short-Term Bond I,financial services
+65,TAFLX,Transamerica Bond R6,financial services
+66,TAADX,Transamerica Bond R,financial services
+67,SVARX,Spectrum Low Volatility Investor,financial services
+68,STYJX,Allspring Core Plus Bond Fund,financial services
+69,STYAX,Allspring Core Plus Bond Fund,financial services
+70,STBYX,Invesco Short Term Bond Fund,financial services
+71,STBRX,Invesco Short Term Bond Fund,financial services
+72,STBCX,Invesco Short Term Bond C,financial services
+73,STBAX,Invesco Short Term Bond A,financial services
+74,STAYX,SEI Tax-Advantaged Income Y (STET),financial services
+75,SRINX,Columbia Corporate Income Inst,financial services
+76,SRIJX,Columbia Corporate Income S,financial services
+77,SRBFX,Columbia Total Return Bond Inst,financial services
+78,SRBAX,Columbia Total Return Bond S,financial services
+79,SQBCX,Saratoga Investment Quality Bond C,financial services
+80,SQBAX,Saratoga Investment Quality Bond A,financial services
+81,SPGBX,Symmetry Panoramic Global Fixed Inc I,financial services
+82,SNIDX,Bernstein Intermediate Duration,financial services
+83,SITEX,SEI Emerging Markets Debt F (SIT),financial services
+84,SIIDX,Bernstein Intermediate Duration Instl,financial services
+85,SIFIX,SEI International Fixed Income Y (SIT),financial services
+86,SIEDX,SEI Emerging Markets Debt Y (SIT),financial services
+87,SIBPX,Saratoga Investment Quality Bond I,financial services
+88,SFSLX,1919 Financial Services Fund,financial services
+89,SFPIX,Saratoga Financial Services I,financial services
+90,SFPCX,Saratoga Financial Service C,financial services
+91,SFPAX,Saratoga Financial Service A,financial services
+92,SEIAX,SEI Multi-Asset Real Return A (SIIT),financial services
+93,SEFIX,SEI International Fixed Income F (SIT),financial services
+94,SEDAX,SEI Emerging Markets Debt A (SIIT),financial services
+95,SEATX,SEI Tax-Advantaged Income F (STET),financial services
+96,SBFAX,1919 Financial Services A,financial services
+97,RYKIX,Rydex Banking Inv,financial services
+98,RYKCX,Rydex Banking C,financial services
+99,RYKAX,Rydex Banking H,financial services
+100,RYFNX,Rydex Financial Services A,financial services
+101,RYFIX,Rydex Financial Services Inv,financial services
+102,RYFCX,Rydex Financial Services C,financial services
+103,RYFAX,Rydex Financial Services H,financial services
+104,RYBKX,Rydex Banking A,financial services
+105,RSYYX,Victory High Yield Y,financial services
+106,RSYTX,Russell Inv Strategic Bond M,financial services
+107,RSHRX,Columbia High Yield Bond Inst2,financial services
+108,RSBRX,Russell Inv Strategic Bond R6,financial services
+109,RPIEX,T. Rowe Price Dynamic Global Bond Inv,financial services
+110,RPIDX,T. Rowe Price Dynamic Credit,financial services
+111,RPHYX,RiverPark Short Term High Yield Retail,financial services
+112,RPHIX,RiverPark Short Term High Yield Instl,financial services
+113,RPFGX,Davis Financial A,financial services
+114,RPELX,T. Rowe Price Dynamic Credit I,financial services
+115,RPEIX,T. Rowe Price Dynamic Global Bond I,financial services
+116,ROBNX,Robinson Tax Advantaged Income Instl,financial services
+117,ROBCX,Robinson Tax Advantaged Income C,financial services
+118,ROBAX,Robinson Tax Advantaged Income A,financial services
+119,RNSIX,RiverNorth Doubleline Strategic Inc I,financial services
+120,RNOTX,RiverNorth/Oaktree High Income R,financial services
+121,RNHIX,RiverNorth/Oaktree High Income I,financial services
+122,RNDLX,RiverNorth Doubleline Strategic Inc R,financial services
+123,RMBNX,RMB Mendon Financial Services C,financial services
+124,RMBLX,RMB Mendon Financial Services I,financial services
+125,RMBKX,RMB Mendon Financial Services A,financial services
+126,RHYKX,Victory High Yield R,financial services
+127,RHYCX,Victory High Yield C,financial services
+128,RGOTX,Russell Investments Opportunistic Credit Fund,financial services
+129,RGCYX,Russell Inv Opportunistic Credit Y,financial services
+130,RGCSX,Russell Inv Opportunistic Credit S,financial services
+131,RGCCX,Russell Inv Opportunistic Credit C,financial services
+132,RGCAX,Russell Inv Opportunistic Credit A,financial services
+133,RFDAX,Russell Inv Strategic Bond A,financial services
+134,RFCYX,Russell Inv Strategic Bond Y,financial services
+135,RFCTX,Russell Inv Strategic Bond S,financial services
+136,RFCCX,Russell Inv Strategic Bond C,financial services
+137,RBNNX,Robinson Opportunistic Income Instl,financial services
+138,RBNCX,Robinson Opportunistic Income C,financial services
+139,RBNAX,Robinson Opportunistic Income A,financial services
+140,QMHRX,AQR Managed Futures Strategy HV R6,financial services
+141,QMHNX,AQR Managed Futures Strategy HV N,financial services
+142,QMHIX,AQR Managed Futures Strategy HV I,financial services
+143,QGMRX,AQR Macro Opportunities R6,financial services
+144,QGMNX,AQR Macro Opportunities N,financial services
+145,QGMIX,AQR Macro Opportunities I,financial services
+146,PWFAX,PACE Global Fixed Income Investments A,financial services
+147,PUTPX,PIMCO Low Duration Opportunities I-2,financial services
+148,PUTIX,PIMCO Low Duration Opportunities Instl,financial services
+149,PUFCX,PGIM Jennison Financial Services C,financial services
+150,PUCPX,PIMCO Dynamic Bond I-2,financial services
+151,PUBRX,PIMCO Dynamic Bond R,financial services
+152,PUBCX,PIMCO Dynamic Bond C,financial services
+153,PUBAX,PIMCO Dynamic Bond A,financial services
+154,PTCIX,PIMCO Long-Term Credit Bond Instl,financial services
+155,PSSRX,PGIM Jennison Financial Services R,financial services
+156,PSAIX,PIMCO Global Advantage Strategy Bd Instl,financial services
+157,PRWBX,T. Rowe Price Short-Term Bond,financial services
+158,PRTNX,PIMCO Real Return A,financial services
+159,PRTCX,PIMCO Real Return C,financial services
+160,PRRRX,PIMCO Real Return R,financial services
+161,PRRIX,PIMCO Real Return Instl,financial services
+162,PRNPX,PIMCO Real Return I-3,financial services
+163,PRLPX,PIMCO Real Return I2,financial services
+164,PRISX,T. Rowe Price Financial Services,financial services
+165,PRIPX,T. Rowe Price Inflation Protected Bd,financial services
+166,PNIIX,Principal Bond Market Index Instl,financial services
+167,PLCPX,PIMCO Long-Term Credit Bond I-2,financial services
+168,PISHX,Cohen & Steers Prfrd Secs & Inc SMA Shrs,financial services
+169,PGSAX,PIMCO Global Advantage Strategy Bd A,financial services
+170,PGNPX,PIMCO Global Bond Opportunities Fund (U.S. Dollar-Hedged),financial services
+171,PGBIX,PIMCO Global Bond Opportunities Fund (U.S. Dollar-Hedged),financial services
+172,PFUUX,PIMCO International Bond Fund (Unhedged),financial services
+173,PFUPX,PIMCO International Bond Fund (Unhedged),financial services
+174,PFUNX,PIMCO International Bond Fund (Unhedged),financial services
+175,PFUIX,PIMCO International Bond Fund (Unhedged),financial services
+176,PFUAX,PIMCO International Bond Fund (Unhedged),financial services
+177,PFSZX,PGIM Jennison Financial Services Fund,financial services
+178,PFSQX,PGIM Jennison Financial Services Fund,financial services
+179,PFSAX,PGIM Jennison Financial Services Fund,financial services
+180,PFRRX,PIMCO International Bond Fund (U.S. Dollar-Hedged),financial services
+181,PFRCX,PIMCO International Bond Fund (Unhedged),financial services
+182,PFRAX,PIMCO International Bond Fund (U.S. Dollar-Hedged),financial services
+183,PFPNX,PIMCO Preferred and Capital Securities Fund,financial services
+184,PFORX,PIMCO International Bond Fund (U.S. Dollar-Hedged),financial services
+185,PFONX,PIMCO International Bond Fund (U.S. Dollar-Hedged),financial services
+186,PFOCX,PIMCO International Bond Fund (U.S. Dollar-Hedged),financial services
+187,PFOAX,PIMCO International Bond Fund (U.S. Dollar-Hedged),financial services
+188,PFNUX,PIMCO Dynamic Bond Fund,financial services
+189,PFNNX,PIMCO Preferred and Capital Securities Fund,financial services
+190,PFIUX,PIMCO Dynamic Bond Fund,financial services
+191,PFINX,PIMCO Preferred and Capital Securities Fund,financial services
+192,PFCJX,PIMCO Preferred and Capital Securities Fund,financial services
+193,PFBPX,PIMCO International Bond Fund (U.S. Dollar-Hedged),financial services
+194,PFANX,PIMCO Preferred and Capital Securities Fund,financial services
+195,PDVPX,PIMCO Diversified Income Fund,financial services
+196,PDVAX,PIMCO Diversified Income Fund,financial services
+197,PDNIX,PIMCO Diversified Income Fund,financial services
+198,PDIIX,PIMCO Diversified Income Fund,financial services
+199,PDICX,PIMCO Diversified Income Fund,financial services
+200,PDHVX,PGIM Emerging Markets Debt Hard Ccy Z,financial services
+1,WSHNX,Weitz Short Duration Income Investor,real estate
+2,WMRIX,Wilmington Real Asset Institutional,real estate
+3,WMMRX,Wilmington Real Asset A,real estate
+4,WEFIX,Weitz Short Duration Income Instl,real estate
+5,WCPNX,Weitz Core Plus Income Investor,real estate
+6,WCPBX,Weitz Core Plus Income Institutional,real estate
+7,VRTPX,Vanguard Real Estate II Index,real estate
+8,VRREX,Virtus Duff & Phelps Real Estate Secs R6,real estate
+9,VRGEX,Virtus Duff & Phelps Glb Rl Estt Secs R6,real estate
+10,VREQX,NYLI CBRE Real Estate Class R6,real estate
+11,VGSNX,Vanguard Real Estate Index Institutional,real estate
+12,VGSLX,Vanguard Real Estate Index Admiral,real estate
+13,VGSIX,Vanguard Real Estate Index Investor,real estate
+14,VGSCX,Virtus Duff & Phelps Glb Rl Estt Secs C,real estate
+15,VGSAX,Virtus Duff & Phelps Glb Rl Estt Secs A,real estate
+16,VGRNX,Vanguard Global ex-US Real Est Idx Ins,real estate
+17,VGRLX,Vanguard Global ex-US Real Est Idx Adm,real estate
+18,VGREX,VALIC Company I Global Real Estate,real estate
+19,VGISX,Virtus Duff & Phelps Glb Rl Estt Secs I,real estate
+20,USHYX,Victory High Income Fund,real estate
+21,USAIX,Victory Income Fund,real estate
+22,URIFX,Victory Income Fund,real estate
+23,URHIX,Victory High Income Fund,real estate
+24,UINCX,Victory Income Fund,real estate
+25,UIINX,Victory Income Fund,real estate
+26,UIHIX,Victory High Income Fund,real estate
+27,TVRVX,Third Avenue Real Estate Value Fund,real estate
+28,TRRSX,Nuveen Real Estate Sec Sel Retire,real estate
+29,TRRPX,Nuveen Real Estate Sec Sel Premier,real estate
+30,TRREX,T. Rowe Price Real Estate,real estate
+31,TRGRX,T. Rowe Price Global Real Estate,real estate
+32,TIRRX,T. Rowe Price Real Estate I,real estate
+33,TIRHX,Nuveen Real Estate Sec Sel I,real estate
+34,TIRGX,T. Rowe Price Global Real Estate I,real estate
+35,TIREX,Nuveen Real Estate Sec Sel R6,real estate
+36,TGRYX,TCW Global Real Estate N,real estate
+37,TGREX,TCW Global Real Estate I,real estate
+38,TFSLX,Touchstone Flexible Income Instl,real estate
+39,TFAZX,Tactical Investment Series Trust - TFA Tactical Income Fund,real estate
+40,TCREX,Nuveen Real Estate Sec Sel A,real estate
+41,TARZX,Third Avenue Real Estate Value Z,real estate
+42,TAREX,Third Avenue Real Estate Value Instl,real estate
+43,SWASX,Schwab Global Real Estate,real estate
+44,STMOX,Sterling Capital Real Estate Fund,real estate
+45,STMMX,Sterling Capital Real Estate Fund,real estate
+46,STMDX,Sterling Capital Real Estate Fund,real estate
+47,SREZX,PGIM Select Real Estate Z,real estate
+48,SREYX,SEI Real Estate Y (SIMT),real estate
+49,SREQX,PGIM Select Real Estate R6,real estate
+50,SRECX,PGIM Select Real Estate C,real estate
+51,SREAX,PGIM Select Real Estate A,real estate
+52,SOIAX,Spirit of America Real Estate Inc&Gr Ins,real estate
+53,SOAAX,Spirit of America Real Estate Inc & Gr A,real estate
+54,SIIIX,AlphaCentric Real Income I,real estate
+55,SIICX,AlphaCentric Real Income C,real estate
+56,SIIAX,AlphaCentric Real Income A,real estate
+57,SHYPX,American Beacon SiM High Yld Opps Inv,real estate
+58,SHOYX,American Beacon SiM High Yld Opps Y,real estate
+59,SHOIX,American Beacon SiM High Yld Opps R5,real estate
+60,SHOCX,American Beacon SiM High Yld Opps C,real estate
+61,SHOAX,American Beacon SiM High Yld Opps A,real estate
+62,SFREX,Schwab Fundamental Global Real Estate Index Fund,real estate
+63,SETAX,SEI Institutional Managed Trust Real Estate Fund,real estate
+64,SEIRX,SEI Real Estate I (SIMT),real estate
+65,SCREX,MFS Variable Insurance Trust III - MFS Global Real Estate Portfolio,real estate
+66,SAREX,SA Real Estate Securities,real estate
+67,SACRX,Spirit of America Real Estate Inc&Gr C,real estate
+68,RYREX,Rydex Real Estate A,real estate
+69,RYHRX,Rydex Real Estate H,real estate
+70,RYCRX,Rydex Real Estate C,real estate
+71,RSIVX,RiverPark Strategic Income Retail,real estate
+72,RSIIX,RiverPark Strategic Income Institutional,real estate
+73,RRSRX,Russell Inv Global Real Estate Secs R6,real estate
+74,RRSCX,Russell Inv Global Real Estate Secs C,real estate
+75,RRRZX,DWS RREEF Real Estate Securities R6,real estate
+76,RRRSX,DWS RREEF Real Estate Securities R,real estate
+77,RRRRX,DWS RREEF Real Estate Securities Instl,real estate
+78,RRREX,DWS RREEF Real Estate Securities S,real estate
+79,RRRCX,DWS RREEF Real Estate Securities C,real estate
+80,RRRAX,DWS RREEF Real Estate Securities A,real estate
+81,RRGTX,DWS RREEF Global Real Estate Secc S,real estate
+82,RRGRX,DWS RREEF Global Real Estate Secc R6,real estate
+83,RRGIX,DWS RREEF Global Real Estate Secc Inst,real estate
+84,RRGCX,DWS RREEF Global Real Estate Secc C,real estate
+85,RRGAX,DWS RREEF Global Real Estate Secc A,real estate
+86,RREYX,Russell Inv Global Real Estate Secs Y,real estate
+87,RRESX,Russell Inv Global Real Estate Secs S,real estate
+88,RREAX,Russell Inv Global Real Estate Secs A,real estate
+89,RPFRX,Davis Real Estate A,real estate
+90,RLCIX,Lazard US High Yield Portfolio R6,real estate
+91,RGREX,Invesco Global Real Estate Fund,real estate
+92,RETTX,Russell Inv Global Real Estate Secs M,real estate
+93,REPSX,ProFunds Real Estate UltraSector Svc,real estate
+94,REPIX,ProFunds Real Estate UltraSector Inv,real estate
+95,REIZX,Third Avenue International Real Estate Value Fund,real estate
+96,REINX,Invesco Real Estate Fund,real estate
+97,REIIX,West Loop Realty Fund,real estate
+98,REIFX,Third Avenue International Real Estate Value Fund,real estate
+99,REICX,West Loop Realty Fund,real estate
+100,REIAX,West Loop Realty Fund,real estate
+101,REAIX,American Century Real Estate I,real estate
+102,REACX,American Century Real Estate Inv,real estate
+103,RCTIX,River Canyon Total Return Bond Instl,real estate
+104,RAAIX,Altegris/AACA Opportunistic Real Estt I,real estate
+105,RAACX,Altegris/AACA Opportunistic Real Estt C,real estate
+106,RAAAX,Altegris/AACA Opportunistic Real Estt A,real estate
+107,PZRMX,PIMCO Inflation Response Multi-Asst A,real estate
+108,PURZX,PGIM Global Real Estate Z,real estate
+109,PURRX,PGIM Global Real Estate R,real estate
+110,PURGX,PGIM Global Real Estate R4,real estate
+111,PUREX,PGIM Global Real Estate R2,real estate
+112,PURCX,PGIM Global Real Estate C,real estate
+113,PURAX,PGIM Global Real Estate A,real estate
+114,PTTRX,PIMCO Total Return Instl,real estate
+115,PTTPX,PIMCO Total Return I2,real estate
+116,PTTNX,PIMCO Total Return I-3,real estate
+117,PTTCX,PIMCO Total Return C,real estate
+118,PTTAX,PIMCO Total Return A,real estate
+119,PTRRX,PIMCO Total Return R,real estate
+120,PTRAX,PIMCO Total Return Admin,real estate
+121,PRRAX,Principal Real Estate Securities A,real estate
+122,PRKZX,PGIM Real Estate Income Z,real estate
+123,PRKQX,PGIM Real Estate Income R6,real estate
+124,PRKCX,PGIM Real Estate Income C,real estate
+125,PRKAX,PGIM Real Estate Income A,real estate
+126,PRERX,Principal Real Estate Securities R3,real estate
+127,PREQX,PACE Global Real Estate Securities P,real estate
+128,PREPX,Principal Real Estate Securities R5,real estate
+129,PREJX,Principal Real Estate Securities J,real estate
+130,PREAX,PACE Global Real Estate Securities A,real estate
+131,PRCEX,Principal Real Estate Securities C,real estate
+132,PPRMX,PIMCO Inflation Response Multi-Asst I2,real estate
+133,POSIX,Principal Global Real Estate Sec Instl,real estate
+134,POSAX,Principal Global Real Estate Sec A,real estate
+135,PMZPX,PIMCO Mortgage Opportunities and Bd I-2,real estate
+136,PMZNX,PIMCO Mortgage Opportunities and Bd I-3,real estate
+137,PMZIX,PIMCO Mortgage Opportunities and BdInstl,real estate
+138,PMZCX,PIMCO Mortgage Opportunities and Bd C,real estate
+139,PMZAX,PIMCO Mortgage Opportunities and Bd A,real estate
+140,PJEZX,PGIM US Real Estate Z,real estate
+141,PJEQX,PGIM US Real Estate R6,real estate
+142,PJECX,PGIM US Real Estate C,real estate
+143,PJEAX,PGIM US Real Estate A,real estate
+144,PIRMX,PIMCO Inflation Response MultiAsst Instl,real estate
+145,PIREX,Principal Real Estate Securities Inst,real estate
+146,PHRIX,Virtus Duff & Phelps Real Estate Secs I,real estate
+147,PHRCX,Virtus Duff & Phelps Real Estate Secs C,real estate
+148,PHRAX,Virtus Duff & Phelps Real Estate Secs A,real estate
+149,PGRUX,Principal Global Real Estate Sec R5,real estate
+150,PGRSX,Principal Global Real Estate Sec R6,real estate
+151,PGRQX,PGIM Global Real Estate R6,real estate
+152,PGRKX,Principal Global Real Estate Sec R3,real estate
+153,PFRSX,Principal Real Estate Securities Fd R6,real estate
+154,PFRMX,PIMCO Inflation Response Multi-Asset Fund,real estate
+155,PAREX,T. Rowe Price Real Estate Advisor,real estate
+156,PAGEX,T. Rowe Price Global Real Estate Adv,real estate
+157,OIOIX,AXS Income Opportunities I,real estate
+158,OIODX,AXS Income Opportunities D,real estate
+159,NRREX,Neuberger Berman Real Estate Fund,real estate
+160,NRFYX,Natixis Funds Trust IV AEW Global Focused Real Estate Fund,real estate
+161,NRFNX,Natixis AEW Global Focused Real Estate N,real estate
+162,NRFAX,Natixis AEW Global Focused Real Estate A,real estate
+163,NRERX,Neuberger Berman Real Estate R3,real estate
+164,NREEX,Neuberger Berman Real Estate E,real estate
+165,NRECX,Neuberger Berman Real Estate C,real estate
+166,NREAX,Neuberger Berman Real Estate A,real estate
+167,NRCFX,Natixis AEW Global Focused Real Estate C,real estate
+168,NMMGX,Northern Multi-Manager Glbl Real Estate,real estate
+169,NGREX,Northern Global Real Estate Index,real estate
+170,NGJIX,Nuveen Global Real Estate Securities I,real estate
+171,NGJFX,Nuveen Global Real Estate Securities R6,real estate
+172,NGJCX,Nuveen Global Real Estate Securities C,real estate
+173,NGJAX,Nuveen Global Real Estate Securities A,real estate
+174,NFIIX,Neuberger Berman Floating Rate Inc I,real estate
+175,NFICX,Neuberger Berman Floating Rate Inc C,real estate
+176,NFIAX,Neuberger Berman Floating Rate Inc A,real estate
+177,NBRIX,Neuberger Berman Real Estate I,real estate
+178,NBRFX,Neuberger Berman Real Estate Tr,real estate
+179,MXSFX,Empower Real Estate Index Instl,real estate
+180,MXREX,Empower Real Estate Index Inv,real estate
+181,MXIIX,Touchstone Flexible Income Y,real estate
+182,MWSTX,TCW MetWest Strategic Income M,real estate
+183,MWSIX,TCW MetWest Strategic Income I,real estate
+184,MWFSX,Metropolitan West Funds - Flexible Income Fund,real estate
+185,MWFEX,Metropolitan West Funds - Flexible Income Fund,real estate
+186,MWCRX,TCW MetWest Unconstrained Bd M,real estate
+187,MWCPX,TCW MetWest Unconstrained Bd Plan,real estate
+188,MWCIX,TCW MetWest Unconstrained Bd I,real estate
+189,MRESX,Cromwell CenterSquare Real Estate Inv,real estate
+190,MRASX,Cromwell CenterSquare Real Estate Inst,real estate
+191,MNHYX,Manning & Napier High Yield Bond S,real estate
+192,MNHAX,Manning & Napier High Yield Bond I,real estate
+193,MHYZX,Manning & Napier High Yield Bond Z,real estate
+194,MHYWX,Manning & Napier High Yield Bond W,real estate
+195,MGLRX,MFS Global Real Estate R6,real estate
+196,MGLMX,MFS Global Real Estate R4,real estate
+197,MGLLX,MFS Global Real Estate R3,real estate
+198,MGLKX,MFS Global Real Estate R2,real estate
+199,MGLJX,MFS Global Real Estate R1,real estate
+200,MGLIX,MFS Global Real Estate I,real estate
+1,VVITX,Voya VACS Series Hyb,consumer defensive
+2,VPHYX,Voya High Yield Bond P3,consumer defensive
+3,VHYRX,Voya High Yield Bond R6,consumer defensive
+4,VCSAX,Vanguard Consumer Staples Fund,consumer defensive
+5,SUNBX,Spectrum Unconstrained Investor,consumer defensive
+6,RYPDX,Rydex Consumer Products A,consumer defensive
+7,RYCPX,Rydex Consumer Products C,consumer defensive
+8,RYCIX,Rydex Consumer Products Inv,consumer defensive
+9,RYCAX,Rydex Consumer Products H,consumer defensive
+10,OSTIX,Osterweis Strategic Income,consumer defensive
+11,MSYEX,NYLI MacKay Strategic Bond Class R6,consumer defensive
+12,MSYDX,NYLI MacKay Strategic Bond Investor Cl,consumer defensive
+13,MSICX,NYLI MacKay Strategic Bond Class C,consumer defensive
+14,MSDIX,NYLI MacKay Strategic Bond Class I,consumer defensive
+15,MASAX,NYLI MacKay Strategic Bond Class A,consumer defensive
+16,IRSTX,Voya High Yield Bond R,consumer defensive
+17,IPYSX,Voya High Yield Port S2,consumer defensive
+18,IPYAX,Voya High Yield Port A,consumer defensive
+19,IPISX,Voya Intermediate Bond Port S,consumer defensive
+20,IPIMX,Voya High Yield Port I,consumer defensive
+21,IPIIX,Voya Intermediate Bond Port I,consumer defensive
+22,IPHYX,Voya High Yield Port S,consumer defensive
+23,IMYCX,Voya High Yield Bond C,consumer defensive
+24,IIBTX,Voya Intermediate Bond Port S2,consumer defensive
+25,IIBPX,Voya Intermediate Bond Port A,consumer defensive
+26,IHYWX,Voya High Yield Bond W,consumer defensive
+27,IHYPX,Voya High Yield Bond P,consumer defensive
+28,IHYIX,Voya High Yield Bond I,consumer defensive
+29,IHYAX,Voya High Yield Bond A,consumer defensive
+30,HTDRX,Tactical Dividend & Momentum R,consumer defensive
+31,HTDIX,Tactical Dividend & Momentum I,consumer defensive
+32,HTDCX,Tactical Dividend & Momentum C,consumer defensive
+33,HTDAX,Tactical Dividend & Momentum A,consumer defensive
+34,FSHNX,Fidelity Series High Income,consumer defensive
+35,FIJCX,Fidelity Advisor Consumer Staples Z,consumer defensive
+36,FEHRX,First Eagle High Yield Municipal R6,consumer defensive
+37,FEHIX,First Eagle High Yield Municipal I,consumer defensive
+38,FEHCX,First Eagle High Yield Municipal C,consumer defensive
+39,FEHAX,First Eagle High Yield Municipal A,consumer defensive
+40,FDTGX,Fidelity Advisor Consumer Staples M,consumer defensive
+41,FDIGX,Fidelity Advisor Consumer Staples I,consumer defensive
+42,FDFAX,Fidelity Select Consumer Staples Port,consumer defensive
+43,FDCGX,Fidelity Advisor Consumer Staples C,consumer defensive
+44,FDAGX,Fidelity Advisor Consumer Staples A,consumer defensive
+45,DEBTX,Shelton Tactical Credit Investor,consumer defensive
+46,DEBIX,Shelton Tactical Credit Institutional,consumer defensive
+47,DDJRX,Polen Opportunistic High Yield - Inv,consumer defensive
+48,DDJIX,Polen Opportunistic High Yield - Y,consumer defensive
+49,DDJCX,Polen Opportunistic High Yield - Ins,consumer defensive
+50,COBYX,The Cook & Bynum,consumer defensive
+51,CNPSX,Consumer Staples UltraSector ProFund Svc,consumer defensive
+52,CNPIX,Consumer Staples UltraSector ProFund Inv,consumer defensive
+53,AGDZX,AB High Income Z,consumer defensive
+54,AGDYX,AB High Income Advisor,consumer defensive
+55,AGDIX,AB High Income I,consumer defensive
+56,AGDCX,AB High Income C,consumer defensive
+57,AGDAX,AB High Income A,consumer defensive
+58,0P0001UDGL,-,consumer defensive
+59,0P0001TZTX,Man Hi Yld Opps I USD G-Dist Q H,consumer defensive
+60,0P0001TY4P,M&G (Lux) Glb HY Bd L USD Acc,consumer defensive
+61,0P0001TK36,-,consumer defensive
+62,0P0001TK35,-,consumer defensive
+63,0P0001TK34,-,consumer defensive
+64,0P0001SQG4,DNCA Invest Alpha Bonds H-WA US,consumer defensive
+65,0P0001SOY5,UBS (Lux) BS Global Dyn $ I-A1-,consumer defensive
+66,0P0001SIL2,DNCA Invest Alpha Bonds H-WAD U,consumer defensive
+67,0P0001RQQK,M&G (Lux) Global High Yield Bon,consumer defensive
+68,0P0001QYMF,Man Hi Yld Opps IV USD G-Dis H,consumer defensive
+69,0P0001QYME,Man Hi Yld Opps DV USD G-Dis H,consumer defensive
+70,0P0001QXTB,BlackRock Strategic Funds - Sustainable Fixed Income Strategies Fund,consumer defensive
+71,0P0001Q8X2,DNCA Invest Alpha Bonds H-WI USD,consumer defensive
+72,0P0001PO9S,Man Hi Yld Opps IU USD Acc H,consumer defensive
+73,0P0001PGLT,M&G (Lux) Sust Mac Flex Crdt WIH USD Acc,consumer defensive
+74,0P0001PGLR,M&G (Lux) Sust Mac Flex Crdt WH USD Acc,consumer defensive
+75,0P0001PGLP,M&G (Lux) Sust Mac Flex Crdt P2H USD Acc,consumer defensive
+76,0P0001OWW5,Man Hi Yld Opps DY H USD Fix-Dist MO,consumer defensive
+77,0P0001OV5P,BSF Sustainable FxIncStrats S2USDH,consumer defensive
+78,0P0001OBA5,Jupiter Dynamic Bond ESG D USD Acc HSC,consumer defensive
+79,0P0001O4FJ,M&G European HY Crdt Invm E USD HInc,consumer defensive
+80,0P0001O4FI,M&G European HY Crdt Invm E USD HAcc,consumer defensive
+81,0P0001O4FH,M&G European HY Crdt Invm A USD HInc,consumer defensive
+82,0P0001O4FG,M&G European HY Crdt Invm A USD HAcc,consumer defensive
+83,0P0001O4F4,M&G Total Return Crdt Invmt A USD H Inc,consumer defensive
+84,0P0001O030,Man Hi Yld Opps D USD Acc H,consumer defensive
+85,0P0001NJST,Man Hi Yld Opps DW USD Acc H,consumer defensive
+86,0P0001N3JX,La Fran√Ù°Ïaise Rendement Glb 2028 TD USD H,consumer defensive
+87,0P0001N3JW,La Fran√Ù°Ïaise Rendement Glb 2028 RD USD H,consumer defensive
+88,0P0001M9QE,Man Hi Yld Opps D USD Net-Dist MO H,consumer defensive
+89,0P0001M6AD,White Fleet II - Centrica Global Bond Fund,consumer defensive
+90,0P0001LQKJ,IVO Global Opportunities USD - I Cap Hdg,consumer defensive
+91,0P0001LMSY,UBS (Lux) BS Global Dyn $ K-B-acc,consumer defensive
+92,0P0001LJO6,La Fran√Ù°Ïaise Rendement Glb 2028 IC USD H,consumer defensive
+93,0P0001JXCJ,Man Hi Yld Opps IV USD Acc H,consumer defensive
+94,0P0001JXCI,Man Hi Yld Opps DV USD Acc H,consumer defensive
+95,0P0001JV07,Man Hi Yld Opps I USD Net-Dist MO H,consumer defensive
+96,0P0001JFVB,JSS Sustainable Bd Glb Hi Yld Y USD Dis,consumer defensive
+97,0P0001JDZK,UBS (Lux) BS Global Dyn $ I-B-acc,consumer defensive
+98,0P0001J4E2,BBVA DIF Stable Opportunity A USD,consumer defensive
+99,0P0001J444,UBS (Lux) BS Global Dyn $ I-A-acc,consumer defensive
+100,0P0001IPBY,BBVA DIF Stable Opportunity P USD,consumer defensive
+101,0P0001III5,UBS (Lux) BS Global Dyn $ P-4%-mdist,consumer defensive
+102,0P0001IB5F,UBS (Lux) BS Global Dyn $ Q-4%-mdist,consumer defensive
+103,0P0001FVBB,DNCA Invest Alpha Bonds HA USD,consumer defensive
+104,0P0001FKY7,Man Hi Yld Opps I USD Acc H,consumer defensive
+105,0P0001FIH1,JSS Sustainable Bd Glb Hi Yld Y USD Acc,consumer defensive
+106,0P0001F3D9,JSS Sust Total Return Global Y USD acc,consumer defensive
+107,0P0001ENAU,DNCA Invest Alpha Bonds H-I USD,consumer defensive
+108,0P0001E4OQ,UBS (Lux) BS Global Dyn $ K-X acc,consumer defensive
+109,0P0001DFJ2,M&G (Lux) Investment Funds 1 - M&G (Lux) Global High Yield Bond Fund,consumer defensive
+110,0P0001DFJ0,M&G (Lux) Investment Funds 1 - M&G (Lux) Global High Yield Bond Fund,consumer defensive
+111,0P0001DFIX,M&G (Lux) Investment Funds 1 - M&G (Lux) Global High Yield Bond Fund,consumer defensive
+112,0P0001DFIV,M&G (Lux) Investment Funds 1 - M&G (Lux) Global High Yield Bond Fund,consumer defensive
+113,0P0001DFEM,M&G (Lux) Investment Funds 1 - M&G (Lux) Global High Yield Bond Fund,consumer defensive
+114,0P0001DBM6,JSS Investmentfonds II - JSS Sustainable Bond - Global High Yield,consumer defensive
+115,0P0001DBM5,JSS Investmentfonds II - JSS Sustainable Bond - Global High Yield,consumer defensive
+116,0P0001DBM0,JSS Investmentfonds II - JSS Sustainable Bond - Global High Yield,consumer defensive
+117,0P0001DBLZ,JSS Investmentfonds II - JSS Sustainable Bond - Global High Yield,consumer defensive
+118,0P0001D17G,Jupiter Emerging Market Debt L USD Inc F,consumer defensive
+119,0P0001D17F,Jupiter Emerging MarketDebt C2 USD Inc F,consumer defensive
+120,0P0001CZYJ,La Fran√¡ß¡aise Rendement Glb 2025 RC USD H,consumer defensive
+121,0P0001CRIP,Ostrum Fxd Inc Mlt Strats I-NPF/A USD,consumer defensive
+122,0P0001CG5B,JSS Sustainable Bond - Total Return Global I USD dist,consumer defensive
+123,0P0001CEIX,DWS Invest Euro High Yield Corp USD TFCH,consumer defensive
+124,0P0001CEF3,BSF Sustainable FxIncStrats I2USDH,consumer defensive
+125,0P0001CE0R,La Fran√¡ß¡aise Rendement Global 2025,consumer defensive
+126,0P0001CDVY,La Fran√¡ß¡aise Rendement Global 2025,consumer defensive
+127,0P0001C8Z5,IVO Emerg Mrts Corp Debt USD I Acc HDG,consumer defensive
+128,0P0001C4MU,Auris Euro Rendement R USDH Acc,consumer defensive
+129,0P0001BKR1,La Fran√¡ß¡aise Rendement Glb 2025 D USD H,consumer defensive
+130,0P0001BIN3,Ostrum Fxd Inc Mlt Strats SI-NPF/A USD,consumer defensive
+131,0P0001AMJ8,JNL/Mellon Consumers Staples Sect I,consumer defensive
+132,0P0001AMJ7,JNL/Mellon Consumers Staples Sect A,consumer defensive
+133,0P00019VT7,Jupiter Global Fixed Inc L USD Inc F,consumer defensive
+134,0P00019VT2,Jupiter Em Mkt Dbt Inc L USD Inc (F),consumer defensive
+135,0P00019C6T,Jupiter Global Fixed Inc C2 USD Inc F,consumer defensive
+136,0P00018R0K,JSS Sust Total Return Global C USD Dis,consumer defensive
+137,0P00018OMR,JSS Sust Total Return Global Y USD Dis,consumer defensive
+138,0P00018J3K,JSS Sust Total Return Global C USD Acc,consumer defensive
+139,0P00017BIS,JSS Sust Total Return Global P USD Dis,consumer defensive
+140,0P00017BIR,JSS Sust Total Return Global P USD Acc,consumer defensive
+141,0P00017BIO,JSS Sust Total Return Global I USD Acc,consumer defensive
+142,0P00016HVX,UBS (Lux) BS Global Dyn $ Q-dist,consumer defensive
+143,0P00016HVW,UBS (Lux) BS Global Dyn $ Q-acc,consumer defensive
+144,0P00015FW7,BSF Sustainable FxIncStrats D3USDH,consumer defensive
+145,0P00015D5A,DWS Invest Euro High Yield Corp USD LDMH,consumer defensive
+146,0P00015CVK,M&G Total Return Crdt Invmt A USD H Acc,consumer defensive
+147,0P000159B4,Franklin Euro High Yield A(Mdis)USD-H1,consumer defensive
+148,0P000156ZR,Jupiter Global Fixed Inc N USD Acc,consumer defensive
+149,0P000156ZH,Jupiter Global Fixed Inc N USD Inc,consumer defensive
+150,0P00014ZD0,UBS (Lux) BS Global Dyn $ I-X-acc,consumer defensive
+151,0P00014IFJ,Chelverton Select Consumer Staples A USD,consumer defensive
+152,0P00014CGS,Bonafide Global Fish USD,consumer defensive
+153,0P00014753,BSF Sustainable FxIncStrats D2USDH,consumer defensive
+154,0P00013OUF,DWS Invest Euro High Yield Corp USD LCH,consumer defensive
+155,0P00013OUE,DWS Invest Euro High Yield Corp USD FCH,consumer defensive
+156,0P00013DC6,Scor ESG Euro High Yield C USD H,consumer defensive
+157,0P00012NF7,BSF Sustainable FxIncStrats A4USDH,consumer defensive
+158,0P00012NF6,BSF Sustainable FxIncStrats A2USDH,consumer defensive
+159,0P0000Z5IB,AGF Floating Rate Income F,consumer defensive
+160,0P0000Z5IA,AGF Floating Rate Income,consumer defensive
+161,0P0000YXE9,UBS (Lux) BS Global Dyn $ P-dist,consumer defensive
+162,0P0000YXE8,UBS (Lux) BS Global Dyn $ P-acc,consumer defensive
+163,0P0000V9D3,Jupiter EM Mkt Dbt Inc C USD Acc,consumer defensive
+164,0P0000UCA7,Jupiter Em Mkt Dbt Inc L USD Inc,consumer defensive
+165,0P0000UC9N,Jupiter EM Mkt Dbt Inc C USD Inc,consumer defensive
+166,0P0000SCQH,Jupiter EM Mkt Dbt Inc I USD Acc,consumer defensive
+167,0P0000SCQF,Jupiter Em Mkt Dbt Inc L USD Acc,consumer defensive
+168,0P0000NQ2C,Franklin Euro High Yield Fund A(Mdis)USD,consumer defensive
+169,0P0000K0QO,Jupiter Emerging Market Debt Fund I USD Acc,consumer defensive
+170,0P0000K0QD,Jupiter Global Fixed Inc I USD Acc,consumer defensive
+171,0P0000K0QC,Jupiter Emerging Market Debt Fund B USD Inc,consumer defensive
+172,0P0000K0QB,Jupiter Global Fixed Inc B USD Inc,consumer defensive
+173,0P0000JR4C,Jupiter Emerging Market Debt Fund C USD Inc,consumer defensive
+174,0P0000AB5D,Jupiter Emerging Market Debt L USD Inc,consumer defensive
+175,0P00008FPX,Jupiter Global Fixed Inc C USD Inc,consumer defensive
+176,0P00008FPW,Jupiter Global Fixed Inc L USD Inc,consumer defensive
+177,0P000013HY,Jupiter Global Fixed Inc B USD Acc,consumer defensive
+178,0P00000XYM,Jupiter Emerging Market Debt B USD Acc,consumer defensive
+179,0P00000T5F,Jupiter Em Mkts Dbt L USD Acc,consumer defensive
+180,0P00000T59,Jupiter Emerging Market Debt C USD Acc,consumer defensive
+181,0P00000T4F,Jupiter Global Fixed Inc C USD Acc,consumer defensive
+182,0P00000MMB,Jupiter Global Fixed Inc L USD Acc,consumer defensive
+1,WESRX,TETON Convertible Securities AAA,healthcare
+2,WESIX,TETON Convertible Securities I,healthcare
+3,WEICX,TETON Convertible Securities C,healthcare
+4,WEIAX,TETON Convertible Securities A,healthcare
+5,VRSFX,Virtus Newfleet Senior Floating Rate R6,healthcare
+6,VRHYX,Virtus Newfleet High Yield R6,healthcare
+7,VMFRX,Virtus Newfleet Multi-Sect Intrmdt Bd R6,healthcare
+8,VMFIX,Virtus Newfleet Multi-Sect Intrmdt Bd I,healthcare
+9,VHCIX,Vanguard Health Care Index Admiral,healthcare
+10,VGHCX,Vanguard Health Care Fund,healthcare
+11,VGHAX,Vanguard Health Care Fund,healthcare
+12,VBFRX,Virtus Newfleet Core Plus Bond Fund,healthcare
+13,THISX,T. Rowe Price Health Sciences I,healthcare
+14,SWHFX,Schwab Health Care,healthcare
+15,SUHIX,DWS Health and Wellness Fund,healthcare
+16,SUHCX,DWS Health and Wellness Fund,healthcare
+17,SUHAX,DWS Health and Wellness Fund,healthcare
+18,STIKX,Pioneer Short Term Income Fund,healthcare
+19,STIIX,Pioneer Short Term Income Fund,healthcare
+20,STABX,Pioneer Short Term Income A,healthcare
+21,SMCVX,ALPS/Smith Credit Opportunities Inv,healthcare
+22,SMCRX,ALPS/Smith Credit Opportunities I,healthcare
+23,SMCCX,ALPS/Smith Credit Opportunities C,healthcare
+24,SMCAX,ALPS/Smith Credit Opportunities A,healthcare
+25,SIHSX,Guggenheim High Yield C,healthcare
+26,SIHPX,Guggenheim High Yield P,healthcare
+27,SIHAX,Guggenheim High Yield A,healthcare
+28,SHYSX,Guggenheim High Yield R6,healthcare
+29,SHYIX,Guggenheim High Yield Inst,healthcare
+30,SHSSX,BlackRock Health Sciences Opps Instl,healthcare
+31,SHSKX,BlackRock Health Sciences Opps K,healthcare
+32,SHSCX,BlackRock Health Sciences Opps Inv C,healthcare
+33,SHSAX,BlackRock Health Sciences Opps Inv A,healthcare
+34,SHPCX,Saratoga Health & Biotechnology C,healthcare
+35,SHPAX,Saratoga Health & Biotechnology A,healthcare
+36,SHIYX,Western Asset Short Duration High Inc I,healthcare
+37,SHISX,BlackRock Health Sciences Opps Svc,healthcare
+38,SHICX,Western Asset Short Duration High Inc C1,healthcare
+39,SHIAX,Western Asset Short Duration High Inc A,healthcare
+40,SCHLX,DWS Health and Wellness S,healthcare
+41,SBHIX,Saratoga Health & Biotechnology I,healthcare
+42,SAVYX,Virtus Newfleet Core Plus Bond I,healthcare
+43,SAVCX,Virtus Newfleet Core Plus Bond C,healthcare
+44,SAVAX,Virtus Newfleet Core Plus Bond A,healthcare
+45,RYOIX,Rydex Biotechnology Inv,healthcare
+46,RYOAX,Rydex Biotechnology H,healthcare
+47,RYHIX,Rydex Health Care Inv,healthcare
+48,RYHEX,Rydex Health Care A,healthcare
+49,RYHCX,Rydex Health Care C,healthcare
+50,RYHAX,Rydex Health Care H,healthcare
+51,RYCFX,Rydex Biotechnology C,healthcare
+52,RYBOX,Rydex Biotechnology A,healthcare
+53,RPPVX,American Funds Preservation Port R1,healthcare
+54,RPPGX,American Funds Preservation Port R6,healthcare
+55,RPPFX,American Funds Preservation Port R5,healthcare
+56,RPPEX,American Funds Preservation Port R4,healthcare
+57,RPPCX,American Funds Preservation Port R3,healthcare
+58,RPPBX,American Funds Preservation Port R2,healthcare
+59,RPBEX,American Funds Preservation Port R2E,healthcare
+60,RGMFX,American Funds Preservation Portfolio,healthcare
+61,RCRYX,Pioneer Active Credit Fund Y,healthcare
+62,RCRCX,Pioneer Active Credit Fund C,healthcare
+63,RCRAX,Pioneer Active Credit Fund A,healthcare
+64,RCGHX,Virtus KAR Health Sciences C,healthcare
+65,RBFHX,American Funds The Bond Fund of America,healthcare
+66,RBFGX,American Funds The Bond Fund of America,healthcare
+67,RBFFX,American Funds The Bond Fund of America,healthcare
+68,RBFEX,American Funds The Bond Fund of America,healthcare
+69,RBFCX,American Funds The Bond Fund of America,healthcare
+70,RBFBX,American Funds The Bond Fund of America,healthcare
+71,RBFAX,American Funds The Bond Fund of America,healthcare
+72,RBEBX,American Funds The Bond Fund of America,healthcare
+73,RAGHX,Virtus KAR Health Sciences A,healthcare
+74,QGLDX,Gold Bullion Strategy Investor,healthcare
+75,QGLCX,Gold Bullion Strategy Advisor,healthcare
+76,PXHIX,Impax High Yield Bond Institutional,healthcare
+77,PXHAX,Impax High Yield Bond A,healthcare
+78,PSHYX,Pioneer Short Term Income Y,healthcare
+79,PSHCX,Pioneer Short Term Income C,healthcare
+80,PSFRX,Virtus Newfleet Senior Floating Rate A,healthcare
+81,PSFIX,Virtus Newfleet Senior Floating Rate I,healthcare
+82,PRHSX,T. Rowe Price Health Sciences,healthcare
+83,PPVFX,American Funds Preservation Port F1,healthcare
+84,PPVCX,American Funds Preservation Port C,healthcare
+85,PPVAX,American Funds Preservation Port A,healthcare
+86,PPFFX,American Funds Preservation Port F3,healthcare
+87,PPEFX,American Funds Preservation Port F2,healthcare
+88,PJHRX,PGIM Jennison Health Sciences R,healthcare
+89,PHYNX,Penn Capital Opportunistic High Inc Inst,healthcare
+90,PHSZX,PGIM Jennison Health Sciences Z,healthcare
+91,PHSYX,Putnam Global Health Care Y,healthcare
+92,PHSTX,Putnam Global Health Care A,healthcare
+93,PHSRX,Putnam Global Health Care R,healthcare
+94,PHSBX,Putnam Global Health Care B,healthcare
+95,PHPSX,ProFunds Pharmaceuticals UltraSector Svc,healthcare
+96,PHPIX,ProFunds Pharmaceuticals UltraSector Inv,healthcare
+97,PHLQX,PGIM Jennison Health Sciences R6,healthcare
+98,PHLCX,PGIM Jennison Health Sciences C,healthcare
+99,PHLAX,PGIM Jennison Health Sciences A,healthcare
+100,PHCIX,Virtus Newfleet High Yield I,healthcare
+101,PHCHX,Virtus Newfleet High Yield A,healthcare
+102,PGHCX,Virtus Newfleet High Yield Fund,healthcare
+103,PGHAX,Putnam Global Health Care Fund,healthcare
+104,PFSRX,Virtus Newfleet Senior Floating Rate Fund,healthcare
+105,PDFDX,Perkins Discovery Fund,healthcare
+106,PCHSX,Putnam Global Health Care C,healthcare
+107,PAXHX,Impax High Yield Bond Investor,healthcare
+108,NHFIX,Northern High Yield Fixed Income,healthcare
+109,NCMFX,Virtus Newfleet Multi-Sect Intrmdt Bd C,healthcare
+110,NAMFX,Virtus Newfleet Multi-Sect Intrmdt Bd A,healthcare
+111,MSVOX,"Morgan Stanley Institutional Fund, Inc. - Vitality Portfolio",healthcare
+112,MSVMX,"Morgan Stanley Institutional Fund, Inc. - Vitality Portfolio",healthcare
+113,MSVEX,"Morgan Stanley Institutional Fund, Inc. - Vitality Portfolio",healthcare
+114,MSVDX,"Morgan Stanley Institutional Fund, Inc. - Vitality Portfolio",healthcare
+115,MRRRX,MFS Total Return Bond R2,healthcare
+116,MRBKX,MFS Total Return Bond R6,healthcare
+117,MRBJX,MFS Total Return Bond R4,healthcare
+118,MRBIX,MFS Total Return Bond I,healthcare
+119,MRBHX,MFS Total Return Bond R3,healthcare
+120,MRBGX,MFS Total Return Bond R1,healthcare
+121,MRBFX,MFS Total Return Bond A,healthcare
+122,MRBCX,MFS Total Return Bond C,healthcare
+123,MRBBX,MFS Total Return Bond B,healthcare
+124,MIIIX,Praxis Impact Bond I,healthcare
+125,MIIAX,Praxis Impact Bond A,healthcare
+126,MFBKX,MFS Corporate Bond R6,healthcare
+127,MFBJX,MFS Corporate Bond R4,healthcare
+128,MFBHX,MFS Corporate Bond R3,healthcare
+129,MFBGX,MFS Corporate Bond R1,healthcare
+130,MFBFX,MFS Corporate Bond A,healthcare
+131,MFBCX,MFS Corporate Bond C,healthcare
+132,MFBBX,MFS Corporate Bond B,healthcare
+133,MBRRX,MFS Corporate Bond Fund,healthcare
+134,MBDIX,MFS Corporate Bond Fund,healthcare
+135,MAHIX,iMGP High Income Instl,healthcare
+136,LYFIX,AlphaCentric Life Sciences & Hlthcare I,healthcare
+137,LYFCX,AlphaCentric Life Sciences & Hlthcare C,healthcare
+138,LYFAX,AlphaCentric Life Sciences & Hlthcare A,healthcare
+139,LWSRX,Western Asset Short Duration High Income Fund,healthcare
+140,LWHIX,Western Asset Short Duration High Income Fund,healthcare
+141,LSYUX,Lord Abbett Short Duration High Yield R6,healthcare
+142,LSYTX,Lord Abbett Short Duration High Yield R5,healthcare
+143,LSYSX,Lord Abbett Short Duration High Yield R4,healthcare
+144,LSYQX,Lord Abbett Short Duration High Yield R3,healthcare
+145,LSYNX,Lord Abbett Short Duration High Yield F3,healthcare
+146,LSYIX,Lord Abbett Short Duration High Yield I,healthcare
+147,LSYFX,Lord Abbett Short Duration High Yield F,healthcare
+148,LSYCX,Lord Abbett Short Duration High Yield C,healthcare
+149,LSYAX,Lord Abbett Short Duration High Yield A,healthcare
+150,LSIGX,Loomis Sayles Investment Grade F/I,healthcare
+151,LSFYX,Loomis Sayles Sr Floating Rate and F/I Y,healthcare
+152,LSFNX,Loomis Sayles Sr Floating Rate and F/I N,healthcare
+153,LSFCX,Loomis Sayles Sr Floating Rate and F/I C,healthcare
+154,LSFAX,Loomis Sayles Sr Floating Rate and F/I A,healthcare
+155,LOGSX,Live Oak Health Sciences,healthcare
+156,LHCVX,Lord Abbett Health Care R6,healthcare
+157,LHCTX,Lord Abbett Health Care R5,healthcare
+158,LHCSX,Lord Abbett Health Care R4,healthcare
+159,LHCQX,Lord Abbett Health Care R3,healthcare
+160,LHCOX,Lord Abbett Health Care F3,healthcare
+161,LHCIX,Lord Abbett Health Care I,healthcare
+162,LHCFX,Lord Abbett Health Care F,healthcare
+163,LHCCX,Lord Abbett Health Care C,healthcare
+164,LHCAX,Lord Abbett Health Care A,healthcare
+165,JNGLX,Janus Henderson Global Life Sciences D,healthcare
+166,JMUTX,Janus Henderson Multi-Sector Income T,healthcare
+167,JMUSX,Janus Henderson Multi-Sector Income S,healthcare
+168,JMUIX,Janus Henderson Multi-Sector Income I,healthcare
+169,JMUDX,Janus Henderson Multi-Sector Income D,healthcare
+170,JMUCX,Janus Henderson Multi-Sector Income C,healthcare
+171,JMUAX,Janus Henderson Multi-Sector Income A,healthcare
+172,JMTNX,Janus Henderson Multi-Sector Income N,healthcare
+173,JFNSX,Janus Henderson Global Life Sciences Fund,healthcare
+174,JFNNX,Janus Henderson Global Life Sciences Fund Class N Shares,healthcare
+175,JFNIX,Janus Henderson Global Life Sciences Fund,healthcare
+176,JFNCX,Janus Henderson Global Life Sciences Fund,healthcare
+177,JFNAX,Janus Henderson Global Life Sciences Fund,healthcare
+178,JAGLX,Janus Henderson Global Life Sciences T,healthcare
+179,HYINX,Invesco High Yield Investor,healthcare
+180,HYIFX,Invesco High Yield R6,healthcare
+181,HSDYX,Hartford Short Duration Y,healthcare
+182,HSDVX,Hartford Short Duration R6,healthcare
+183,HSDTX,Hartford Short Duration R5,healthcare
+184,HSDSX,Hartford Short Duration R4,healthcare
+185,HSDRX,Hartford Short Duration R3,healthcare
+186,HSDIX,Hartford Short Duration I,healthcare
+187,HSDFX,Hartford Short Duration F,healthcare
+188,HSDCX,Hartford Short Duration C,healthcare
+189,HSDAX,Hartford Short Duration A,healthcare
+190,HLHIX,Virtus KAR Health Sciences Inst,healthcare
+191,HIAHX,Hartford Healthcare HLS IA,healthcare
+192,HGHYX,Hartford Healthcare Y,healthcare
+193,HGHVX,Hartford Healthcare R6,healthcare
+194,HGHTX,Hartford Healthcare R5,healthcare
+195,HGHSX,Hartford Healthcare R4,healthcare
+196,HGHRX,Hartford Healthcare R3,healthcare
+197,HGHIX,Hartford Healthcare I,healthcare
+198,HGHFX,Hartford Healthcare F,healthcare
+199,HGHCX,Hartford Healthcare C,healthcare
+200,HGHAX,Hartford Healthcare A,healthcare
+1,WUSTX,Allspring Ultra Short-Term Income C,utilities
+2,WUSNX,Allspring Ultra Short-Term Income A2,utilities
+3,WUSDX,Allspring Ultra Short-Term Income Adm,utilities
+4,WTAIX,Wilmington Municipal Bond Instl,utilities
+5,WTABX,Wilmington Municipal Bond A,utilities
+6,WSINX,Allspring Income Plus Inst,utilities
+7,WSIDX,Allspring Income Plus Admin,utilities
+8,WSICX,Allspring Income Plusl C,utilities
+9,WSIAX,Allspring Income Plus A,utilities
+10,WIORX,Wilshire Income Opportunities Invest,utilities
+11,WIOPX,Wilshire Income Opportunities Instl,utilities
+12,WFSHX,Allspring Short-Term Bd Pl C,utilities
+13,VVJGX,Voya Short Duration High Income C,utilities
+14,VVJDX,Voya Short Duration High Income R6,utilities
+15,VVJCX,Voya Short Duration High Income I,utilities
+16,VVJBX,Voya Short Duration High Income A,utilities
+17,VUIAX,Vanguard Utilities Index Adm,utilities
+18,VICIX,Victory Investment Grd Convert I,utilities
+19,VAADX,Virtus Convertible Fund,utilities
+20,UTPSX,ProFunds Utilities UltraSector Fund,utilities
+21,UTPIX,ProFunds Utilities UltraSector Fund,utilities
+22,TRZCX,T. Rowe Price Corporate Income Z,utilities
+23,TRIZX,T. Rowe Price Floating Rate Z,utilities
+24,TODCX,Touchstone Active Bond C,utilities
+25,TOBYX,Touchstone Active Bond Y,utilities
+26,TOBIX,Touchstone Active Bond Institutional,utilities
+27,TOBAX,Touchstone Active Bond A,utilities
+28,TIUSX,JHancock Investment Grade Bond I,utilities
+29,TICCX,T. Rowe Price Corporate Income I,utilities
+30,TFAIX,T. Rowe Price Floating Rate I,utilities
+31,TCUSX,JHancock Investment Grade Bond C,utilities
+32,TAUSX,JHancock Investment Grade Bond A,utilities
+33,SWSFX,Northern Ultra-Short Fixed Inc Sb Wl Sk,utilities
+34,SSTYX,Allspring Short-Term Bd Pl R6,utilities
+35,SSTVX,Allspring Short-Term Bd Pl A,utilities
+36,SSHIX,Allspring Short-Term Bd Pl Inst,utilities
+37,SOIUX,Spirit of America Utilts Inst,utilities
+38,SOCUX,Spirit of America Utilities C,utilities
+39,SOAUX,Spirit of America Utilities A,utilities
+40,SNTYX,Sit Tax-Free Income Y,utilities
+41,SNTIX,Sit Tax-Free Income,utilities
+42,SBFMX,Victory Investment Grd Convert Mb,utilities
+43,SBFCX,Victory Investment Grd Convert A,utilities
+44,SADIX,Allspring Ultra Short-Term Income Inst,utilities
+45,SADAX,Allspring Ultra Short-Term Income A,utilities
+46,RYUTX,Rydex Utilities A,utilities
+47,RYUIX,Rydex Utilities Inv,utilities
+48,RYCUX,Rydex Utilities C,utilities
+49,RYAUX,Rydex Utilities H,utilities
+50,RWSNX,"Two Roads Shared Trust - Redwood Systematic Macro Trend (""SMART"") Fund",utilities
+51,RWSIX,"Two Roads Shared Trust - Redwood Systematic Macro Trend (""SMART"") Fund",utilities
+52,RWMNX,Two Roads Shared Trust - Redwood Managed Municipal Income Fund,utilities
+53,RWMIX,Two Roads Shared Trust - Redwood Managed Municipal Income Fund,utilities
+54,RSDYX,Victory Low Duration Bond Y,utilities
+55,RQIIX,RESQ Strategic Income I,utilities
+56,RQIAX,RESQ Strategic Income A,utilities
+57,RPOIX,T. Rowe Price Global High Income Bond I,utilities
+58,RPIHX,T. Rowe Price Global High Income Bd,utilities
+59,RMMBX,Aspiriant Risk-Managed Municipal Bond,utilities
+60,RMDUX,American Funds Multi-Sector Income R-6,utilities
+61,RMDTX,American Funds Multi-Sector Income R-5,utilities
+62,RMDSX,American Funds Multi-Sector Income R-5E,utilities
+63,RMDRX,American Funds Multi-Sector Income R-4,utilities
+64,RMDQX,American Funds Multi-Sector Income R-3,utilities
+65,RMDPX,American Funds Multi-Sector Income R-2E,utilities
+66,RMDOX,American Funds Multi-Sector Income R-2,utilities
+67,RMDNX,American Funds Multi-Sector Income R-1,utilities
+68,RLDCX,Victory Low Duration Bond C,utilities
+69,RLDAX,Victory Low Duration Bond A,utilities
+70,RGSVX,ClearBridge Global Infrastructure Inc IS,utilities
+71,RGIVX,ClearBridge Global Infrastructure Inc I,utilities
+72,RGAVX,ClearBridge Global Infrastructure Inc A,utilities
+73,PTHIX,BNY Mellon High Yield - C,utilities
+74,PTEAX,Principal Tax-Exempt Bond A,utilities
+75,PTBCX,Principal Tax-Exempt Bond C,utilities
+76,PRVHX,Permanent Portfolio Versatile Bond C,utilities
+77,PRVDX,Permanent Portfolio Versatile Bond A,utilities
+78,PRVBX,Permanent Portfolio Versatile Bond I,utilities
+79,PRUZX,PGIM Jennison Utility Z,utilities
+80,PRUQX,PGIM Jennison Utility R6,utilities
+81,PRUAX,PGIM Jennison Utility A,utilities
+82,PRPIX,T. Rowe Price Corporate Income,utilities
+83,PRFRX,T. Rowe Price Floating Rate,utilities
+84,PRFCX,Principal Spectrum Pref&Cptl Scs IncC,utilities
+85,PRCCX,Putnam Convertible Securities C,utilities
+86,PPSJX,Principal Spectrum Pref&Cptl Scs IncJ,utilities
+87,PPSIX,Principal Spectrum Pref&Cptl Scs IncInst,utilities
+88,PPSAX,Principal Spectrum Pref&Cptl Scs IncA,utilities
+89,PPREX,Principal Spectrum Pref&Cptl Scs IncR6,utilities
+90,PPARX,Principal Spectrum Pref&Cptl Scs IncR5,utilities
+91,PNARX,Principal Spectrum Pref&Cptl Scs IncR3,utilities
+92,PITEX,Principal Tax-Exempt Bond Institutional,utilities
+93,PHIKX,Columbia Convertible Securities C,utilities
+94,PHEZX,PGIM Global Total Return (USD Hedged) Z,utilities
+95,PHEQX,PGIM Global Total Return (USD Hedged) R6,utilities
+96,PHECX,PGIM Global Total Return (USD Hedged) C,utilities
+97,PHEAX,PGIM Global Total Return (USD Hedged) A,utilities
+98,PCVRX,Putnam Convertible Securities Fund,utilities
+99,PCUFX,PGIM Jennison Utility Fund,utilities
+100,PCONX,Putnam Convertible Securities A,utilities
+101,PCNTX,Putnam Convertible Securities R6,utilities
+102,PCNIX,Putnam Convertible Securities I,utilities
+103,PCNBX,Putnam Convertible Securities B,utilities
+104,PCGYX,Putnam Convertible Securities Y,utilities
+105,PAIHX,T. Rowe Price Global High Income Bd Adv,utilities
+106,PAFRX,T. Rowe Price Floating Rate Adv,utilities
+107,PACIX,Columbia Convertible Securities A,utilities
+108,OWCIX,Old Westbury Credit Income,utilities
+109,NXOHX,Nuveen OH Municipal Bond I,utilities
+110,NVHIX,Nuveen Short Duration Hi Yld Muni Bd I,utilities
+111,NVHAX,Nuveen Short Duration Hi Yld Muni Bd A,utilities
+112,NVCCX,Nuveen Short Duration Hi Yld Muni Bd C,utilities
+113,NUVBX,Nuveen Intermediate Duration Muni Bd I,utilities
+114,NUSFX,Northern Ultra-Short Fixed Income,utilities
+115,NSIOX,Nuveen Strategic Municipal Opportunities Fund,utilities
+116,NSCOX,Nuveen Strategic Municipal Opportunities Fund,utilities
+117,NSAOX,Nuveen Strategic Municipal Opportunities Fund,utilities
+118,NNCCX,Nuveen Intermediate Duration Muni Bd C,utilities
+119,NMBAX,Nuveen Intermediate Duration Municipal Bond Fund,utilities
+120,NCIDX,Columbia Convertible Securities S,utilities
+121,NCIAX,Columbia Convertible Securities Inst,utilities
+122,NBPAX,Nuveen PA Municipal Bond I,utilities
+123,NALFX,New Alternatives A,utilities
+124,NAEFX,New Alternatives Investor,utilities
+125,NAAEX,Nuveen Short Term Municipal Bond C,utilities
+126,MURRX,MFS Utilities R2,utilities
+127,MUCYX,Victory Core Bond Y,utilities
+128,MUCRX,Victory Core Bond R6,utilities
+129,MUCCX,Victory Core Bond C,utilities
+130,MUCAX,Victory Core Bond A,utilities
+131,MPSAX,MassMutual Infl-Prot and Inc A,utilities
+132,MOFTX,Mercer Opportunistic Fixed Income I,utilities
+133,MOFIX,Mercer Opportunistic Fixed Income Y3,utilities
+134,MMUKX,MFS Utilities R6,utilities
+135,MMUJX,MFS Utilities R4,utilities
+136,MMUIX,MFS Utilities I,utilities
+137,MMUHX,MFS Utilities R3,utilities
+138,MMUGX,MFS Utilities R1,utilities
+139,MMUFX,MFS Utilities A,utilities
+140,MMUCX,MFS Utilities C,utilities
+141,MMUBX,MFS Utilities B,utilities
+142,MMODX,-,utilities
+143,MMHVX,NYLI MacKay High Yield Muni Bond Inv Cl,utilities
+144,MMHIX,NYLI MacKay High Yield Muni Bond Class I,utilities
+145,MMHEX,NYLI MacKay High Yield Muni Bond Cl R6,utilities
+146,MMHDX,NYLI MacKay High Yield Muni Bond Class C,utilities
+147,MMHAX,NYLI MacKay High Yield Muni Bond Class A,utilities
+148,MIPZX,MassMutual Infl-Prot and Inc I,utilities
+149,MIPYX,MassMutual Infl-Prot and Inc Svc,utilities
+150,MIPSX,MassMutual Infl-Prot and Inc R5,utilities
+151,MIPRX,MassMutual Infl-Prot and Inc R4,utilities
+152,MIPNX,MassMutual Infl-Prot and Inc R3,utilities
+153,MIPLX,MassMutual Infl-Prot and Inc Adm,utilities
+154,MIAZX,American Funds Multi-Sector Income Fund,utilities
+155,MIAYX,American Funds Multi-Sector Income Fund,utilities
+156,MIAWX,American Funds Multi-Sector Income Fund,utilities
+157,MIAUX,American Funds Multi-Sector Income Fund,utilities
+158,MIAQX,American Funds Multi-Sector Income Fund,utilities
+159,MDFIX,Matisse Discounted Bond CEF Strat Instl,utilities
+160,MCOAX,NYLI MacKay Convertible Class A,utilities
+161,MCNVX,NYLI MacKay Convertible Class I,utilities
+162,MCINX,NYLI MacKay Convertible Investor Class,utilities
+163,MCCVX,NYLI MacKay Convertible Class C,utilities
+164,LUBIX,Thrivent Income Fund,utilities
+165,LSIIX,Loomis Sayles Investment Grade Bond Y,utilities
+166,LOCFX,Lord Abbett Convertible F3,utilities
+167,LMAQX,BrandywineGLOBAL Alternative Credit C,utilities
+168,LMAPX,BrandywineGLOBAL Alternative Credit A,utilities
+169,LMAOX,BrandywineGLOBAL Alternative Credit FI,utilities
+170,LMANX,BrandywineGLOBAL Alternative Credit I,utilities
+171,LMAMX,BrandywineGLOBAL Alternative Credit IS,utilities
+172,LIGRX,Loomis Sayles Investment Grade Bond Fund,utilities
+173,LIGAX,Loomis Sayles Investment Grade Bond Fund,utilities
+174,LGBNX,Loomis Sayles Investment Grade Bond Fund,utilities
+175,LGBCX,Loomis Sayles Investment Grade Bond Fund,utilities
+176,LFLSX,BrandywineGLOBAL Flexible Bond IS,utilities
+177,LFLIX,BrandywineGLOBAL Flexible Bond I,utilities
+178,LFLCX,BrandywineGLOBAL Flexible Bond C,utilities
+179,LFLAX,BrandywineGLOBAL Flexible Bond A,utilities
+180,LCFYX,Lord Abbett Convertible I,utilities
+181,LCFVX,Lord Abbett Convertible R6,utilities
+182,LCFTX,Lord Abbett Convertible R5,utilities
+183,LCFSX,Lord Abbett Convertible R4,utilities
+184,LCFRX,Lord Abbett Convertible R3,utilities
+185,LCFPX,Lord Abbett Convertible P,utilities
+186,LBIIX,Thrivent Income S,utilities
+187,LBHYX,Thrivent High Yield A,utilities
+188,LBHIX,Thrivent High Yield S,utilities
+189,LBFFX,Lord Abbett Convertible F,utilities
+190,LBCQX,Lord Abbett Convertible R2,utilities
+191,LACFX,Lord Abbett Convertible A,utilities
+192,LACCX,Lord Abbett Convertible C,utilities
+193,JYHIX,JHancock High Yield I,utilities
+194,JSTIX,JHancock Income I,utilities
+195,JSTCX,JHancock Income C,utilities
+196,JSNWX,JHancock Income R6,utilities
+197,JSNVX,JHancock Income R5,utilities
+198,JSNSX,JHancock Income R2,utilities
+199,JSNFX,JHancock Income R4,utilities
+200,JMADX,JHancock Mgd Acct Shrs Non-IG CorpBdPort,utilities
+1,WFHYX,Allspring Short-Term Hi Inc C,communication services
+2,WDHYX,Allspring Short-Term Hi Inc Adm,communication services
+3,WCPSX,Communication Services UltraSectorProSvc,communication services
+4,WCPIX,Communication Services UltraSectorProInv,communication services
+5,VTCAX,Vanguard Communication Svcs Idx Admiral,communication services
+6,TRAZX,T. Rowe Price Instl Floating Rate Z,communication services
+7,TIYRX,Nuveen High Yield A,communication services
+8,TIIUX,Morgan Stanley Pathway Core F/ I,communication services
+9,TIHYX,Nuveen High Yield R6,communication services
+10,TIHWX,Nuveen High Yield W,communication services
+11,TIHRX,Nuveen High Yield R,communication services
+12,TIHPX,Nuveen High Yield Premier,communication services
+13,TIHHX,Nuveen High Yield I,communication services
+14,STYIX,Allspring Short-Term High Income Fund,communication services
+15,SSTHX,Allspring Short-Term Hi Inc A,communication services
+16,SKSRX,DWS Enhanced Commodity Strategy S,communication services
+17,SKRRX,DWS Enhanced Commodity Strategy R6,communication services
+18,SKNRX,DWS Enhanced Commodity Strategy A,communication services
+19,SKIRX,DWS Enhanced Commodity Strategy Inst,communication services
+20,SKCRX,DWS Enhanced Commodity Strategy C,communication services
+21,SFHIX,Shenkman Capital Floating Rt Hi Inc Inst,communication services
+22,SFHFX,Shenkman Capital Floating Rate High Income Fund,communication services
+23,SCFZX,Prudential Investment Portfolios 8 - PGIM Securitized Credit Fund,communication services
+24,SCFVX,Sterling Capital Funds - Sterling Capital SMID Opportunities Fund,communication services
+25,SCFQX,Sterling Capital Funds - Sterling Capital Diversified Income Fund,communication services
+26,SCFOX,PGIM Securitized Credit A,communication services
+27,RSFYX,Victory Floating Rate Y,communication services
+28,RSFMX,Victory Floating Rate Member,communication services
+29,RSFLX,Victory Floating Rate A,communication services
+30,RSFCX,Victory Floating Rate C,communication services
+31,RPIFX,T. Rowe Price Instl Floating Rate,communication services
+32,RIWTX,Russell Inv Investment Grade Bond M,communication services
+33,RIGRX,Russell Inv Investment Grade Bond R6,communication services
+34,RFRFX,Columbia Floating Rate Inst2,communication services
+35,RFRCX,Columbia Floating Rate C,communication services
+36,RFRAX,Columbia Floating Rate A,communication services
+37,RFAYX,Russell Inv Investment Grade Bond Y,communication services
+38,RFATX,Russell Inv Investment Grade Bond S,communication services
+39,RFACX,Russell Investments Investment Grade Bond Fund,communication services
+40,RFAAX,Russell Investments Investment Grade Bond Fund,communication services
+41,PWRIX,Donoghue Forlines Tactical Income I,communication services
+42,PWRCX,Donoghue Forlines Tactical Income C,communication services
+43,PWRAX,Donoghue Forlines Tactical Income A,communication services
+44,PUICX,Putnam Income C,communication services
+45,PPLZX,DWS Short Duration R6,communication services
+46,PPLCX,DWS Short Duration C,communication services
+47,PPILX,DWS Short Duration Inst,communication services
+48,PPIAX,DWS Short Duration A,communication services
+49,PNCYX,Putnam Income Y,communication services
+50,PNCMX,Putnam Income M,communication services
+51,PNCBX,Putnam Income B,communication services
+52,PLFRX,Aristotle Floating Rate Income I,communication services
+53,PLFLX,Aristotle Floating Rate Income A,communication services
+54,PLFDX,Aristotle Floating Rate Income I-2,communication services
+55,PLDCX,PIMCO Low Duration Income C-2,communication services
+56,PLBCX,Aristotle Floating Rate Income C,communication services
+57,PINHX,Putnam Income R6,communication services
+58,PINFX,Putnam Income R5,communication services
+59,PINCX,Putnam Income A,communication services
+60,PIFRX,Putnam Income R,communication services
+61,PGLBX,Putnam Global Income Trust,communication services
+62,PGGYX,Putnam Global Income Trust,communication services
+63,PGGLX,Putnam Global Income Trust,communication services
+64,PGGIX,Putnam Global Income Trust,communication services
+65,PGGEX,Putnam Global Income Trust,communication services
+66,PGGDX,Putnam Global Income Trust,communication services
+67,PGBRX,Putnam Global Income Trust,communication services
+68,PFTPX,PIMCO Low Duration Income Fund,communication services
+69,PFRZX,Putnam Floating Rate Income Fund,communication services
+70,PFRYX,Putnam Floating Rate Income Fund,communication services
+71,PFRBX,Putnam Floating Rate Income Fund,communication services
+72,PFNIX,PIMCO Low Duration Income Fund,communication services
+73,PFNCX,PIMCO Low Duration Income Fund,communication services
+74,PFLRX,Putnam Floating Rate Income Fund,communication services
+75,PFLLX,Putnam Floating Rate Income Fund,communication services
+76,PFIIX,PIMCO Low Duration Income Fund,communication services
+77,PFICX,Putnam Floating Rate Income Fund,communication services
+78,PFIAX,PIMCO Low Duration Income Fund,communication services
+79,PFFRX,T. Rowe Price Institutional Floating Rate Fund,communication services
+80,NEHYX,Loomis Sayles High Income Y,communication services
+81,NEHCX,Loomis Sayles High Income C,communication services
+82,NEFHX,Loomis Sayles High Income A,communication services
+83,NCSRX,Nuveen High Yield Income R6,communication services
+84,NCOIX,Nuveen High Yield Income I,communication services
+85,NCOAX,Nuveen High Yield Income A,communication services
+86,NCFCX,Nuveen High Yield Income C,communication services
+87,MXZMX,Empower Global Bond Institutional,communication services
+88,MXGBX,Empower Global Bond Investor,communication services
+89,MSPZX,MassMutual Total Return Bond I,communication services
+90,MSPSX,MassMutual Total Return Bond R5,communication services
+91,MSPNX,MassMutual Total Return Bond R3,communication services
+92,MSPLX,MassMutual Total Return Bond Adm,communication services
+93,MSPHX,MassMutual Total Return Bond Svc,communication services
+94,MSPGX,MassMutual Total Return Bond R4,communication services
+95,MPTRX,MassMutual Total Return Bond A,communication services
+96,MOGLX,Gabelli Media Mogul,communication services
+97,MLGLX,Gabelli Media Mogul A,communication services
+98,LSHNX,Loomis Sayles High Income N,communication services
+99,LSBRX,Loomis Sayles Bond Retail,communication services
+100,LSBNX,Loomis Sayles Bond N,communication services
+101,LSBDX,Loomis Sayles Bond Instl,communication services
+102,LRRVX,Lord Abbett Floating Rate R6,communication services
+103,LRRTX,Lord Abbett Floating Rate R5,communication services
+104,LRRRX,Lord Abbett Floating Rate R3,communication services
+105,LRRKX,Lord Abbett Floating Rate R4,communication services
+106,LFRRX,Lord Abbett Floating Rate R2,communication services
+107,LFROX,Lord Abbett Floating Rate F3,communication services
+108,LFRIX,Lord Abbett Floating Rate I,communication services
+109,LFRFX,Lord Abbett Floating Rate F,communication services
+110,LFRAX,Lord Abbett Floating Rate A,communication services
+111,LBFAX,Loomis Sayles Bond Admin,communication services
+112,LARCX,Lord Abbett Floating Rate C,communication services
+113,JFIRX,John Hancock Funds Floating Rate Income Fund,communication services
+114,JFIIX,John Hancock Funds Floating Rate Income Fund,communication services
+115,JFIHX,John Hancock Funds Floating Rate Income Fund,communication services
+116,JFIGX,John Hancock Funds Floating Rate Income Fund,communication services
+117,JFIDX,John Hancock Funds Floating Rate Income Fund,communication services
+118,JFIAX,John Hancock Funds Floating Rate Income Fund,communication services
+119,IFRWX,Voya Floating Rate W,communication services
+120,IFRRX,Voya Floating Rate R,communication services
+121,IFRIX,Voya Floating Rate I,communication services
+122,IFRCX,Voya Floating Rate C,communication services
+123,IFRAX,Voya Floating Rate A,communication services
+124,GTTIX,Gabelli Global Content & Connect I,communication services
+125,GTCCX,Gabelli Global Content & Connect C,communication services
+126,GTCAX,Gabelli Global Content & Connect A,communication services
+127,GSFRX,Goldman Sachs High Yield Fl Rate Instl,communication services
+128,GGNPX,Goldman Sachs High Yield Fl Rate P,communication services
+129,GGBFX,GuideStone Funds Global Bond Investor,communication services
+130,GGBEX,GuideStone Funds Global Bond Instl,communication services
+131,GFRSX,Goldman Sachs High Yield Fl Rate R6,communication services
+132,GFRRX,Goldman Sachs High Yield Fl Rate R,communication services
+133,GFRIX,Goldman Sachs High Yield Fl Rate Inv,communication services
+134,GFRCX,Goldman Sachs High Yield Fl Rate C,communication services
+135,GFRAX,Goldman Sachs High Yield Fl Rate A,communication services
+136,GABTX,Gabelli Global Content & Connect AAA,communication services
+137,FYHTX,Fidelity Commodity Strategy,communication services
+138,FULLX,Federated Hermes Ultrashort Bond R6,communication services
+139,FULIX,Federated Hermes Ultrashort Bond IS,communication services
+140,FULBX,Federated Hermes Ultrashort Bond Svc,communication services
+141,FULAX,Federated Hermes Ultrashort Bond A,communication services
+142,FTUTX,Fidelity Advisor Telecommunications M,communication services
+143,FTUIX,Fidelity Advisor Telecommunications I,communication services
+144,FTUCX,Fidelity Advisor Telecommunications C,communication services
+145,FTUAX,Fidelity Advisor Telecommunications A,communication services
+146,FSTCX,Fidelity Select Telecommunications Port,communication services
+147,FRSAX,Federated Hermes Float Rate Strat Inc A,communication services
+148,FIJGX,Fidelity Advisor Telecommunications Z,communication services
+149,FHISX,Federated Hermes Sust High Yield Bond IS,communication services
+150,FHIIX,Federated Hermes Sust High Yield Bond A,communication services
+151,FHICX,Federated Hermes Sust High Yield Bond C,communication services
+152,FHBRX,Federated Hermes Sust High Yield Bond R6,communication services
+153,FGKMX,Fidelity Advisor Communication ServicesZ,communication services
+154,FGJMX,Fidelity Advisor Communication ServicesI,communication services
+155,FGHMX,Fidelity Advisor Communication ServicesC,communication services
+156,FGEMX,Fidelity Advisor Communication ServicesM,communication services
+157,FGDMX,Fidelity Advisor Communication ServicesA,communication services
+158,FFRSX,Federated Hermes Float Rate Strat Inc IS,communication services
+159,FFRLX,Federated Hermes Float Rate Strat Inc R6,communication services
+160,FCSSX,Fidelity Series Commodity Strategy,communication services
+161,FBMPX,Fidelity Select Communication Services Portfolio,communication services
+162,EVBLX,Eaton Vance Floating Rate A,communication services
+163,ESFIX,Ashmore Emerging Markets Short Dur Instl,communication services
+164,ESFCX,Ashmore Emerging Markets Short Dur C,communication services
+165,ESFAX,Ashmore Emerging Markets Short Dur A,communication services
+166,ESBLX,Eaton Vance Floating Rate Fund,communication services
+167,EMKIX,Ashmore Emerging Markets Total Return Fund,communication services
+168,EMKCX,Ashmore Emerging Markets Total Return Fund,communication services
+169,EMKAX,Ashmore Emerging Markets Total Return Fund,communication services
+170,EIBLX,Eaton Vance Floating Rate I,communication services
+171,ECBLX,Eaton Vance Floating Rate C,communication services
+172,EABLX,Eaton Vance Floating Rate Fund,communication services
+173,DNAIX,Dunham Long/Short Credit Fund,communication services
+174,DFLYX,BNY Mellon Floating Rate Income Y,communication services
+175,DFLIX,BNY Mellon Floating Rate Income I,communication services
+176,DFLCX,BNY Mellon Floating Rate Income C,communication services
+177,DFLAX,BNY Mellon Floating Rate Income A,communication services
+178,DCAIX,Dunham Long/Short Credit Fund Class C,communication services
+179,DBPIX,DWS Short Duration S,communication services
+180,DABMX,BNY Mellon Yield Enhancement Strategy A,communication services
+181,DABLX,BNY Mellon Yield Enhancement Strategy C,communication services
+182,DABKX,BNY Mellon Yield Enhancement Strategy I,communication services
+183,DABJX,BNY Mellon Yield Enhancement Strategy Y,communication services
+184,DAAIX,Dunham Long/Short Credit Fund Class A,communication services
+185,CSIBX,Calvert Bond A,communication services
+186,CSHIX,Credit Suisse Floating Rate Hi Inc Instl,communication services
+187,CSDAX,Calvert Short Duration Income A,communication services
+188,CSBCX,Calvert Bond C,communication services
+189,COMZX,DWS Digital Horizons Inst,communication services
+190,COMSX,DWS Digital Horizons S,communication services
+191,COMAX,DWS Digital Horizons A,communication services
+192,CLDRX,Calvert Core Bond Income R6,communication services
+193,CLDIX,Calvert Core Bond I,communication services
+194,CLDAX,Calvert Core Bond A,communication services
+195,CHICX,Credit Suisse Floating Rate Hi Inc C,communication services
+196,CHIAX,Credit Suisse Floating Rate Hi Inc A,communication services
+197,CFRZX,Columbia Floating Rate Inst,communication services
+198,CFRYX,Columbia Floating Rate Inst3,communication services
+199,CFRIX,Catalyst/CIFC Senior Secured Income I,communication services
+200,CFRFX,Catalyst/CIFC Senior Secured Income C-1,communication services
+1,WWWFX,Kinetics Internet No Load,energy
+2,WWNPX,Kinetics Paradigm No Load,energy
+3,WTLTX,Segall Bryant & Hamill Qua Hi Yld Retail,energy
+4,WILTX,Segall Bryant & Hamill Qua Hi Yld Inst,energy
+5,WIBMX,Wilmington Broad Market Bond Instl,energy
+6,WAYRX,Western Asset High Yield R,energy
+7,WAYCX,Western Asset High Yield C,energy
+8,WAYAX,Western Asset High Yield A,energy
+9,WAHYX,Western Asset High Yield I,energy
+10,WAHSX,Western Asset High Yield IS,energy
+11,WAGIX,Western Asset Income IS,energy
+12,WABMX,Wilmington Broad Market Bond A,energy
+13,VMSSX,Virtus Newfleet Multi-Sector S/T Bd R6,energy
+14,VMSIX,Vanguard Multi-Sector Income Bond Inv,energy
+15,VMSAX,Vanguard Multi-Sector Income Bond Adm,energy
+16,VLPIX,Virtus Duff & Phelps Sel MLP & Engy I,energy
+17,VLPCX,Virtus Duff & Phelps Sel MLP & Engy C,energy
+18,VLPAX,Virtus Duff & Phelps Sel MLP & Engy A,energy
+19,VLDRX,Virtus Newfleet Low Dur Cor Pl Bd R6,energy
+20,VGENX,Vanguard Energy Fund,energy
+21,VGELX,Vanguard Energy Fund,energy
+22,VENAX,Vanguard Energy Index Fund,energy
+23,VCPIX,Vanguard Core-Plus Bond Fund,energy
+24,VCPAX,Vanguard Core-Plus Bond Fund,energy
+25,VCBDX,VALIC Company I Core Bond Fund,energy
+26,VAGIX,Value Line Core Bond Fund,energy
+27,TUNIX,Transamerica Strategic Income I,energy
+28,TUNAX,Transamerica Strategic Income A,energy
+29,TTIFX,Goldman Sachs Tactical Tilt OverlayInstl,energy
+30,TSRSX,Thornburg Strategic Income R6,energy
+31,TSRRX,Thornburg Strategic Income R5,energy
+32,TSRIX,Thornburg Strategic Income R4,energy
+33,TSIRX,Thornburg Strategic Income R3,energy
+34,TSIIX,Thornburg Strategic Income I,energy
+35,TSICX,Thornburg Strategic Income C,energy
+36,TSIAX,Thornburg Strategic Income A,energy
+37,TRNEX,T. Rowe Price New Era I,energy
+38,TREZX,T. Rowe Price Emerging Markets Bond Z,energy
+39,TORTX,Tortoise Energy Infrastructure TR A,energy
+40,TORIX,Tortoise Energy Infrastructure TR Ins,energy
+41,TORCX,Tortoise Energy Infrastructure TR C,energy
+42,TMLPX,Transamerica Energy Infrastructure I,energy
+43,TMLAX,Transamerica Energy Infrastructure A,energy
+44,TMCLX,Transamerica Energy Infrastructure C,energy
+45,TMAYX,Touchstone Funds Group Trust - Touchstone Credit Opportunities Fund,energy
+46,TMARX,Touchstone Funds Group Trust - Touchstone Credit Opportunities Fund,energy
+47,TMACX,Touchstone Funds Group Trust - Touchstone Credit Opportunities Fund,energy
+48,TINIX,Northern Lights Fund Trust III - Acm Tactical Income Fund,energy
+49,THYYX,Touchstone High Yield Y,energy
+50,THYUX,Morgan Stanley Pathway Hi Yld,energy
+51,THYTX,Transamerica High Yield Muni I2,energy
+52,THYIX,Transamerica High Yield Muni I,energy
+53,THYCX,Touchstone High Yield C,energy
+54,THYAX,Touchstone High Yield A,energy
+55,THLIX,Thrivent Short-Term Bond S,energy
+56,THIYX,Touchstone High Yield Institutional,energy
+57,THCYX,Transamerica High Yield Muni C,energy
+58,THAYX,Transamerica High Yield Muni A,energy
+59,TDHIX,Transamerica High Yield Bond I,energy
+60,TARBX,Touchstone Funds Group Trust - Touchstone Credit Opportunities Fund,energy
+61,TAHTX,Transamerica High Yield Bond I3,energy
+62,TAHRX,Transamerica High Yield Bond R,energy
+63,TAHFX,Transamerica High Yield Bond R4,energy
+64,TAHBX,Transamerica High Yield Bond R6,energy
+65,TAEDX,Transamerica Emerging Markets Debt R6,energy
+66,SSIZX,Ocean Park Tactical Core Income A,energy
+67,SSIRX,Ocean Park Tactical Core Income Instl,energy
+68,SSIIX,Ocean Park Tactical Core Income Inv,energy
+69,SSICX,Ocean Park Tactical Core Income C,energy
+70,SRBRX,Federated Hermes Shrt-Interm TR Bd R6,energy
+71,SPUBX,Symmetry Panoramic US Fixed Income I,energy
+72,SPNNX,Invesco SteelPath MLP Income R,energy
+73,SPMWX,Invesco SteelPath MLP Select 40 R,energy
+74,SPMVX,Invesco SteelPath MLP Select 40 R5,energy
+75,SPMQX,Invesco SteelPath MLP Income R5,energy
+76,SPMPX,Invesco SteelPath MLP Alpha Plus R5,energy
+77,SPMJX,Invesco SteelPath MLP Alpha Plus R,energy
+78,SPMHX,Invesco SteelPath MLP Alpha R5,energy
+79,SPMGX,Invesco SteelPath MLP Alpha R,energy
+80,SOAEX,Spirit of America Energy A,energy
+81,SMRPX,Westwood Salient MLP & Engy Infras Ultr,energy
+82,SMLPX,Westwood Salient MLP & Engy Infras Inst,energy
+83,SMFPX,Westwood Salient MLP & Engy Infras C,energy
+84,SMAPX,Westwood Salient MLP & Engy Infras A,energy
+85,SLIYX,SEI Multi-Asset Income Y (SIMT),energy
+86,SIOAX,SEI Multi-Asset Income F (SIMT),energy
+87,SFRZX,Virtus Seix Floating Rate High Income Fund,energy
+88,SFRCX,Virtus Seix Floating Rate High Inc C,energy
+89,SFRAX,Virtus Seix Floating Rate High Inc A,energy
+90,SFHYX,Hundredfold Select Alternative Svc,energy
+91,SEPIX,Saratoga Energy & Basic Materials I,energy
+92,SEPCX,Saratoga Energy & Basic Materials C,energy
+93,SDSYX,Western Asset Income I,energy
+94,SDSIX,Western Asset Income C1,energy
+95,SDSAX,Western Asset Income A,energy
+96,SDMZX,PGIM Short Duration Multi-Sector Bond Z,energy
+97,SDMQX,PGIM Short Duration Multi-Sector Bond R6,energy
+98,SDMCX,PGIM Short Duration Multi-Sector Bond C,energy
+99,SDMAX,PGIM Short Duration Multi-Sector Bond A,energy
+100,SBMBX,Saratoga Energy & Basic Materials A,energy
+101,SAMHX,Virtus Seix High Yield I,energy
+102,SAMBX,Virtus Seix Floating Rate High Inc I,energy
+103,SAIEX,Spirit of America Energy Institutional,energy
+104,SACEX,Spirit of America Energy C,energy
+105,RYVIX,Rydex Energy Services Inv,energy
+106,RYVCX,Rydex Energy Services C,energy
+107,RYVAX,Rydex Energy Services H,energy
+108,RYESX,Rydex Energy Services A,energy
+109,RYENX,Rydex Energy A,energy
+110,RYEIX,Rydex Energy Inv,energy
+111,RYECX,Rydex Energy C,energy
+112,RYEAX,Rydex Energy H,energy
+113,RTEHX,American Funds American High-Inc R2E,energy
+114,RSDTX,Russell Inv Short Duration Bond M,energy
+115,RSBYX,Russell Inv Short Duration Bond Y,energy
+116,RSBTX,Russell Inv Short Duration Bond A,energy
+117,RSBCX,Russell Inv Short Duration Bond C,energy
+118,RRFIX,Federated Hermes Inflation Ptctd Sec IS,energy
+119,RRFCX,Federated Hermes Inflation Ptctd Sec C,energy
+120,RRFAX,Federated Hermes Inflation Ptctd Sec A,energy
+121,RMLPX,Recurrent MLP & Infrastructure Class I,energy
+122,RMHYX,Russell Inv Long Duration Bond Y,energy
+123,RMHTX,Russell Inv Long Duration Bond M,energy
+124,RMHSX,Russell Inv Long Duration Bond S,energy
+125,RITHX,American Funds American High-Inc R5E,energy
+126,RITGX,American Funds American High-Inc R6,energy
+127,RITFX,American Funds American High-Inc R5,energy
+128,RITEX,American Funds American High-Inc R4,energy
+129,RITCX,American Funds American High-Inc R3,energy
+130,RITBX,American Funds American High-Inc R2,energy
+131,RITAX,American Funds American High-Inc R1,energy
+132,RIMOX,City National Rochdale Fixed Income Opportunities Fund,energy
+133,RFBSX,Russell Inv Short Duration Bond S,energy
+134,RDBRX,Russell Inv Short Duration Bond R6,energy
+135,RCMFX,Schwartz Value Focused,energy
+136,QMLFX,Quantified Market Leaders Investor,energy
+137,QMLAX,Quantified Market Leaders Advisor,energy
+138,QDIBX,Fisher IIG Fxd Inc for Ret Plns,energy
+139,PZTRX,PGIM Global Total Return Z,energy
+140,PYTRX,Putnam Core Bond Fund Y,energy
+141,PYRLX,Payden High Income Adv,energy
+142,PYILX,Payden Emerging Markets Local Bond SI,energy
+143,PYHRX,Payden High Income,energy
+144,PYELX,Payden Emerging Markets Local Bond Inv,energy
+145,PYCWX,Payden Core Bond Adviser,energy
+146,PYCSX,Payden Core Bond SI,energy
+147,PYCIX,Payden Emerging Markets Corp Bd SI,energy
+148,PYCHX,Payden High Income SI,energy
+149,PYCEX,Payden Emerging Markets Corp Bd Investor,energy
+150,PYCBX,Payden Core Bond,energy
+151,PYARX,Payden Absolute Return Bond Investor,energy
+152,PYAIX,Payden Absolute Return Bond SI,energy
+153,PYABX,Payden Absolute Return Bond Adv,energy
+154,PUCZX,PGIM Strategic Bond Z,energy
+155,PUCQX,PGIM Strategic Bond R6,energy
+156,PUCCX,PGIM Strategic Bond C,energy
+157,PUCAX,PGIM Strategic Bond A,energy
+158,PTRQX,PGIM Total Return Bond R6,energy
+159,PTRNX,Putnam Core Bond Fund A,energy
+160,PTRKX,Putnam Core Bond Fund R,energy
+161,PTRGX,Putnam Core Bond Fund C,energy
+162,PTREX,Putnam Core Bond Fund R6,energy
+163,PTRBX,Putnam Core Bond Fund B,energy
+164,PTIAX,Performance Trust Total Return Bd Inst,energy
+165,PTCOX,Performance Trust Total Return Bd C,energy
+166,PTAOX,Performance Trust Total Return Bd A,energy
+167,PSYPX,Palmer Square Income Plus,energy
+168,PSTPX,Palmer Square Income Plus T,energy
+169,PSTCX,Virtus Newfleet Multi-Sector S/T Bd C,energy
+170,PRXIX,T. Rowe Price Emerging Markets Bond I,energy
+171,PRPZX,PGIM Jennison Energy Infrastructure Z,energy
+172,PRPQX,PGIM Jennison Energy Infrastructure R6,energy
+173,PRPCX,PGIM Jennison Energy Infrastructure C,energy
+174,PRPAX,PGIM Jennison Energy Infrastructure A,energy
+175,PRNEX,T. Rowe Price New Era,energy
+176,PRHCX,PGIM High Yield C,energy
+177,PREMX,T. Rowe Price Emerging Markets Bond,energy
+178,PRBDX,Principal Core Plus Bond A,energy
+179,PNRZX,PGIM Jennison Natural Resources Z,energy
+180,PNRCX,PGIM Jennison Natural Resources C,energy
+181,PMUBX,Penn Mutual AM Strategic Income Fund I,energy
+182,PMSTX,Virtus Newfleet Multi-Sector S/T Bd C1,energy
+183,PMSIX,Principal Core Plus Bond Inst,energy
+184,PJNQX,PGIM Jennison Natural Resources R6,energy
+185,PIOQX,Principal Core Fixed Income R5,energy
+186,PIOOX,Principal Core Fixed Income R3,energy
+187,PIOJX,Principal Core Fixed Income J,energy
+188,PIOIX,Principal Core Fixed Income Instl,energy
+189,PIMSX,Virtus Newfleet Multi-Sector S/T Bd I,energy
+190,PICNX,Principal Core Fixed Income R6,energy
+191,PHYZX,PGIM High Yield Z,energy
+192,PHYUX,Putnam High Yield R6,energy
+193,PHYTX,Principal High Yield Inst,energy
+194,PHYSX,PIA High Yield Institutional,energy
+195,PHYRX,PIMCO High Yield R,energy
+196,PHYQX,PGIM High Yield R6,energy
+197,PHYPX,PACE High Yield P,energy
+198,PHYMX,Putnam High Yield M,energy
+199,PHYLX,Putnam High Yield C,energy
+200,PHYIX,Putnam High Yield A,energy
+1,VINAX,Vanguard Industrials Index Admiral,industrials
+2,TYHYX,Pioneer High Yield Fund,industrials
+3,TYHRX,Pioneer High Yield Fund,industrials
+4,TTRZX,Templeton Global Total Return Adv,industrials
+5,TTRCX,Templeton Global Total Return C,industrials
+6,TRVZX,T. Rowe Price New Income Z,industrials
+7,TRGAX,T. Rowe Price Global Industrials I,industrials
+8,TGTRX,Templeton Global Total Return A,industrials
+9,TFILX,T. Rowe Price Tax Free Income I,industrials
+10,TEDVX,Nuveen Emerging Markets Debt W,industrials
+11,TEDTX,Nuveen Emerging Markets Debt Retire,industrials
+12,TEDPX,Nuveen Emerging Markets Debt Premier,industrials
+13,TEDNX,Nuveen Emerging Markets Debt R6,industrials
+14,TEDLX,Nuveen Emerging Markets Debt A,industrials
+15,TEDHX,Nuveen Emerging Markets Debt I,industrials
+16,TAHYX,Pioneer High Yield A,industrials
+17,STRYX,Pioneer Strategic Income Fund,industrials
+18,STRKX,Pioneer Strategic Income Fund,industrials
+19,STIRX,Pioneer Strategic Income Fund,industrials
+20,SSIJX,American Beacon SSI Alternative Inc R5,industrials
+21,SEMPX,Medlst MBS Ttl Rtn Inv,industrials
+22,SEMOX,Medlst MBS Ttl Rtn A,industrials
+23,SEMMX,Medlst MBS Ttl Rtn Inst,industrials
+24,RRNIX,T. Rowe Price New Income R,industrials
+25,RPGIX,T. Rowe Price Global Industrials,industrials
+26,PYICX,Pioneer High Yield C,industrials
+27,PSRCX,Pioneer Strategic Income C,industrials
+28,PSRAX,Pioneer Strategic Income A,industrials
+29,PSCIX,American Beacon SSI Alternative Inc Y,industrials
+30,PSCAX,American Beacon SSI Alternative Inc Inv,industrials
+31,PRXEX,T. Rowe Price New Income I,industrials
+32,PRTAX,T. Rowe Price Tax-Free Income Inv,industrials
+33,PRCIX,T. Rowe Price New Income,industrials
+34,PLHYX,Aristotle High Yield Bond I-2,industrials
+35,PLHIX,Aristotle High Yield Bond I,industrials
+36,PLCHX,Aristotle High Yield Bond C,industrials
+37,PLAHX,Aristotle High Yield Bond A,industrials
+38,PIAMX,PIA High Yield (MACS) Mgd Acct Cmpltn,industrials
+39,PATAX,T. Rowe Price Tax-Free Income Adv,industrials
+40,PANIX,T. Rowe Price New Income Adv,industrials
+41,ORNYX,Invesco Rochester Municipal Opps Y,industrials
+42,ORNCX,Invesco Rochester Municipal Opps C,industrials
+43,ORNAX,Invesco Rochester Municipal Opps A,industrials
+44,OIFIX,Optimum Fixed Income Instl,industrials
+45,OCFIX,Optimum Fixed Income C,industrials
+46,OAFIX,Optimum Fixed Income A,industrials
+47,NWXHX,Nationwide Amundi Strat Inc Instl Svc,industrials
+48,NWXGX,Nationwide Amundi Strat Inc R6,industrials
+49,NWXEX,Nationwide Amundi Strat Inc A,industrials
+50,NSTTX,Neuberger Berman Strategic Income Fund,industrials
+51,NSTLX,Neuberger Berman Strategic Income Fund,industrials
+52,NSTCX,Neuberger Berman Strategic Income Fund,industrials
+53,NSTAX,Neuberger Berman Strategic Income Fund,industrials
+54,NRSIX,Neuberger Berman Strategic Income Fund,industrials
+55,NMVAX,Nuveen VA Municipal Bond I,industrials
+56,NMMDX,Nuveen Maryland Municipal Bond Fund,industrials
+57,NMDAX,Nuveen Maryland Municipal Bond Fund,industrials
+58,NCHRX,Nuveen CA High Yield Municipal Bond I,industrials
+59,NCHAX,Nuveen CA High Yield Municipal Bond A,industrials
+60,NAWSX,Nuveen CA High Yield Municipal Bond C,industrials
+61,NACCX,Nuveen MD Municipal Bond C,industrials
+62,MXFNX,NYLI Floating Rate Investor Class,industrials
+63,MXFMX,NYLI Floating Rate SIMPLE Class,industrials
+64,MXFIX,NYLI Floating Rate Class I,industrials
+65,MXFEX,NYLI Floating Rate Class R6,industrials
+66,MXFCX,NYLI Floating Rate Class C,industrials
+67,MXFAX,NYLI Floating Rate Class A,industrials
+68,MWHYX,TCW MetWest High Yield Bond M,industrials
+69,MWHIX,TCW MetWest High Yield Bond I,industrials
+70,LMSFX,Federated Hermes Municipal Bond A,industrials
+71,LMSCX,Federated Hermes Municipal Bond C,industrials
+72,LMFFX,Federated Hermes Municipal Bond F,industrials
+73,LMBIX,Federated Hermes Municipal Bond IS,industrials
+74,KTXIX,Commerce KS Tax Free Interm Bd,industrials
+75,KHYSX,DWS High Income S,industrials
+76,KHYQX,DWS High Income Fund,industrials
+77,KHYIX,DWS High Income Fund,industrials
+78,KHYCX,DWS High Income Fund,industrials
+79,KHYAX,DWS High Income Fund,industrials
+80,KBIWX,KBI Global Investors Aquarius Instl,industrials
+81,IORYX,Invesco Rochester Municipal Opps R6,industrials
+82,IORHX,Invesco Rochester Municipal Opps R5,industrials
+83,IDPSX,ProFunds Industrial Ultra Sector Svc,industrials
+84,IDPIX,ProFunds Industrial Ultra Sector Inv,industrials
+85,HOBIX,Holbrook Income I,industrials
+86,HOBEX,Holbrook Income Investor,industrials
+87,HOBAX,Holbrook Income A,industrials
+88,GEOSX,Pear Tree Funds - Pear Tree Essex Environmental Opportunities Fund,industrials
+89,GEORX,Pear Tree Essex Environmental Opps R6,industrials
+90,FVCCX,Nuveen VA Municipal Bond C,industrials
+91,FVATX,Nuveen VA Municipal Bond A,industrials
+92,FTTRX,Templeton Global Total Return R6,industrials
+93,FSRFX,Fidelity Select Transportation,industrials
+94,FSDAX,Fidelity Select Defense & Aerospace,industrials
+95,FRRGX,Templeton Global Total Return R,industrials
+96,FNMIX,Fidelity New Markets Income,industrials
+97,FLYRX,Pioneer Floating Rate Y,industrials
+98,FLRCX,Pioneer Floating Rate C,industrials
+99,FLOWX,Fidelity Water Sustainability,industrials
+100,FLARX,Pioneer Floating Rate A,industrials
+101,FIKEX,Fidelity Advisor Industrials Z,industrials
+102,FGZMX,Fidelity Advisor New Markets Income I,industrials
+103,FGYMX,Fidelity Advisor New Markets Income C,industrials
+104,FGWMX,Fidelity Advisor New Markets Income M,industrials
+105,FGVMX,Fidelity Advisor New Markets Income A,industrials
+106,FGBMX,Fidelity Advisor New Markets Income Z,industrials
+107,FEDCX,Fidelity Series Emerging Markets Debt,industrials
+108,FCYIX,Fidelity Select Industrials Portfolio,industrials
+109,FCLTX,Fidelity Advisor Industrials M,industrials
+110,FCLIX,Fidelity Advisor Industrials I,industrials
+111,FCLCX,Fidelity Advisor Industrials C,industrials
+112,FCLAX,Fidelity Advisor Industrials A,industrials
+113,FCFIX,Frost Credit Institutional,industrials
+114,FCFBX,Frost Credit Fund,industrials
+115,FCFAX,Frost Credit Fund,industrials
+116,EZNYX,Eaton Vance NY Municipal Opps C,industrials
+117,EXNYX,Eaton Vance NY Municipal Opps A,industrials
+118,ENYIX,Eaton Vance New York Municipal Opportunities Fund,industrials
+119,ENIAX,SEI Institutional Investments Trust Opportunistic Income Fund,industrials
+120,EMOIX,Eaton Vance Municipal Opportunities Fund,industrials
+121,EMOCX,Eaton Vance Municipal Opportunities Fund,industrials
+122,EMOAX,Eaton Vance Municipal Opportunities Fund,industrials
+123,EICAX,Eaton Vance CA Municipal Opportunities I,industrials
+124,EEOFX,Pear Tree Essex Environmental Opps Odnry,industrials
+125,ECCAX,Eaton Vance CA Municipal Opportunities C,industrials
+126,EACAX,Eaton Vance California Municipal Opportunities Fund,industrials
+127,DUGRX,Macquarie Strategic Income R,industrials
+128,DUGIX,Macquarie Strategic Income I,industrials
+129,DUGCX,Macquarie Strategic Income C,industrials
+130,DPZRX,Macquarie Diversified Income R6,industrials
+131,DPRFX,Macquarie Diversified Income R,industrials
+132,DPFFX,Macquarie Diversified Income Instl,industrials
+133,DPDFX,Macquarie Diversified Income A,industrials
+134,DPCFX,Macquarie Diversified Income C,industrials
+135,DEGGX,Macquarie Strategic Income A,industrials
+136,DEDIX,Macquarie Emerging Markets Debt Corp Ins,industrials
+137,DEDCX,Macquarie Emerging Markets Debt Corp C,industrials
+138,DEDAX,Macquarie Emerging Markets Debt Corp A,industrials
+139,CYBRX,Calvert High Yield Bond R6,industrials
+140,CYBIX,Calvert High Yield Bond I,industrials
+141,CYBAX,Calvert High Yield Bond A,industrials
+142,CHBCX,Calvert High Yield Bond C,industrials
+143,CFNLX,Commerce Natl Tax Free Interm Bd,industrials
+144,CFMOX,Commerce MO Tax-Free Int Bd,industrials
+145,AWTIX,Virtus Duff & Phelps Water Inst,industrials
+146,AWTCX,Virtus Duff & Phelps Water C,industrials
+147,AWTAX,Virtus Duff & Phelps Water A,industrials
+148,ANAZX,AB Global Bond Z,industrials
+149,ANAYX,AB Global Bond Advisor,industrials
+150,ANAIX,AB Global Bond I,industrials
+151,ANAGX,AB Global Bond A,industrials
+152,ANACX,AB Global Bond C,industrials
+153,0P0001UTBJ,Amundi Fds Pio Glb HY Bd A2 USD MD D,industrials
+154,0P0001UPOK,-,industrials
+155,0P0001UOXO,-,industrials
+156,0P0001U9R1,abrdn-Euro High Yield Bond AFxdMIncAHUSD,industrials
+157,0P0001TY3N,-,industrials
+158,0P0001TIKN,GFI Select Value C USD Acc,industrials
+159,0P0001TGWD,GFI Select Value A USD Inc,industrials
+160,0P0001T8QH,Algebris UCITS Funds plc - Alge,industrials
+161,0P0001T7IB,Impax EM Corporate Bond USD X Acc Hdgd,industrials
+162,0P0001SS7Q,Lemanik SICAV Spring Cap Retail USD,industrials
+163,0P0001SR0P,Edentree Green Future A USD Acc,industrials
+164,0P0001SFM6,Allianz Global Investors Fund -,industrials
+165,0P0001SC8J,Regnan Sust Water and Waste Y USD Acc,industrials
+166,0P0001SC8F,Regnan Sust Water and Waste B USD Acc,industrials
+167,0P0001SC8B,Regnan Sust Water and Waste A USD Acc,industrials
+168,0P0001S4RJ,Candriam Sustainable Bond Emerg,industrials
+169,0P0001S4RI,Candriam Sst Bd Em Mkts IP $ Ac,industrials
+170,0P0001RPOF,Barings Global Loan Tranche G1 USD Inc,industrials
+171,0P0001RKA5,Edentree Green Future Fund I US,industrials
+172,0P0001RJCJ,T. Rowe Price EM Bd Q1 USD,industrials
+173,0P0001RH75,Schroder ISF Circular Economy IZ Acc USD,industrials
+174,0P0001RH74,Schroder ISF Circular Economy I Acc USD,industrials
+175,0P0001RH73,Schroder ISF Circular Economy E Acc USD,industrials
+176,0P0001RH72,Schroder ISF Circular Economy C Dis USD,industrials
+177,0P0001RH71,Schroder ISF Circular Economy C Acc USD,industrials
+178,0P0001RH6X,Schroder ISF Circular Economy A Acc USD,industrials
+179,0P0001RH6W,Schroder ISF Circular Economy A Dis USD,industrials
+180,0P0001QYOR,Pictet-USD Government Bonds,industrials
+181,0P0001QTE7,KIM Global SpcTech and Dfns Mstr Eq USD,industrials
+182,0P0001QT94,Pictet-Emerging Local Currency Debt,industrials
+183,0P0001QT91,Pictet-Water,industrials
+184,0P0001QSND,Capital Group Global High Income Opportunities (LUX),industrials
+185,0P0001QGBI,SEB Eastern Eur. Small&Mid Cap 2 C (USD),industrials
+186,0P0001QBGO,Pictet-Emerging Local Ccy Dbt D USD,industrials
+187,0P0001QB3W,Allianz HKD Income AMg USD,industrials
+188,0P0001Q37B,Stone Harbor GF EmgMkts Dbt Blnd I $ Inc,industrials
+189,0P0001PRSP,Morgan Stanley Investment Funds - US High Yield Bond Fund,industrials
+190,0P0001PRSN,Morgan Stanley Investment Funds - US High Yield Bond Fund,industrials
+191,0P0001PRSM,Morgan Stanley Investment Funds - US High Yield Bond Fund,industrials
+192,0P0001PRSL,Morgan Stanley Investment Funds - US High Yield Bond Fund,industrials
+193,0P0001PRSK,Morgan Stanley Investment Funds - US High Yield Bond Fund,industrials
+194,0P0001PRSJ,Morgan Stanley Investment Funds - US High Yield Bond Fund,industrials
+195,0P0001PRSI,Morgan Stanley Investment Funds - US High Yield Bond Fund,industrials
+196,0P0001PMNZ,Edentree Green Future Fund B US,industrials
+197,0P0001PFOG,Robeco Sustainable Water Z USD Cap,industrials
+198,0P0001PD5A,Thematica - Renewable Future Fund,industrials
+199,0P0001PCBP,VP Bank Future Infrastructure Fd USD BI,industrials
+200,0P0001PAIL,VP Bank Future Infrastructure Fd USD IM,industrials
+1,WSTYX,Macquarie Science and Technology Y,technology
+2,WSTRX,Macquarie Science and Technology R,technology
+3,WSTCX,Macquarie Science and Technology C,technology
+4,WSTAX,Macquarie Science and Technology A,technology
+5,WMNUX,Westwood Alternative Income Ultra,technology
+6,WMNIX,Westwood Alternative Income Instl,technology
+7,WMNAX,Westwood Alternative Income A,technology
+8,WIREX,Wireless,technology
+9,VTILX,Vanguard Total Intl Bd II Idx Insl,technology
+10,VTIIX,Vanguard Total Intl Bd II Idx Investor,technology
+11,VTIFX,Vanguard Total Intl Bd Idx Institutional,technology
+12,VTIBX,Vanguard Total Intl Bd Idx Investor,technology
+13,VTABX,Vanguard Total Intl Bd Idx Admiral,technology
+14,VITAX,Vanguard Information Technology Idx Adm,technology
+15,VCSTX,VALIC Company I Science & Technology Fund,technology
+16,USTCX,Victory Science & Technology Fund,technology
+17,USSCX,Victory Science & Technology Fund,technology
+18,UPUPX,Upright Growth Fund,technology
+19,UPDDX,Upright Growth & Income,technology
+20,TUHYX,T. Rowe Price US High Yield,technology
+21,TUHIX,T. Rowe Price US High Yield I,technology
+22,TUHAX,T. Rowe Price US High Yield Advisor,technology
+23,TSNIX,T. Rowe Price Science & Tech I,technology
+24,TSAGX,Touchstone Large Company Growth A,technology
+25,TOWTX,MSS Series Trust - Towpath Technology Fund,technology
+26,TLGYX,Touchstone Large Company Growth Y,technology
+27,TIORX,Nuveen Core Bond A,technology
+28,TIDRX,Nuveen Core Bond R,technology
+29,TIDPX,Nuveen Core Bond Premier,technology
+30,TIBHX,Nuveen Core Bond I,technology
+31,TIBFX,Nuveen Core Plus Bond R6,technology
+32,TIBDX,Nuveen Core Bond R6,technology
+33,TGJNX,"TCW Funds, Inc. - TCW Artificial Intelligence Equity Fund",technology
+34,TGHNX,TCW ETF Trust - TCW High Yield Bond ETF,technology
+35,TFLIX,Transamerica Floating Rate I,technology
+36,TFLCX,Transamerica Floating Rate C,technology
+37,TFLAX,Transamerica Floating Rate A,technology
+38,TEPSX,ProFunds Technology UltraSector Svc,technology
+39,TEPIX,ProFunds Technology UltraSector Inv,technology
+40,TEFQX,Firsthand Technology Opportunities,technology
+41,TECHX,WisdomTree Digital Trust - WisdomTree Technology and Innovation 100 Digital Fund,technology
+42,TCGLX,Touchstone Large Company Growth C,technology
+43,TCBWX,Nuveen Core Plus Bond W,technology
+44,TCBRX,Nuveen Core Plus Bond R,technology
+45,TCBPX,Nuveen Core Plus Bond A,technology
+46,TCBHX,Nuveen Core Plus Bond I,technology
+47,TBPPX,Nuveen Core Plus Bond Premier,technology
+48,TBBWX,Nuveen Core Bond W,technology
+49,STPIX,Saratoga Technology & Communications Portfolio,technology
+50,STPCX,Saratoga Technology & Communications Portfolio,technology
+51,STPAX,Saratoga Technology & Communications Portfolio,technology
+52,SPTCX,SP Funds 2050 Target Date Investor,technology
+53,SPTBX,SP Funds 2040 Target Date Investor,technology
+54,SMPSX,ProFunds Semiconductor UltraSector Svc,technology
+55,SMPIX,ProFunds Semiconductor UltraSector Inv,technology
+56,SLMCX,Columbia Seligman Tech & Info A,technology
+57,SIUSX,Guggenheim Core Bond Fund A,technology
+58,SIUPX,Guggenheim Core Bond Fund P,technology
+59,SHTCX,Columbia Seligman Global Tech C,technology
+60,SHGTX,Columbia Seligman Global Tech A,technology
+61,SGTTX,Columbia Seligman Global Tech Inst2,technology
+62,SGTRX,Columbia Seligman Global Tech R,technology
+63,SDICX,Guggenheim Core Bond Fund C,technology
+64,SCMIX,Columbia Seligman Tech & Info Inst2,technology
+65,SCIRX,Columbia Seligman Tech & Info R,technology
+66,SCICX,Columbia Seligman Tech & Info C,technology
+67,SAPEX,Spectrum Active Advantage Investor,technology
+68,RYTIX,Rydex Technology Inv,technology
+69,RYTHX,Rydex Technology A,technology
+70,RYTAX,Rydex Technology H,technology
+71,RYSIX,Rydex Electronics Inv,technology
+72,RYSCX,Rydex Electronics C,technology
+73,RYSAX,Rydex Electronics H,technology
+74,RYELX,Rydex Electronics A,technology
+75,RYCHX,Rydex Technology C,technology
+76,ROGSX,Red Oak Technology Select,technology
+77,RCGTX,Virtus Zevenbergen Technology C,technology
+78,RANJX,American Funds Strategic Bond R-5E,technology
+79,RANHX,American Funds Strategic Bond R-2E,technology
+80,RANGX,American Funds Strategic Bond R-6,technology
+81,RANFX,American Funds Strategic Bond R-5,technology
+82,RANEX,American Funds Strategic Bond Fund,technology
+83,RANCX,American Funds Strategic Bond Fund,technology
+84,RANBX,American Funds Strategic Bond Fund,technology
+85,RANAX,American Funds Strategic Bond Fund,technology
+86,RAGTX,Virtus Zevenbergen Technology A,technology
+87,QTSSX,Quantified Tactical Sectors Investor,technology
+88,PTTEX,Putnam Global Technology R6,technology
+89,PRSCX,T. Rowe Price Science & Tech,technology
+90,PRGTX,T. Rowe Price Global Technology,technology
+91,PGTYX,Putnam Global Technology Y,technology
+92,PGTRX,Putnam Global Technology R,technology
+93,PGTIX,T. Rowe Price Global Technology I,technology
+94,PGTDX,Putnam Global Technology C,technology
+95,PGTAX,Putnam Global Technology A,technology
+96,PGKZX,Prudential Investment Portfolios 12 - PGIM Jennison Technology Fund,technology
+97,PGKRX,PGIM Jennison Technology R6,technology
+98,PGKCX,PGIM Jennison Technology C,technology
+99,PGKAX,PGIM Jennison Technology A,technology
+100,PASTX,T. Rowe Price Science & Tech Adv,technology
+101,OPGIX,Invesco Global Opportunities A,technology
+102,ONERX,One Rock,technology
+103,OGIYX,Invesco Global Opportunities Y,technology
+104,OGINX,Invesco Global Opportunities R,technology
+105,OGIIX,Invesco Global Opportunities R6,technology
+106,OGICX,Invesco Global Opportunities C,technology
+107,NWSIX,Nationwide Small Company Growth InSvc,technology
+108,NWSAX,Nationwide Small Company Growth A,technology
+109,NWJFX,Nationwide NYSE Arca Tech 100 Idx InsSvc,technology
+110,NWJEX,Nationwide NYSE Arca Tech 100 Idx R6,technology
+111,NWJCX,Nationwide NYSE Arca Tech 100 Idx A,technology
+112,NWHUX,Nationwide Bailard Tech & Sci Instl Svc,technology
+113,NWHTX,Nationwide Bailard Tech & Sci R6,technology
+114,NWHQX,Nationwide Bailard Tech & Sci M,technology
+115,NWHOX,Nationwide Bailard Tech & Sci A,technology
+116,NESIX,Needham Small Cap Growth Institutional,technology
+117,NESGX,Needham Small Cap Growth Retail,technology
+118,NEEIX,Needham Growth Institutional,technology
+119,NEEGX,Needham Growth Retail,technology
+120,NEAIX,Needham Aggressive Growth Institutional,technology
+121,NEAGX,Needham Aggressive Growth Retail,technology
+122,MXIUX,Empower Core Bond Instl,technology
+123,MXFDX,Empower Core Bond Inv,technology
+124,MTERX,MFS Technology R2,technology
+125,MTCLX,MFS Technology R6,technology
+126,MTCKX,MFS Technology R1,technology
+127,MTCJX,MFS Technology R4,technology
+128,MTCIX,MFS Technology I,technology
+129,MTCHX,MFS Technology R3,technology
+130,MTCCX,MFS Technology C,technology
+131,MTCBX,MFS Technology B,technology
+132,MTCAX,MFS Technology A,technology
+133,MDCEX,Matisse Discounted Closed-End Fund Strategy,technology
+134,MCIFX,Miller Convertible Bond Fund,technology
+135,MCFCX,Miller Convertible Bond Fund,technology
+136,MCFAX,Miller Convertible Bond Fund,technology
+137,LIOTX,Issachar Fund,technology
+138,LIONX,Issachar Fund,technology
+139,LGLVX,Lord Abbett Growth Leaders Fund,technology
+140,LGLUX,Lord Abbett Growth Leaders Fund,technology
+141,LGLSX,Lord Abbett Growth Leaders Fund,technology
+142,LGLRX,Lord Abbett Growth Leaders Fund,technology
+143,LGLQX,Lord Abbett Growth Leaders Fund,technology
+144,LGLOX,Lord Abbett Growth Leaders Fund,technology
+145,LGLIX,Lord Abbett Growth Leaders Fund,technology
+146,LGLFX,Lord Abbett Growth Leaders Fund,technology
+147,LGLCX,Lord Abbett Growth Leaders Fund,technology
+148,LGLAX,Lord Abbett Growth Leaders Fund,technology
+149,LFGVX,Lord Abbett Focused Growth R6,technology
+150,LFGTX,Lord Abbett Focused Growth R5,technology
+151,LFGSX,Lord Abbett Focused Growth R4,technology
+152,LFGQX,Lord Abbett Focused Growth R3,technology
+153,LFGOX,Lord Abbett Focused Growth F3,technology
+154,LFGIX,Lord Abbett Focused Growth I,technology
+155,LFGFX,Lord Abbett Focused Growth F,technology
+156,LFGCX,Lord Abbett Focused Growth C,technology
+157,LFGAX,Lord Abbett Focused Growth A,technology
+158,KTCSX,DWS Science and Technology S,technology
+159,KTCIX,DWS Science and Technology Inst,technology
+160,KTCCX,DWS Science and Technology C,technology
+161,KTCAX,DWS Science and Technology A,technology
+162,JNGTX,Janus Henderson Glb Tech and Innovt D,technology
+163,JGLTX,Janus Henderson VIT Global Technology and Innovation Portfolio,technology
+164,JATSX,Janus Henderson Global Technology and Innovation Fund,technology
+165,JATNX,Janus Henderson Global Technology and Innovation Fund,technology
+166,JATIX,Janus Henderson Global Technology and Innovation Fund,technology
+167,JATAX,Janus Henderson Global Technology and Innovation Fund,technology
+168,JAGTX,Janus Henderson Glb Tech and Innovt T,technology
+169,JAGCX,Janus Henderson Glb Tech and Innovt C,technology
+170,ITYYX,Invesco Technology Y,technology
+171,ITYAX,Invesco Technology A,technology
+172,ITHCX,Invesco Technology C,technology
+173,ISTNX,Macquarie Science and Technology R6,technology
+174,ISTIX,Macquarie Science and Technology I,technology
+175,ICTTX,ICON Health and Information Tech Inv,technology
+176,ICTEX,ICON Health and Information Tech Instl,technology
+177,HTECX,Hennessy Technology Investor,technology
+178,HTCIX,Hennessy Technology Institutional,technology
+179,GTORX,Goldman Sachs Technology Opps R6,technology
+180,GSJPX,Goldman Sachs Technology Opps P,technology
+181,GOFFX,Invesco Global Opportunities R5,technology
+182,GIUSX,Guggenheim Core Bond Fund Institutional,technology
+183,GITSX,Goldman Sachs Technology Opps Svc,technology
+184,GITIX,Goldman Sachs Technology Opps Inst,technology
+185,GITCX,Goldman Sachs Technology Opps C,technology
+186,GITAX,Goldman Sachs Technology Opps A,technology
+187,GISTX,Goldman Sachs Technology Opps Inv,technology
+188,GILPX,Guggenheim Limited Duration P,technology
+189,GILHX,Guggenheim Limited Duration Instl,technology
+190,GILFX,Guggenheim Limited Duration C,technology
+191,GILDX,Guggenheim Limited Duration A,technology
+192,GIKRX,Guggenheim Limited Duration R6,technology
+193,GIBRX,Guggenheim Total Return Bond R6,technology
+194,GIBLX,Guggenheim Total Return Bond P,technology
+195,GIBIX,Guggenheim Total Return Bond Instl,technology
+196,GIBCX,Guggenheim Total Return Bond C,technology
+197,GIBAX,Guggenheim Total Return Bond A,technology
+198,FTPSX,Invesco Technology R6,technology
+199,FTPIX,Invesco Technology R5,technology
+200,FTHCX,Fidelity Advisor Technology C,technology
