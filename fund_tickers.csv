@@ -1,4 +1,780 @@
 yf-umfm46,symbol,tw-text-left,sector
+1,AGMI,Themes Silver Miners ETF,basic materials
+2,AOHY,Angel Oak High Yield Opportunit,basic materials
+3,AUMI,Themes Gold Miners ETF,basic materials
+4,CARY,Angel Oak Income ETF,basic materials
+5,COPA,Themes ETF Trust Themes Copper,basic materials
+6,COPJ,Sprott Junior Copper Miners ETF,basic materials
+7,COPP,Sprott Copper Miners ETF,basic materials
+8,COPX,Global X Copper Miners ETF,basic materials
+9,DMAT,Global X Disruptive Materials E,basic materials
+10,FMAT,Fidelity MSCI Materials Index E,basic materials
+11,FTSL,First Trust Senior Loan Fund,basic materials
+12,FXZ,First Trust Materials AlphaDEX,basic materials
+13,GBUG,Sprott Active Gold & Silver Min,basic materials
+14,GDMN,WisdomTree Trust WisdomTree Eff,basic materials
+15,GDX,VanEck Gold Miners ETF,basic materials
+16,GDXD,MicroSectors Gold Miners -3X In,basic materials
+17,GDXJ,VanEck Junior Gold Miners ETF,basic materials
+18,GDXU,MicroSectors Gold Miners 3X Lev,basic materials
+19,GMET,VanEck Green Metals ETF,basic materials
+20,GOAU,US Global GO Gold and Precious,basic materials
+21,GOEX,Global X Gold Explorers ETF,basic materials
+22,HCOM,Hartford Schroders Commodity St,basic materials
+23,ICOP,iShares Copper and Metals Minin,basic materials
+24,ILIT,iShares Lithium Miners and Prod,basic materials
+25,ION,ProShares Trust ProShares S&P G,basic materials
+26,IYM,iShares U.S. Basic Materials ET,basic materials
+27,JNUG,Direxion Daily Junior Gold Mine,basic materials
+28,LIMI,Themes ETF Trust Themes Lithium,basic materials
+29,LITP,Sprott Lithium Miners ETF,basic materials
+30,MXI,iShares Global Materials ETF,basic materials
+31,NIKL,Sprott Nickel Miners ETF,basic materials
+32,NUGT,Direxion Daily Gold Miners Inde,basic materials
+33,PICK,iShares MSCI Global Select Meta,basic materials
+34,PSCM,Invesco S&P SmallCap Materials,basic materials
+35,PYZ,Invesco Dorsey Wright Basic Mat,basic materials
+36,REMX,VanEck Rare Earth and Strategic,basic materials
+37,RING,iShares MSCI Global Gold Miners,basic materials
+38,RSPM,Invesco S&P 500 Equal Weight Ma,basic materials
+39,SETM,Sprott Critical Materials ETF,basic materials
+40,SGDJ,Sprott Junior Gold Miners ETF,basic materials
+41,SGDM,Sprott Gold Miners ETF,basic materials
+42,SIL,Global X Silver Miners ETF,basic materials
+43,SILJ,Amplify ETF Trust Amplify Junio,basic materials
+44,SLVP,iShares MSCI Global Silver Mine,basic materials
+45,SLX,VanEck Steel ETF,basic materials
+46,UYM,ProShares Ultra Materials,basic materials
+47,VAW,Vanguard Materials ETF,basic materials
+48,WOOD,iShares Global Timber & Forestr,basic materials
+49,XLB,Materials Select Sector SPDR,basic materials
+50,XME,SPDR S&P Metals & Mining ETF,basic materials
+51,ZSB,USCF ETF Trust USCF Sustainable,basic materials
+1,AMZU,Direxion Daily AMZN Bull 2X Sha,consumer cyclical
+2,AWAY,Amplify ETF Trust Amplify Trave,consumer cyclical
+3,BEDZ,AdvisorShares Hotel ETF,consumer cyclical
+4,BETZ,Roundhill Sports Betting & iGam,consumer cyclical
+5,BJK,VanEck Gaming ETF,consumer cyclical
+6,CARD,Bank Of Montreal MAX Auto Indus,consumer cyclical
+7,CARU,Bank Of Montreal MAX Auto Indus,consumer cyclical
+8,CHIQ,Global X MSCI China Consumer Di,consumer cyclical
+9,CLIX,ProShares Long Online/Short Sto,consumer cyclical
+10,DRAG,Roundhill ETF Trust Roundhill C,consumer cyclical
+11,EATZ,AdvisorShares Restaurant ETF,consumer cyclical
+12,EBIZ,Global X E-commerce ETF,consumer cyclical
+13,EVAV,Direxion Shares ETF Trust Direx,consumer cyclical
+14,FDIS,Fidelity MSCI Consumer Discreti,consumer cyclical
+15,FINE,Themes European Luxury ETF,consumer cyclical
+16,FLYD,Bank of Montreal MicroSectors T,consumer cyclical
+17,FXD,First Trust Cons. Discret. Alph,consumer cyclical
+18,IBUY,Amplify ETF Trust Amplify Onlin,consumer cyclical
+19,IDRV,iShares Self-Driving EV and Tec,consumer cyclical
+20,IEDI,iShares U.S. Consumer Focused E,consumer cyclical
+21,ITB,iShares U.S. Home Construction,consumer cyclical
+22,IYC,iShares U.S. Consumer Discretio,consumer cyclical
+23,KBAB,KraneShares 2x Long BABA Daily,consumer cyclical
+24,KLXY,KraneShares Trust KraneShares G,consumer cyclical
+25,KPDD,KraneShares 2x Long PDD Daily E,consumer cyclical
+26,LUX,Tema ETF Trust Tema Luxury ETF,consumer cyclical
+27,NAIL,Direxion Daily Homebuilders & S,consumer cyclical
+28,NITE,Capitol Series Trust The Nightv,consumer cyclical
+29,OILK,ProShares K-1 Free Crude Oil ET,consumer cyclical
+30,ONLN,ProShares Online Retail ETF,consumer cyclical
+31,OOTO,Direxion Daily Travel & Vacatio,consumer cyclical
+32,PEJ,Invesco Leisure and Entertainme,consumer cyclical
+33,PEZ,Invesco Dorsey Wright Consumer,consumer cyclical
+34,PSCD,Invesco S&P SmallCap Consumer D,consumer cyclical
+35,RETL,Direxion Daily Retail Bull 3X S,consumer cyclical
+36,RSPD,Invesco S&P 500 Equal Weight Co,consumer cyclical
+37,RXI,iShares Global Consumer Discret,consumer cyclical
+38,TESL,Simplify Volt TSLA Revolution E,consumer cyclical
+39,TSL,GraniteShares 1.25x Long TSLA D,consumer cyclical
+40,TSLL,Direxion Daily TSLA Bull 2X Sha,consumer cyclical
+41,TSLT,ETF Opportunities Trust T-REX 2,consumer cyclical
+42,UCC,ProShares Ultra Consumer Discre,consumer cyclical
+43,VCR,Vanguard Consumer Discretion ET,consumer cyclical
+44,WANT,Direxion Daily Consumer Discret,consumer cyclical
+45,XHB,SPDR Series Trust SPDR Homebuil,consumer cyclical
+46,XLY,SPDR Select Sector Fund - Consu,consumer cyclical
+47,XRT,SPDR S&P Retail ETF,consumer cyclical
+1,AINP,Allspring Exchange-Traded Funds,financial services
+2,ANGL,VanEck Fallen Angel High Yield,financial services
+3,APLU,Allspring Exchange-Traded Funds,financial services
+4,ARKD,EA Series Trust ARK 21Shares Bl,financial services
+5,ASEA,Global X FTSE Southeast Asia ET,financial services
+6,BBHY,JPMorgan BetaBuilders USD High,financial services
+7,BCDF,Listed Funds Trust Horizon Kine,financial services
+8,BCI,abrdn Bloomberg All Commodity S,financial services
+9,BITQ,Bitwise Crypto Industry Innovat,financial services
+10,BITS,Global X Blockchain & Bitcoin S,financial services
+11,BIZD,VanEck BDC Income ETF,financial services
+12,BKCH,Global X Blockchain ETF,financial services
+13,BNDC,FlexShares Core Select Bond Fun,financial services
+14,BNKD,Bank Of Montreal MicroSectors,financial services
+15,BNKU,Bank Of Montreal MicroSectors,financial services
+16,BOND,PIMCO Active Bond Exchange-Trad,financial services
+17,CEFS,Saba Closed-End Funds ETF,financial services
+18,CMDT,PIMCO U.S. Treasury Index Fund,financial services
+19,COMT,iShares GSCI Commodity Dynamic,financial services
+20,CONL,GraniteShares 2x Long COIN Dail,financial services
+21,CRPT,First Trust SkyBridge Crypto In,financial services
+22,DAPP,VanEck Digital Transformation E,financial services
+23,DECO,SPDR Galaxy Digital Asset Ecosy,financial services
+24,DFNL,Davis Fundamental ETF Trust Dav,financial services
+25,DIAL,Columbia Diversified Fixed Inco,financial services
+26,DPST,Direxion Daily Regional Banks B,financial services
+27,EFIX,First Trust Exchange-Traded Fun,financial services
+28,EMHC,SPDR Bloomberg Emerging Markets,financial services
+29,EPRF,Innovator S&P Investment Grade,financial services
+30,EUFN,iShares MSCI Europe Financials,financial services
+31,FAAR,First Trust Alternative Absolut,financial services
+32,FAS,Direxion Financial Bull 3X Shar,financial services
+33,FCEF,First Trust Income Opportunitie,financial services
+34,FDFF,Fidelity Disruptive Finance ETF,financial services
+35,FDIG,Fidelity Crypto Industry and Di,financial services
+36,FFIU,UVA Unconstrained Medium-Term F,financial services
+37,FIRI,Tidal ETF Trust FIRE Funds Inco,financial services
+38,FNCL,Fidelity MSCI Financials Index,financial services
+39,FTXO,First Trust Nasdaq Bank ETF,financial services
+40,FXED,Sound Enhanced Fixed Income ETF,financial services
+41,FXO,First Trust Financials AlphaDEX,financial services
+42,GABF,Gabelli ETFs Trust Gabelli Fina,financial services
+43,GSIB,Themes Global Systemically Impo,financial services
+44,HECO,SPDR Galaxy Hedged Digital Asse,financial services
+45,HOOX,Defiance Daily Target 2X Long H,financial services
+46,HYBB,iShares BB Rated Corporate Bond,financial services
+47,IAI,iShares U.S. Broker-Dealers & S,financial services
+48,IAK,iShares U.S. Insurance ETF,financial services
+49,IAT,iShares U.S. Regional Banks ETF,financial services
+50,IBLC,iShares Trust iShares Blockchai,financial services
+51,IHY,VanEck International High Yield,financial services
+52,INDF,Range India Financials ETF,financial services
+53,IXG,iShares Global Financial ETF,financial services
+54,IYF,iShares U.S. Financial ETF,financial services
+55,IYG,iShares U.S. Financial Services,financial services
+56,KBE,SPDR S&P Bank ETF,financial services
+57,KBWB,Invesco KBW Bank ETF,financial services
+58,KBWD,Invesco KBW High Dividend Yield,financial services
+59,KBWP,Invesco KBW Property & Casualty,financial services
+60,KBWR,Invesco KBW Regional Banking ET,financial services
+61,KCE,SPDR S&P Capital Markets ETF,financial services
+62,KDRN,ETF Opportunities Trust Kingsba,financial services
+63,KIE,SPDR S&P Insurance ETF,financial services
+64,KRE,SPDR S&P Regional Banking ETF,financial services
+65,KWT,iShares Trust iShares MSCI Kuwa,financial services
+66,LBO,EA Series Trust WHITEWOLF Publi,financial services
+67,LMBO,Direxion Shares ETF Trust Direx,financial services
+68,MINT,PIMCO Enhanced Short Maturity A,financial services
+69,MNRS,Grayscale Funds Trust Grayscale,financial services
+70,NVDL,GraniteShares 2x Long NVDA Dail,financial services
+71,PBDC,Putnam ETF Trust Putnam BDC Inc,financial services
+72,PCEF,Invesco CEF Income Composite ET,financial services
+73,PEX,ProShares Global Listed Private,financial services
+74,PFI,Invesco Dorsey Wright Financial,financial services
+75,PGF,Invesco Financial Preferred ETF,financial services
+76,PGX,Invesco Preferred ETF,financial services
+77,PICB,Invesco International Corporate,financial services
+78,PREF,Principal Spectrum Preferred Se,financial services
+79,PRFD,PIMCO U.S. Treasury Index Fund,financial services
+80,PSCF,Invesco S&P SmallCap Financials,financial services
+81,PSP,Invesco Global Listed Private E,financial services
+82,PYPY,Tidal Trust II YieldMax PYPL Op,financial services
+83,QABA,First Trust NASDAQ ABA Communit,financial services
+84,RSPF,Invesco S&P 500 Equal Weight Fi,financial services
+85,SATO,Invesco Alerian Galaxy Crypto E,financial services
+86,SHEH,Precidian ETFs Trust Shell plc,financial services
+87,SMLV,SPDR SSGA US Small Cap Low Vola,financial services
+88,SPAQ,Horizon Kinetics SPAC Active ET,financial services
+89,SPAX,Robinson Alternative Yield Pre-,financial services
+90,SPC,CrossingBridge Pre-Merger SPAC,financial services
+91,SPCX,SPAC and New Issue ETF,financial services
+92,SPFF,Global X SuperIncome Preferred,financial services
+93,SSFI,Day Hagan/Ned Davis Research Sm,financial services
+94,STCE,Schwab Strategic Trust Schwab C,financial services
+95,TAGG,T. Rowe Price QM U.S. Bond ETF,financial services
+96,TMET,iShares Transition-Enabling Met,financial services
+97,TOTR,T. Rowe Price Total Return ETF,financial services
+98,UYG,ProShares Ultra Financials,financial services
+99,VFH,Vanguard Financials ETF,financial services
+100,VPC,Virtus Private Credit Strategy,financial services
+101,WABF,Western Asset Bond ETF,financial services
+102,WGMI,CoinShares Valkyrie Bitcoin Min,financial services
+103,XBB,BondBloxx ETF Trust BondBloxx B,financial services
+104,XHYF,BondBloxx ETF Trust BondBloxx U,financial services
+105,XLF,SPDR Select Sector Fund - Finan,financial services
+1,AVRE,Avantis Real Estate ETF,property
+2,BBRE,JPMorgan BetaBuilders MSCI U.S.,property
+3,BLDG,Cambria Global Real Estate ETF,property
+4,BRTR,iShares Total Return Active ETF,property
+5,BYRE,Principal Exchange-Traded Funds,property
+6,CBON,VanEck China Bond ETF,property
+7,CRDT,Simplify Exchange Traded Funds,property
+8,CRED,Columbia ETF Trust I Columbia R,property
+9,DESK,VanEck ETF Trust VanEck Office,property
+10,DFAR,Dimensional ETF Trust Dimension,property
+11,DFGR,Dimensional ETF Trust Dimension,property
+12,DRN,Direxion Daily Real Estate Bull,property
+13,DTRE,First Trust Alerian Disruptive,property
+14,DVDN,ETF Opportunities Trust Kingsba,property
+15,DYFI,IDX Dynamic Fixed Income ETF,property
+16,ERET,iShares Environmentally Aware R,property
+17,FALN,iShares Fallen Angels USD Bond,property
+18,FIXP,Tidal ETF Trust FolioBeyond Enh,property
+19,FPE,First Trust Preferred Securitie,property
+20,FPRO,Fidelity Real Estate Investment,property
+21,FREL,Fidelity MSCI Real Estate Index,property
+22,FRI,First Trust S&P REIT Index Fund,property
+23,FTSM,First Trust Enhanced Short Matu,property
+24,GBLD,Invesco MSCI Green Building ETF,property
+25,GHMS,Collaborative Investment Series,property
+26,GQRE,FlexShares Global Quality Real,property
+27,HAUS,Tidal ETF Trust Residential REI,property
+28,HAUZ,Xtrackers International Real Es,property
+29,HIDE,Alpha Architect High Inflation,property
+30,HYIN,WisdomTree Alternative Income F,property
+31,IBHE,iShares iBonds 2025 Term High Y,property
+32,ICF,iShares Cohen & Steers REIT ETF,property
+33,IFGL,iShares International Developed,property
+34,IMTB,iShares Core 5-10 Year USD Bond,property
+35,INDS,Pacer Industrial Real Estate ET,property
+36,IRET,Tidal Trust II iREIT - MarketVe,property
+37,IVRA,Invesco Real Assets ESG ETF,property
+38,IYR,iShares U.S. Real Estate ETF,property
+39,IYRI,NEOS ETF Trust NEOS Real Estate,property
+40,JPRE,J.P. Morgan Exchange-Traded Fun,property
+41,JRE,Janus Henderson U.S. Real Estat,property
+42,KBWY,Invesco KBW Premium Yield Equit,property
+43,MORT,VanEck Mortgage REIT Income ETF,property
+44,NETL,NETLease Corporate Real Estate,property
+45,NURE,Nuveen Short-Term REIT ETF,property
+46,PFFR,InfraCap REIT Preferred ETF,property
+47,PPTY,U.S. Diversified Real Estate ET,property
+48,PSR,Invesco Active U.S. Real Estate,property
+49,RDFI,Rareview Dynamic Fixed Income E,property
+50,RDOG,ALPS ETF Trust ALPS REIT Divide,property
+51,REAI,Intelligent Real Estate ETF,property
+52,REET,iShares Trust iShares Global RE,property
+53,REIT,ALPS Active REIT ETF,property
+54,REM,iShares Trust iShares Mortgage,property
+55,REZ,iShares Residential and Multise,property
+56,RIET,Hoya Capital High Dividend Yiel,property
+57,RINC,Investment Managers Series Trus,property
+58,RITA,ETF Series Solutions ETFB Green,property
+59,RNEW,VanEck Green Infrastructure ETF,property
+60,RSPR,Invesco S&P 500 Equal Weight Re,property
+61,RTRE,Collaborative Investment Series,property
+62,RWO,SPDR DJ Wilshire Global Real Es,property
+63,RWR,SPDR DJ Wilshire REIT ETF,property
+64,RWX,SPDR DJ Wilshire Intl Real Esta,property
+65,SCHH,Schwab U.S. REIT ETF,property
+66,SPRE,SP Funds S&P Global REIT Sharia,property
+67,SRET,Global X SuperDividend REIT ETF,property
+68,SRHR,Elevation Series Trust SRH REIT,property
+69,SRVR,Pacer Data & Infrastructure Rea,property
+70,UCON,First Trust TCW Unconstrained P,property
+71,URE,ProShares Ultra Real Estate,property
+72,USAF,Atlas America Fund,property
+73,USRT,iShares Core U.S. REIT ETF,property
+74,VGSR,Vert Global Sustainable Real Es,property
+75,VNQ,Vanguard Real Estate ETF,property
+76,VNQI,Vanguard Global ex-U.S. Real Es,property
+77,WTRE,WisdomTree New Economy Real Est,property
+78,XLRE,Real Estate Select Sector SPDR,property
+79,YLD,Principal Active High Yield ETF,property
+1,EATV,VegTech Food Innovation & Clima,consumer defensive
+2,FSTA,Fidelity MSCI COnsumer Staples,consumer defensive
+3,FTXG,First Trust Nasdaq Food & Bever,consumer defensive
+4,FXG,First Trust Cons. Staples Alpha,consumer defensive
+5,INCO,Columbia India Consumer ETF,consumer defensive
+6,IYK,iShares U.S. Consumer Staples E,consumer defensive
+7,JHPI,John Hancock Exchange-Traded Fu,consumer defensive
+8,KHYB,KraneShares Asia Pacific High I,consumer defensive
+9,KXI,iShares Global Consumer Staples,consumer defensive
+10,PBJ,Invesco Food & Beverage ETF,consumer defensive
+11,PSCC,Invesco S&P SmallCap Consumer S,consumer defensive
+12,PSL,Invesco Dorsey Wright Consumer,consumer defensive
+13,RSPS,Invesco S&P 500 Equal Weight Co,consumer defensive
+14,TOKE,Cambria Cannabis ETF,consumer defensive
+15,UGE,ProShares Ultra Consumer Staple,consumer defensive
+16,VDC,Vanguard Consumer Staples ETF,consumer defensive
+17,XLP,SPDR Select Sector Fund - Consu,consumer defensive
+1,AGNG,Global X Aging Population ETF,healthcare
+2,ARKG,ARK Genomic Revolution ETF,healthcare
+3,AZNH,Precidian ETFs Trust AstraZenec,healthcare
+4,BBC,Virtus LifeSci Biotech Clinical,healthcare
+5,BBH,VanEck Biotech ETF,healthcare
+6,BBP,Virtus LifeSci Biotech Products,healthcare
+7,BIB,ProShares Ultra Nasdaq Biotechn,healthcare
+8,BMED,iShares Health Innovation Activ,healthcare
+9,CANC,Tema Oncology ETF,healthcare
+10,CNBS,Amplify Seymour Cannabis ETF,healthcare
+11,CNCR,Range Cancer Therapeutics ETF,healthcare
+12,CURE,Direxion Daily Healthcare Bull,healthcare
+13,EDOC,Global X Telemedicine & Digital,healthcare
+14,EKG,First Trust Nasdaq Lux Digital,healthcare
+15,FBT,First Trust Amex Biotech Index,healthcare
+16,FCVT,First Trust SSI Strategic Conve,healthcare
+17,FDHT,Fidelity Digital Health ETF,healthcare
+18,FHLC,Fidelity MSCI Health Care Index,healthcare
+19,FLBL,Franklin Senior Loan ETF,healthcare
+20,FLHY,Franklin High Yield Corporate E,healthcare
+21,FMED,Fidelity Disruptive Medicine ET,healthcare
+22,FTXH,First Trust Nasdaq Pharmaceutic,healthcare
+23,FXH,First Trust Health Care AlphaDE,healthcare
+24,GDOC,Goldman Sachs Future Health Car,healthcare
+25,GNOM,Global X Genomics & Biotechnolo,healthcare
+26,GSKH,Precidian ETFs Trust GSK plc,healthcare
+27,HART,NYLI Healthy Hearts ETF,healthcare
+28,HEAL,Global X HealthTech ETF,healthcare
+29,HELX,Franklin Genomic Advancements E,healthcare
+30,HRTS,"Tema GLP-1, Obesity & Cardiomet",healthcare
+31,HTEC,Robo Global Healthcare Technolo,healthcare
+32,IBB,iShares Biotechnology ETF,healthcare
+33,IBBQ,Invesco Nasdaq Biotechnology ET,healthcare
+34,IBRN,iShares Trust iShares Neuroscie,healthcare
+35,IDNA,iShares Genomics Immunology and,healthcare
+36,IHE,iShares U.S. Pharmaceutical ETF,healthcare
+37,IHF,iShares U.S. Health Care Provid,healthcare
+38,IHI,iShares U.S. Medical Devices ET,healthcare
+39,IHYF,Invesco High Yield Bond Factor,healthcare
+40,IXJ,iShares Global Healthcare ETF,healthcare
+41,IYH,iShares U.S. Healthcare ETF,healthcare
+42,JDOC,JPMorgan Healthcare Leaders ETF,healthcare
+43,JIII,Janus Detroit Street Trust Janu,healthcare
+44,JSI,Janus Detroit Street Trust Janu,healthcare
+45,KURE,KraneShares MSCI All China Heal,healthcare
+46,LABU,Direxion Daily S&P Biotech Bull,healthcare
+47,LDSF,First Trust Low Duration Strate,healthcare
+48,LFSC,F/m Emerald Life Sciences Innov,healthcare
+49,LGHT,Spinnaker ETF Series Langar Glo,healthcare
+50,MDEV,First Trust Indxx Medical Devic,healthcare
+51,MEDI,Harbor ETF Trust Harbor Health,healthcare
+52,MEDX,Horizon Kinetics Medical ETF,healthcare
+53,MJ,ETFMG Alternative Harvest ETF,healthcare
+54,MNTL,Tema Neuroscience and Mental He,healthcare
+55,NEAR,iShares Short Duration Bond Act,healthcare
+56,NFLT,Virtus Newfleet Multi-Sector Bo,healthcare
+57,NVOH,Precidian ETFs Trust Novo Nordi,healthcare
+58,NVOX,Tidal Trust II Defiance Daily T,healthcare
+59,OZEM,Roundhill GLP-1 & Weight Loss E,healthcare
+60,PBE,Invesco Biotechnology & Genome,healthcare
+61,PILL,Direxion Daily Pharmaceutical &,healthcare
+62,PINK,Simplify Health Care ETF,healthcare
+63,PJP,Invesco Pharmaceuticals ETF,healthcare
+64,PPH,VanEck Pharmaceutical ETF,healthcare
+65,PSCH,Invesco S&P SmallCap Health Car,healthcare
+66,PSIL,AdvisorShares Psychedelics ETF,healthcare
+67,PTH,Invesco Dorsey Wright Healthcar,healthcare
+68,RSPH,Invesco S&P 500 Equal Weight He,healthcare
+69,RXL,ProShares Ultra Health Care,healthcare
+70,SBIO,ALPS Medical Breakthroughs ETF,healthcare
+71,SURI,Simplify Exchange Traded Funds,healthcare
+72,SYNB,Putnam ETF Trust Putnam BioRevo,healthcare
+73,THNR,Amplify ETF Trust Amplify Weigh,healthcare
+74,VHT,Vanguard Health Care ETF,healthcare
+75,WDNA,WisdomTree BioRevolution Fund,healthcare
+76,WEED,Listed Funds Trust Roundhill Ca,healthcare
+77,XBI,SPDR Series Trust  SPDR S&P Bio,healthcare
+78,XHE,SPDR S&P Health Care Equipment,healthcare
+79,XHS,SPDR S&P Health Care Services E,healthcare
+80,XLV,SPDR Select Sector Fund - Healt,healthcare
+81,XPH,SPDR S&P Pharmaceuticals ETF,healthcare
+82,YOLO,AdvisorShares Pure Cannabis ETF,healthcare
+1,BILD,Macquarie ETF Trust Macquarie G,utilities
+2,BNDS,Series Portfolios Trust Infrast,utilities
+3,BYLD,iShares Yield Optimized Bond ET,utilities
+4,CDX,Simplify High Yield ETF,utilities
+5,CGCP,Capital Group Core Plus Income,utilities
+6,CGMS,Capital Group U.S. Multi-Sector,utilities
+7,CVRT,Calamos ETF Trust Calamos Conve,utilities
+8,CWB,SPDR Bloomberg Convertible Secu,utilities
+9,DUKH,Ocean Park High Income ETF,utilities
+10,ECLN,First Trust EIP Carbon Impact E,utilities
+11,FAN,First Trust Global Wind Energy,utilities
+12,FIBR,iShares U.S. Fixed Income Balan,utilities
+13,FLRT,Pacer Funds Pacer Pacific Asset,utilities
+14,FUTY,Fidelity MSCI Utilities Index E,utilities
+15,FXU,First Trust Utilities AlphaDEX,utilities
+16,GHYG,iShares US & Intl High Yield Co,utilities
+17,HSUN,Hartford Strategic Income ETF,utilities
+18,HYG,iShares iBoxx $ High Yield Corp,utilities
+19,HYGH,iShares Interest Rate Hedged Hi,utilities
+20,HYGI,iShares U.S. ETF Trust iShares,utilities
+21,HYGW,iShares Trust iShares High Yiel,utilities
+22,HYMB,SPDR Nuveen Bloomberg High Yiel,utilities
+23,HYTR,Counterpoint High Yield Trend E,utilities
+24,IBHF,iShares iBonds 2026 Term High Y,utilities
+25,IBHI,iShares Trust iShares iBonds 20,utilities
+26,ICLN,iShares Global Clean Energy ETF,utilities
+27,ICSH,iShares Ultra Short-Term Bond A,utilities
+28,IDU,iShares U.S. Utilities ETF,utilities
+29,IPPP,Listed Funds Trust Preferred-Pl,utilities
+30,ISTB,iShares Core 1-5 Year USD Bond,utilities
+31,IUSB,iShares Core Total USD Bond Mar,utilities
+32,JHMU,John Hancock Exchange-Traded Fu,utilities
+33,JOJO,ATAC Credit Rotation ETF,utilities
+34,JXI,iShares Global Utilities ETF,utilities
+35,LDRH,iShares Trust iShares iBonds 1-,utilities
+36,MAMB,Monarch Ambassador Income Index,utilities
+37,MFLX,First Trust Flexible Municipal,utilities
+38,MUSI,American Century Multisector In,utilities
+39,PFF,iShares Preferred and Income Se,utilities
+40,PFFA,Virtus InfraCap U.S. Preferred,utilities
+41,PFFD,Global X U.S. Preferred ETF,utilities
+42,PFFV,Global X Variable Rate Preferre,utilities
+43,PFLD,AAM Low Duration Preferred and,utilities
+44,PFXF,VanEck Preferred Securities ex,utilities
+45,PSK,SPDR ICE Preferred Securities E,utilities
+46,PUI,Invesco Dorsey Wright Utilities,utilities
+47,QCON,American Century ETF Trust Amer,utilities
+48,QPFF,American Century ETF Trust Amer,utilities
+49,RNRG,Global X Renewable Energy Produ,utilities
+50,RNWZ,Listed Funds Trust TrueShares E,utilities
+51,RSPU,Invesco S&P 500 Equal Weight Ut,utilities
+52,RTAI,Rareview Tax Advantaged Income,utilities
+53,SDFI,"AB Active ETFs, Inc. AB Short D",utilities
+54,SHYG,iShares 0-5 Year High Yield Cor,utilities
+55,THY,Toews Agility Shares Dynamic Ta,utilities
+56,UPW,ProShares Ultra Utilities,utilities
+57,USHY,iShares Broad USD High Yield Co,utilities
+58,UTES,Virtus Reaves Utilities ETF,utilities
+59,UTSL,Direxion Daily Utilities Bull 3,utilities
+60,VPU,Vanguard Utilities ETF,utilities
+61,VRP,Invesco Variable Rate Preferred,utilities
+62,XLU,SPDR Select Sector Fund - Utili,utilities
+63,XMPT,VanEck CEF Muni Income ETF,utilities
+64,ZAP,Global X U.S. Electrification E,utilities
+1,ADFI,Anfield Dynamic Fixed Income ET,communication service
+2,BINC,iShares Flexible Income Active,communication service
+3,BNGE,First Trust S-Network Streaming,communication service
+4,CMDY,iShares Bloomberg Roll Select C,communication service
+5,DUKZ,Northern Lights Fund Trust Ocea,communication service
+6,ESPO,VanEck Video Gaming and eSports,communication service
+7,FCOM,Fidelity MSCI Communication Ser,communication service
+8,FHYS,Federated Hermes ETF Trust Fede,communication service
+9,FLXR,TCW Flexible Income ETF,communication service
+10,GAMR,Amplify Video Game Leaders ETF,communication service
+11,GGLL,Direxion Daily GOOGL Bull 2X Sh,communication service
+12,GOOX,ETF Opportunities Trust T-Rex 2,communication service
+13,HERO,Global X Video Games & Esports,communication service
+14,HYFI,"AB Active ETFs, Inc. AB High Yi",communication service
+15,HYS,PIMCO 0-5 Year High Yield Corpo,communication service
+16,HYSA,BondBloxx ETF Trust BondBloxx U,communication service
+17,HYXF,iShares ESG Advanced High Yield,communication service
+18,HYXU,iShares International High Yiel,communication service
+19,ICVT,iShares Convertible Bond ETF,communication service
+20,IXP,iShares Global Comm Services ET,communication service
+21,IYZ,iShares U.S. Telecommunications,communication service
+22,JPIB,J.P. Morgan Exchange-Traded Fun,communication service
+23,KMLM,KraneShares Mount Lucas Managed,communication service
+24,KPOP,JAKOTA K-Pop and Korean Enterta,communication service
+25,LTL,ProShares Ultra Communication S,communication service
+26,METU,Direxion Daily META Bull 2X Sha,communication service
+27,MSMR,ETF Series Solutions McElhenny,communication service
+28,MUSQ,MUSQ Global Music Industry Inde,communication service
+29,NERD,Roundhill Video Games ETF,communication service
+30,OBND,SPDR Loomis Sayles Opportunisti,communication service
+31,OND,ProShares On-Demand ETF,communication service
+32,PFRL,PGIM ETF Trust PGIM Floating Ra,communication service
+33,RMIF,ETF Series Solutions LHA Risk-M,communication service
+34,RSPC,Invesco S&P 500 Equal Weight Co,communication service
+35,SDSI,American Century Short Duration,communication service
+36,SJNK,SPDR Bloomberg Short Term High,communication service
+37,SOCL,Global X Social Media ETF,communication service
+38,SRLN,SPDR Blackstone Senior Loan ETF,communication service
+39,STOT,SPDR DoubleLine Short Duration,communication service
+40,VOX,Vanguard Communication Services,communication service
+41,XCCC,BondBloxx ETF Trust BondBloxx C,communication service
+42,XHYT,BondBloxx ETF Trust BondBloxx U,communication service
+43,XLC,The Communication Services Sele,communication service
+1,AFIF,Anfield Universal Fixed Income,energy
+2,AGIH,iShares U.S. ETF Trust iShares,energy
+3,AGRH,iShares U.S. ETF Trust iShares,energy
+4,AMLP,Alerian MLP ETF,energy
+5,AMZA,InfraCap MLP ETF,energy
+6,BPH,Precidian ETFs Trust BP plc,energy
+7,BSJS,Invesco BulletShares 2028 High,energy
+8,COAL,Exchange Traded Concepts Trust,energy
+9,CRAK,VanEck Oil Refiners ETF,energy
+10,DIG,ProShares Ultra Energy,energy
+11,DRLL,EA Series Trust Strive U.S. Ene,energy
+12,EINC,VanEck Energy Income ETF,energy
+13,EIPI,First Trust Exchange-Traded Fun,energy
+14,EIPX,First Trust Exchange-Traded Fun,energy
+15,EMCB,WisdomTree Emerging Markets Cor,energy
+16,ENFR,Alerian Energy Infrastructure E,energy
+17,ERX,Direxion Energy Bull 2X Shares,energy
+18,FBND,Fidelity Total Bond ETF,energy
+19,FCG,First Trust Natural Gas ETF,energy
+20,FCSH,Federated Hermes ETF Trust Fede,energy
+21,FENY,Fidelity MSCI Energy Index ETF,energy
+22,FILL,iShares MSCI Global Energy Prod,energy
+23,FISR,SPDR SSGA Fixed Income Sector R,energy
+24,FTRB,Federated Hermes ETF Trust Fede,energy
+25,FTXN,First Trust Nasdaq Oil & Gas ET,energy
+26,FXN,First Trust Energy AlphaDEX Fun,energy
+27,GDMA,GadsdenA DynamicA Multi-AssetA,energy
+28,GUSH,Direxion Daily S&P Oil & Gas Ex,energy
+29,HSBH,Precidian ETFs Trust HSBC Holdi,energy
+30,HTRB,Hartford Total Return Bond ETF,energy
+31,HYGV,FlexShares High Yield Value-Sco,energy
+32,HYZD,WisdomTree Interest Rate Hedged,energy
+33,IEO,iShares U.S. Oil & Gas Explorat,energy
+34,IEZ,iShares U.S. Oil Equipment & Se,energy
+35,IGE,iShares North American Natural,energy
+36,IXC,iShares Global Energy ETF,energy
+37,IYE,iShares U.S. Energy ETF,energy
+38,JCPB,JPMorgan Core Plus Bond ETF,energy
+39,JNK,SPDR Bloomberg High Yield Bond,energy
+40,JPIE,JPMorgan Income ETF,energy
+41,LNGZ,Exchange Traded Concepts Trust,energy
+42,MDST,Ultimus Managers Trust Westwood,energy
+43,MLPA,Global X MLP ETF,energy
+44,MLPD,Global X Funds Global X MLP & E,energy
+45,MLPX,Global X MLP & Energy Infrastru,energy
+46,NBET,Neuberger Berman Energy Transit,energy
+47,NDIV,Amplify ETF Trust Amplify Natur,energy
+48,NRGD,Bank Of Montreal MicroSectors,energy
+49,NRGU,Bank Of Montreal MicroSectors U,energy
+50,NVIR,Listed Funds Trust Horizon Kine,energy
+51,OFOS,Exchange Traded Concepts Trust,energy
+52,OIH,VanEck Oil Services ETF,energy
+53,OILD,MicroSectors Oil & Gas Exp. & P,energy
+54,OILT,Texas Capital Funds Trust Texas,energy
+55,OILU,MicroSectors Oil & Gas Exp. & P,energy
+56,PGHY,Invesco Global ex-US High Yield,energy
+57,PHYD,Putnam ETF Trust Putnam ESG Hig,energy
+58,PHYL,PGIM Active High Yield Bond ETF,energy
+59,PIPE,Invesco Actively Managed Exchan,energy
+60,PSCE,Invesco S&P SmallCap Energy ETF,energy
+61,PSH,PGIM ETF Trust PGIM Short Durat,energy
+62,PXE,Invesco Energy Exploration & Pr,energy
+63,PXI,Invesco Dorsey Wright Energy Mo,energy
+64,PXJ,Invesco Oil & Gas Services ETF,energy
+65,RSPG,Invesco S&P 500 Equal Weight En,energy
+66,SMTH,ALPS ETF Trust ALPS,energy
+67,SPHY,SPDR Portfolio High Yield Bond,energy
+68,TOTL,SPDR DoubleLine Total Return Ta,energy
+69,TPYP,Tortoise North American Pipelin,energy
+70,UITB,VictoryShares Core Intermediate,energy
+71,UJB,ProShares Ultra High Yield ETF,energy
+72,UMI,USCF Midstream Energy Income Fu,energy
+73,URA,Global X Uranium ETF,energy
+74,URAA,Direxion Shares ETF Trust Direx,energy
+75,URAX,Tidal Trust II Defiance Daily T,energy
+76,URNJ,Sprott Junior Uranium Miners ET,energy
+77,URNM,Sprott Uranium Miners ETF,energy
+78,USAI,Pacer American Energy Independe,energy
+79,UX,Roundhill ETF Trust Roundhill U,energy
+80,VDE,Vanguard Energy ETF,energy
+81,VNLA,Janus Henderson Short Duration,energy
+82,WEEI,Westwood Salient Enhanced Energ,energy
+83,WEEL,Tidal Trust II Peerless Option,energy
+84,WTID,Bank Of Montreal MicroSectors E,energy
+85,WTIU,Bank Of Montreal MicroSectors E,energy
+86,XES,SPDR Series Trust SPDR S&P Oil,energy
+87,XLE,SPDR Select Sector Fund - Energ,energy
+88,XOP,SPDR S&P Oil & Gas Explor & Pro,energy
+1,AIRL,Themes Airlines ETF,industrials
+2,AIRR,First Trust RBA American Indust,industrials
+3,BOAT,SonicShares Global Shipping ETF,industrials
+4,DFEN,Direxion Daily Aerospace & Defe,industrials
+5,DUSL,Direxion Daily Industrials Bull,industrials
+6,EUAD,Spinnaker ETF Series Select STO,industrials
+7,EVX,VanEck Environmental Services E,industrials
+8,EXI,iShares Global Industrials ETF,industrials
+9,FIDU,Fidelity MSCI Industrials Index,industrials
+10,FOWF,Pacer Funds Trust Pacer Solacti,industrials
+11,FTXR,First Trust Nasdaq Transportati,industrials
+12,FXR,First Trust Industrials AlphaDE,industrials
+13,GCAD,Gabelli Commercial Aerospace an,industrials
+14,GRID,First Trust NASDAQ Clean Edge S,industrials
+15,GSY,Invesco Ultra Short Duration ET,industrials
+16,GUNZ,Spinnaker ETF Series Tuttle Cap,industrials
+17,HDRO,ETF Series Solutions Defiance N,industrials
+18,HWAY,Themes US Infrastructure ETF,industrials
+19,HYDR,Global X Hydrogen ETF,industrials
+20,ITA,iShares U.S. Aerospace & Defens,industrials
+21,IYJ,iShares U.S. Industrials ETF,industrials
+22,IYT,iShares Trust iShares U.S. Tran,industrials
+23,JETD,Bank Of Montreal MAX Airlines -,industrials
+24,JETS,U.S. Global Jets ETF,industrials
+25,JETU,Bank Of Montreal MAX Airlines 3,industrials
+26,KDEF,Exchange Listed Funds Trust PLU,industrials
+27,MADE,iShares Trust iShares U.S. Manu,industrials
+28,MISL,First Trust Exchange-Traded Fun,industrials
+29,NRSH,Tidal ETF Trust Aztlan North Am,industrials
+30,PAVE,Global X Funds Global X U.S. In,industrials
+31,PHO,Invesco Water Resources ETF,industrials
+32,PIO,Invesco Global Water ETF,industrials
+33,PPA,Invesco Aerospace & Defense ETF,industrials
+34,PRN,Invesco Dorsey Wright Industria,industrials
+35,PSCI,Invesco S&P SmallCap Industrial,industrials
+36,RKLX,Defiance Daily Target 2X Long R,industrials
+37,ROKT,SPDR S&P Kensho Final Frontiers,industrials
+38,RSBA,Tidal Trust II Return Stacked B,industrials
+39,RSHO,Tema ETF Trust Tema American Re,industrials
+40,RSPN,Invesco S&P 500 Equal Weight In,industrials
+41,SEA,ETF Series Solutions U.S. Globa,industrials
+42,SHLD,Global X Funds Global X Defense,industrials
+43,SHPP,Pacer Funds Pacer Industrials a,industrials
+44,SUPL,ProShares Trust ProShares Suppl,industrials
+45,SUPP,TCW Transform Supply Chain ETF,industrials
+46,TBLU,Tortoise Global Water ESG Fund,industrials
+47,TEMP,J.P. Morgan Exchange-Traded Fun,industrials
+48,TPOR,Direxion Daily Transportation B,industrials
+49,UXI,ProShares Ultra Industrials,industrials
+50,VIS,Vanguard Industrials ETF,industrials
+51,VOLT,Tema Electrification ETF,industrials
+52,XAR,SPDR S&P Aerospace & Defense ET,industrials
+53,XLI,SPDR Select Sector Fund - Indus,industrials
+54,XTN,SPDR S&P Transportation ETF,industrials
+1,AAPU,Direxion Daily AAPL Bull 2X Sha,technology
+2,AAPX,ETF Opportunities Trust T-Rex 2,technology
+3,AGIX,KraneShares Artificial Intellig,technology
+4,AIBU,Direxion Shares ETF Trust Direx,technology
+5,AIFD,TCW Artificial Intelligence ETF,technology
+6,AIPI,REX AI Equity Premium Income ET,technology
+7,AIQ,Global X Artificial Intelligenc,technology
+8,AOTG,AOT Growth and Innovation ETF,technology
+9,APCB,Trust for Professional Managers,technology
+10,ARVR,First Trust Indxx Metaverse ETF,technology
+11,BAI,BlackRock ETF Trust iShares A.I,technology
+12,BERZ,MicroSectors FANG & Innovation,technology
+13,BNDW,Vanguard Total World Bond ETF,technology
+14,BNDX,Vanguard Total International Bo,technology
+15,BOTT,Themes Robotics & Automation ET,technology
+16,BRLN,iShares Floating Rate Loan Acti,technology
+17,BUG,Global X Cybersecurity ETF,technology
+18,BULD,Pacer BlueStar Engineering the,technology
+19,BULZ,MicroSectors FANG & Innovation,technology
+20,CFIT,Cambria ETF Trust Cambria Fixed,technology
+21,CHAT,Roundhill Generative AI & Techn,technology
+22,CHPS,Xtrackers Semiconductor Select,technology
+23,CIBR,First Trust NASDAQ Cybersecurit,technology
+24,CLDL,Direxion Daily Cloud Computing,technology
+25,CLOD,Themes Cloud Computing ETF,technology
+26,CLOU,Global X Cloud Computing ETF,technology
+27,COWG,Pacer US Large Cap Cash Cows Gr,technology
+28,DAT,ProShares Big Data Refiners ETF,technology
+29,DGIN,VanEck ETF Trust VanEck Digital,technology
+30,DRUP,GraniteShares Nasdaq Select Dis,technology
+31,DTEC,ALPS ETF Trust ALPS Disruptive,technology
+32,DYNI,IDX Dynamic Innovation ETF,technology
+33,EGGQ,NestYield Visionary ETF,technology
+34,EGGS,Tidal Trust III NestYield Total,technology
+35,EGGY,NestYield Dynamic Income ETF,technology
+36,EWT,iShares Inc iShares MSCI Taiwan,technology
+37,FAI,First Trust Exchange-Traded Fun,technology
+38,FCLD,Fidelity Cloud Computing ETF,technology
+39,FDTX,Fidelity Disruptive Technology,technology
+40,FEPI,REX FANG & Innovation Equity Pr,technology
+41,FINX,Global X FinTech ETF,technology
+42,FLTW,Franklin FTSE Taiwan ETF,technology
+43,FNGD,MicroSectors FANG  Index -3X In,technology
+44,FNGG,Direxion Daily NYSE FANG+ Bull,technology
+45,FNGO,MicroSectors FANG  Index 2X Lev,technology
+46,FNGS,MicroSectors FANG  ETNs due Jan,technology
+47,FTEC,Fidelity MSCI Information Techn,technology
+48,FTXL,First Trust Nasdaq Semiconducto,technology
+49,FXL,First Trust Technology AlphaDEX,technology
+50,GPTY,Tidal Trust II YieldMax AI & Te,technology
+51,GTEK,Goldman Sachs Future Tech Leade,technology
+52,HACK,Amplify ETF Trust Amplify Cyber,technology
+53,IBOT,VanEck Robotics ETF,technology
+54,IDAT,iShares Future Cloud 5G and Tec,technology
+55,IETC,iShares U.S. Tech Independence,technology
+56,IGM,iShares Expanded Tech Sector ET,technology
+57,IGPT,Invesco AI and Next Gen Softwar,technology
+58,IGV,iShares Expanded Tech-Software,technology
+59,IHAK,iShares Cybersecurity and Tech,technology
+60,IPAY,Amplify Digital Payments ETF,technology
+61,IQM,Franklin Intelligent Machines E,technology
+62,ITEQ,Amplify ETF Trust Amplify BlueS,technology
+63,IVRS,iShares Trust iShares Future Me,technology
+64,IXN,iShares Global Tech ETF,technology
+65,IYW,iShares U.S. Technology ETF,technology
+66,IZRL,ARK Israel Innovative Technolog,technology
+67,JTEK,JPMorgan U.S. Tech Leaders ETF,technology
+68,KNCT,Invesco Next Gen Connectivity E,technology
+69,KSTR,KraneShares SSE STAR Market 50,technology
+70,LOUP,Innovator Deepwater Frontier Te,technology
+71,LRNZ,"TrueShares Technology, AI & Dee",technology
+72,MAKX,ProShares S&P Kensho Smart Fact,technology
+73,MSFU,Direxion Daily MSFT Bull 2X Sha,technology
+74,MSFX,ETF Opportunities Trust T-Rex 2,technology
+75,MSTU,ETF Opportunities Trust T-Rex 2,technology
+76,MUU,Direxion Daily MU Bull 2X Share,technology
+77,NBDS,Neuberger Berman ETF Trust Neub,technology
+78,NVDU,Direxion Daily NVDA Bull 2X Sha,technology
+79,NVDX,ETF Opportunities Trust T-Rex 2,technology
+80,NVW,Roundhill ETF Trust Roundhill N,technology
+81,NXTG,First Trust Indxx NextG ETF,technology
+82,ORCX,Defiance Daily Target 2X Long O,technology
+83,PSCT,Invesco S&P SmallCap Informatio,technology
+84,PSI,Invesco Semiconductors ETF,technology
+85,PSWD,Xtrackers Cybersecurity Select,technology
+86,PTF,Invesco Dorsey Wright Technolog,technology
+87,QBIG,Invesco Top QQQ ETF,technology
+88,QOWZ,Invesco Nasdaq Free Cash Flow A,technology
+89,QQMG,Invesco ESG NASDAQ 100 ETF,technology
+90,QQQA,ProShares Nasdaq-100 Dorsey Wri,technology
+91,QQQG,Pacer Nasdaq 100 Top 50 Cash Co,technology
+92,QTEC,First Trust NASDAQ-100-Technolo,technology
+93,QTUM,Defiance Quantum ETF,technology
+94,RAYS,Global X Solar ETF,technology
+95,ROBT,First Trust Nasdaq Artificial I,technology
+96,ROM,ProShares Ultra Technology,technology
+97,RSPT,Invesco S&P 500 Equal Weight Te,technology
+98,SEMI,Columbia Select Technology ETF,technology
+99,SHOC,EA Series Trust Strive U.S. Sem,technology
+100,SIXG,Defiance Connective Technologie,technology
+101,SKYU,ProShares Ultra Cloud Computing,technology
+102,SKYY,First Trust Cloud Computing ETF,technology
+103,SMH,VanEck Semiconductor ETF,technology
+104,SMHX,VanEck Fabless Semiconductor ET,technology
+105,SNSR,Global X Internet of Things ETF,technology
+106,SOXL,Direxion Daily Semiconductor Bu,technology
+107,SOXQ,Invesco PHLX Semiconductor ETF,technology
+108,SOXX,iShares Semiconductor ETF,technology
+109,SOXY,Tidal Trust II YieldMax Target,technology
+110,SPAM,Themes Cybersecurity ETF,technology
+111,SPRX,Spear Alpha ETF,technology
+112,SPTE,SP Funds Trust SP Funds S&P Glo,technology
+113,TAN,Invesco Solar ETF,technology
+114,TDIV,First Trust NASDAQ Technology D,technology
+115,TDV,ProShares S&P Technology Divide,technology
+116,TDVI,FT Vest Technology Dividend Tar,technology
+117,TECB,iShares U.S. Tech Breakthrough,technology
+118,TECL,Direxion Technology Bull 3X Sha,technology
+119,TEK,BlackRock ETF Trust iShares Tec,technology
+120,THNQ,ROBO Global Artificial Intellig,technology
+121,TINY,ProShares Nanotechnology ETF,technology
+122,TRFK,Pacer Funds Pacer Data and Digi,technology
+123,TRFM,ETF Series Solutions AAM Transf,technology
+124,TTEQ,T. Rowe Price Technology ETF,technology
+125,TYLG,Global X Funds Global X Informa,technology
+126,UCYB,ProShares Ultra Nasdaq Cybersec,technology
+127,USD,ProShares Ultra Semiconductors,technology
+128,USRD,Themes US R&D Champions ETF,technology
+129,VERS,ProShares Trust ProShares Metav,technology
+130,VGT,Vanguard Information Tech ETF,technology
+131,WCBR,WisdomTree Cybersecurity Fund,technology
+132,WCLD,WisdomTree Cloud Computing Fund,technology
+133,WFH,Direxion Work From Home ETF,technology
+134,WISE,Themes Generative Artificial In,technology
+135,WTAI,WisdomTree Trust WisdomTree Art,technology
+136,WUGI,AXS Esoterica NextG Economy ETF,technology
+137,XAIX,Xtrackers Artificial Intelligen,technology
+138,XDAT,Franklin Exponential Data ETF,technology
+139,XITK,SPDR FactSet Innovative Technol,technology
+140,XLK,SPDR Select Sector Fund - Techn,technology
+141,XNTK,SPDR NYSE Technology ETF,technology
+142,XPND,First Trust Expanded Technology,technology
+143,XSD,SPDR S&P Semiconductor ETF,technology
+144,XSW,SPDR S&P Software & Services ET,technology
+145,XT,iShares Exponential Technologie,technology
+146,XTL,SPDR S&P Telecom ETF,technology
 1,RCWBX,American Funds Capital World Bond R2,basic materials
 2,CCWFX,American Funds Capital World Bond Fund,basic materials
 3,RCEBX,American Funds Capital World Bond R2E,basic materials

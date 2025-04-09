@@ -1,4 +1,780 @@
 ticker,fund_name
+AGMI,Themes Silver Miners ETF
+AOHY,Angel Oak High Yield Opportunit
+AUMI,Themes Gold Miners ETF
+CARY,Angel Oak Income ETF
+COPA,Themes ETF Trust Themes Copper
+COPJ,Sprott Junior Copper Miners ETF
+COPP,Sprott Copper Miners ETF
+COPX,Global X Copper Miners ETF
+DMAT,Global X Disruptive Materials E
+FMAT,Fidelity MSCI Materials Index E
+FTSL,First Trust Senior Loan Fund
+FXZ,First Trust Materials AlphaDEX
+GBUG,Sprott Active Gold & Silver Min
+GDMN,WisdomTree Trust WisdomTree Eff
+GDX,VanEck Gold Miners ETF
+GDXD,MicroSectors Gold Miners -3X In
+GDXJ,VanEck Junior Gold Miners ETF
+GDXU,MicroSectors Gold Miners 3X Lev
+GMET,VanEck Green Metals ETF
+GOAU,US Global GO Gold and Precious
+GOEX,Global X Gold Explorers ETF
+HCOM,Hartford Schroders Commodity St
+ICOP,iShares Copper and Metals Minin
+ILIT,iShares Lithium Miners and Prod
+ION,ProShares Trust ProShares S&P G
+IYM,iShares U.S. Basic Materials ET
+JNUG,Direxion Daily Junior Gold Mine
+LIMI,Themes ETF Trust Themes Lithium
+LITP,Sprott Lithium Miners ETF
+MXI,iShares Global Materials ETF
+NIKL,Sprott Nickel Miners ETF
+NUGT,Direxion Daily Gold Miners Inde
+PICK,iShares MSCI Global Select Meta
+PSCM,Invesco S&P SmallCap Materials
+PYZ,Invesco Dorsey Wright Basic Mat
+REMX,VanEck Rare Earth and Strategic
+RING,iShares MSCI Global Gold Miners
+RSPM,Invesco S&P 500 Equal Weight Ma
+SETM,Sprott Critical Materials ETF
+SGDJ,Sprott Junior Gold Miners ETF
+SGDM,Sprott Gold Miners ETF
+SIL,Global X Silver Miners ETF
+SILJ,Amplify ETF Trust Amplify Junio
+SLVP,iShares MSCI Global Silver Mine
+SLX,VanEck Steel ETF
+UYM,ProShares Ultra Materials
+VAW,Vanguard Materials ETF
+WOOD,iShares Global Timber & Forestr
+XLB,Materials Select Sector SPDR
+XME,SPDR S&P Metals & Mining ETF
+ZSB,USCF ETF Trust USCF Sustainable
+AMZU,Direxion Daily AMZN Bull 2X Sha
+AWAY,Amplify ETF Trust Amplify Trave
+BEDZ,AdvisorShares Hotel ETF
+BETZ,Roundhill Sports Betting & iGam
+BJK,VanEck Gaming ETF
+CARD,Bank Of Montreal MAX Auto Indus
+CARU,Bank Of Montreal MAX Auto Indus
+CHIQ,Global X MSCI China Consumer Di
+CLIX,ProShares Long Online/Short Sto
+DRAG,Roundhill ETF Trust Roundhill C
+EATZ,AdvisorShares Restaurant ETF
+EBIZ,Global X E-commerce ETF
+EVAV,Direxion Shares ETF Trust Direx
+FDIS,Fidelity MSCI Consumer Discreti
+FINE,Themes European Luxury ETF
+FLYD,Bank of Montreal MicroSectors T
+FXD,First Trust Cons. Discret. Alph
+IBUY,Amplify ETF Trust Amplify Onlin
+IDRV,iShares Self-Driving EV and Tec
+IEDI,iShares U.S. Consumer Focused E
+ITB,iShares U.S. Home Construction
+IYC,iShares U.S. Consumer Discretio
+KBAB,KraneShares 2x Long BABA Daily
+KLXY,KraneShares Trust KraneShares G
+KPDD,KraneShares 2x Long PDD Daily E
+LUX,Tema ETF Trust Tema Luxury ETF
+NAIL,Direxion Daily Homebuilders & S
+NITE,Capitol Series Trust The Nightv
+OILK,ProShares K-1 Free Crude Oil ET
+ONLN,ProShares Online Retail ETF
+OOTO,Direxion Daily Travel & Vacatio
+PEJ,Invesco Leisure and Entertainme
+PEZ,Invesco Dorsey Wright Consumer
+PSCD,Invesco S&P SmallCap Consumer D
+RETL,Direxion Daily Retail Bull 3X S
+RSPD,Invesco S&P 500 Equal Weight Co
+RXI,iShares Global Consumer Discret
+TESL,Simplify Volt TSLA Revolution E
+TSL,GraniteShares 1.25x Long TSLA D
+TSLL,Direxion Daily TSLA Bull 2X Sha
+TSLT,ETF Opportunities Trust T-REX 2
+UCC,ProShares Ultra Consumer Discre
+VCR,Vanguard Consumer Discretion ET
+WANT,Direxion Daily Consumer Discret
+XHB,SPDR Series Trust SPDR Homebuil
+XLY,SPDR Select Sector Fund - Consu
+XRT,SPDR S&P Retail ETF
+AINP,Allspring Exchange-Traded Funds
+ANGL,VanEck Fallen Angel High Yield
+APLU,Allspring Exchange-Traded Funds
+ARKD,EA Series Trust ARK 21Shares Bl
+ASEA,Global X FTSE Southeast Asia ET
+BBHY,JPMorgan BetaBuilders USD High
+BCDF,Listed Funds Trust Horizon Kine
+BCI,abrdn Bloomberg All Commodity S
+BITQ,Bitwise Crypto Industry Innovat
+BITS,Global X Blockchain & Bitcoin S
+BIZD,VanEck BDC Income ETF
+BKCH,Global X Blockchain ETF
+BNDC,FlexShares Core Select Bond Fun
+BNKD,Bank Of Montreal MicroSectors
+BNKU,Bank Of Montreal MicroSectors
+BOND,PIMCO Active Bond Exchange-Trad
+CEFS,Saba Closed-End Funds ETF
+CMDT,PIMCO U.S. Treasury Index Fund
+COMT,iShares GSCI Commodity Dynamic
+CONL,GraniteShares 2x Long COIN Dail
+CRPT,First Trust SkyBridge Crypto In
+DAPP,VanEck Digital Transformation E
+DECO,SPDR Galaxy Digital Asset Ecosy
+DFNL,Davis Fundamental ETF Trust Dav
+DIAL,Columbia Diversified Fixed Inco
+DPST,Direxion Daily Regional Banks B
+EFIX,First Trust Exchange-Traded Fun
+EMHC,SPDR Bloomberg Emerging Markets
+EPRF,Innovator S&P Investment Grade
+EUFN,iShares MSCI Europe Financials
+FAAR,First Trust Alternative Absolut
+FAS,Direxion Financial Bull 3X Shar
+FCEF,First Trust Income Opportunitie
+FDFF,Fidelity Disruptive Finance ETF
+FDIG,Fidelity Crypto Industry and Di
+FFIU,UVA Unconstrained Medium-Term F
+FIRI,Tidal ETF Trust FIRE Funds Inco
+FNCL,Fidelity MSCI Financials Index
+FTXO,First Trust Nasdaq Bank ETF
+FXED,Sound Enhanced Fixed Income ETF
+FXO,First Trust Financials AlphaDEX
+GABF,Gabelli ETFs Trust Gabelli Fina
+GSIB,Themes Global Systemically Impo
+HECO,SPDR Galaxy Hedged Digital Asse
+HOOX,Defiance Daily Target 2X Long H
+HYBB,iShares BB Rated Corporate Bond
+IAI,iShares U.S. Broker-Dealers & S
+IAK,iShares U.S. Insurance ETF
+IAT,iShares U.S. Regional Banks ETF
+IBLC,iShares Trust iShares Blockchai
+IHY,VanEck International High Yield
+INDF,Range India Financials ETF
+IXG,iShares Global Financial ETF
+IYF,iShares U.S. Financial ETF
+IYG,iShares U.S. Financial Services
+KBE,SPDR S&P Bank ETF
+KBWB,Invesco KBW Bank ETF
+KBWD,Invesco KBW High Dividend Yield
+KBWP,Invesco KBW Property & Casualty
+KBWR,Invesco KBW Regional Banking ET
+KCE,SPDR S&P Capital Markets ETF
+KDRN,ETF Opportunities Trust Kingsba
+KIE,SPDR S&P Insurance ETF
+KRE,SPDR S&P Regional Banking ETF
+KWT,iShares Trust iShares MSCI Kuwa
+LBO,EA Series Trust WHITEWOLF Publi
+LMBO,Direxion Shares ETF Trust Direx
+MINT,PIMCO Enhanced Short Maturity A
+MNRS,Grayscale Funds Trust Grayscale
+NVDL,GraniteShares 2x Long NVDA Dail
+PBDC,Putnam ETF Trust Putnam BDC Inc
+PCEF,Invesco CEF Income Composite ET
+PEX,ProShares Global Listed Private
+PFI,Invesco Dorsey Wright Financial
+PGF,Invesco Financial Preferred ETF
+PGX,Invesco Preferred ETF
+PICB,Invesco International Corporate
+PREF,Principal Spectrum Preferred Se
+PRFD,PIMCO U.S. Treasury Index Fund
+PSCF,Invesco S&P SmallCap Financials
+PSP,Invesco Global Listed Private E
+PYPY,Tidal Trust II YieldMax PYPL Op
+QABA,First Trust NASDAQ ABA Communit
+RSPF,Invesco S&P 500 Equal Weight Fi
+SATO,Invesco Alerian Galaxy Crypto E
+SHEH,Precidian ETFs Trust Shell plc
+SMLV,SPDR SSGA US Small Cap Low Vola
+SPAQ,Horizon Kinetics SPAC Active ET
+SPAX,Robinson Alternative Yield Pre-
+SPC,CrossingBridge Pre-Merger SPAC
+SPCX,SPAC and New Issue ETF
+SPFF,Global X SuperIncome Preferred
+SSFI,Day Hagan/Ned Davis Research Sm
+STCE,Schwab Strategic Trust Schwab C
+TAGG,T. Rowe Price QM U.S. Bond ETF
+TMET,iShares Transition-Enabling Met
+TOTR,T. Rowe Price Total Return ETF
+UYG,ProShares Ultra Financials
+VFH,Vanguard Financials ETF
+VPC,Virtus Private Credit Strategy
+WABF,Western Asset Bond ETF
+WGMI,CoinShares Valkyrie Bitcoin Min
+XBB,BondBloxx ETF Trust BondBloxx B
+XHYF,BondBloxx ETF Trust BondBloxx U
+XLF,SPDR Select Sector Fund - Finan
+AVRE,Avantis Real Estate ETF
+BBRE,JPMorgan BetaBuilders MSCI U.S.
+BLDG,Cambria Global Real Estate ETF
+BRTR,iShares Total Return Active ETF
+BYRE,Principal Exchange-Traded Funds
+CBON,VanEck China Bond ETF
+CRDT,Simplify Exchange Traded Funds
+CRED,Columbia ETF Trust I Columbia R
+DESK,VanEck ETF Trust VanEck Office
+DFAR,Dimensional ETF Trust Dimension
+DFGR,Dimensional ETF Trust Dimension
+DRN,Direxion Daily Real Estate Bull
+DTRE,First Trust Alerian Disruptive
+DVDN,ETF Opportunities Trust Kingsba
+DYFI,IDX Dynamic Fixed Income ETF
+ERET,iShares Environmentally Aware R
+FALN,iShares Fallen Angels USD Bond
+FIXP,Tidal ETF Trust FolioBeyond Enh
+FPE,First Trust Preferred Securitie
+FPRO,Fidelity Real Estate Investment
+FREL,Fidelity MSCI Real Estate Index
+FRI,First Trust S&P REIT Index Fund
+FTSM,First Trust Enhanced Short Matu
+GBLD,Invesco MSCI Green Building ETF
+GHMS,Collaborative Investment Series
+GQRE,FlexShares Global Quality Real
+HAUS,Tidal ETF Trust Residential REI
+HAUZ,Xtrackers International Real Es
+HIDE,Alpha Architect High Inflation
+HYIN,WisdomTree Alternative Income F
+IBHE,iShares iBonds 2025 Term High Y
+ICF,iShares Cohen & Steers REIT ETF
+IFGL,iShares International Developed
+IMTB,iShares Core 5-10 Year USD Bond
+INDS,Pacer Industrial Real Estate ET
+IRET,Tidal Trust II iREIT - MarketVe
+IVRA,Invesco Real Assets ESG ETF
+IYR,iShares U.S. Real Estate ETF
+IYRI,NEOS ETF Trust NEOS Real Estate
+JPRE,J.P. Morgan Exchange-Traded Fun
+JRE,Janus Henderson U.S. Real Estat
+KBWY,Invesco KBW Premium Yield Equit
+MORT,VanEck Mortgage REIT Income ETF
+NETL,NETLease Corporate Real Estate
+NURE,Nuveen Short-Term REIT ETF
+PFFR,InfraCap REIT Preferred ETF
+PPTY,U.S. Diversified Real Estate ET
+PSR,Invesco Active U.S. Real Estate
+RDFI,Rareview Dynamic Fixed Income E
+RDOG,ALPS ETF Trust ALPS REIT Divide
+REAI,Intelligent Real Estate ETF
+REET,iShares Trust iShares Global RE
+REIT,ALPS Active REIT ETF
+REM,iShares Trust iShares Mortgage
+REZ,iShares Residential and Multise
+RIET,Hoya Capital High Dividend Yiel
+RINC,Investment Managers Series Trus
+RITA,ETF Series Solutions ETFB Green
+RNEW,VanEck Green Infrastructure ETF
+RSPR,Invesco S&P 500 Equal Weight Re
+RTRE,Collaborative Investment Series
+RWO,SPDR DJ Wilshire Global Real Es
+RWR,SPDR DJ Wilshire REIT ETF
+RWX,SPDR DJ Wilshire Intl Real Esta
+SCHH,Schwab U.S. REIT ETF
+SPRE,SP Funds S&P Global REIT Sharia
+SRET,Global X SuperDividend REIT ETF
+SRHR,Elevation Series Trust SRH REIT
+SRVR,Pacer Data & Infrastructure Rea
+UCON,First Trust TCW Unconstrained P
+URE,ProShares Ultra Real Estate
+USAF,Atlas America Fund
+USRT,iShares Core U.S. REIT ETF
+VGSR,Vert Global Sustainable Real Es
+VNQ,Vanguard Real Estate ETF
+VNQI,Vanguard Global ex-U.S. Real Es
+WTRE,WisdomTree New Economy Real Est
+XLRE,Real Estate Select Sector SPDR
+YLD,Principal Active High Yield ETF
+EATV,VegTech Food Innovation & Clima
+FSTA,Fidelity MSCI COnsumer Staples
+FTXG,First Trust Nasdaq Food & Bever
+FXG,First Trust Cons. Staples Alpha
+INCO,Columbia India Consumer ETF
+IYK,iShares U.S. Consumer Staples E
+JHPI,John Hancock Exchange-Traded Fu
+KHYB,KraneShares Asia Pacific High I
+KXI,iShares Global Consumer Staples
+PBJ,Invesco Food & Beverage ETF
+PSCC,Invesco S&P SmallCap Consumer S
+PSL,Invesco Dorsey Wright Consumer
+RSPS,Invesco S&P 500 Equal Weight Co
+TOKE,Cambria Cannabis ETF
+UGE,ProShares Ultra Consumer Staple
+VDC,Vanguard Consumer Staples ETF
+XLP,SPDR Select Sector Fund - Consu
+AGNG,Global X Aging Population ETF
+ARKG,ARK Genomic Revolution ETF
+AZNH,Precidian ETFs Trust AstraZenec
+BBC,Virtus LifeSci Biotech Clinical
+BBH,VanEck Biotech ETF
+BBP,Virtus LifeSci Biotech Products
+BIB,ProShares Ultra Nasdaq Biotechn
+BMED,iShares Health Innovation Activ
+CANC,Tema Oncology ETF
+CNBS,Amplify Seymour Cannabis ETF
+CNCR,Range Cancer Therapeutics ETF
+CURE,Direxion Daily Healthcare Bull
+EDOC,Global X Telemedicine & Digital
+EKG,First Trust Nasdaq Lux Digital
+FBT,First Trust Amex Biotech Index
+FCVT,First Trust SSI Strategic Conve
+FDHT,Fidelity Digital Health ETF
+FHLC,Fidelity MSCI Health Care Index
+FLBL,Franklin Senior Loan ETF
+FLHY,Franklin High Yield Corporate E
+FMED,Fidelity Disruptive Medicine ET
+FTXH,First Trust Nasdaq Pharmaceutic
+FXH,First Trust Health Care AlphaDE
+GDOC,Goldman Sachs Future Health Car
+GNOM,Global X Genomics & Biotechnolo
+GSKH,Precidian ETFs Trust GSK plc
+HART,NYLI Healthy Hearts ETF
+HEAL,Global X HealthTech ETF
+HELX,Franklin Genomic Advancements E
+HRTS,"Tema GLP-1, Obesity & Cardiomet"
+HTEC,Robo Global Healthcare Technolo
+IBB,iShares Biotechnology ETF
+IBBQ,Invesco Nasdaq Biotechnology ET
+IBRN,iShares Trust iShares Neuroscie
+IDNA,iShares Genomics Immunology and
+IHE,iShares U.S. Pharmaceutical ETF
+IHF,iShares U.S. Health Care Provid
+IHI,iShares U.S. Medical Devices ET
+IHYF,Invesco High Yield Bond Factor
+IXJ,iShares Global Healthcare ETF
+IYH,iShares U.S. Healthcare ETF
+JDOC,JPMorgan Healthcare Leaders ETF
+JIII,Janus Detroit Street Trust Janu
+JSI,Janus Detroit Street Trust Janu
+KURE,KraneShares MSCI All China Heal
+LABU,Direxion Daily S&P Biotech Bull
+LDSF,First Trust Low Duration Strate
+LFSC,F/m Emerald Life Sciences Innov
+LGHT,Spinnaker ETF Series Langar Glo
+MDEV,First Trust Indxx Medical Devic
+MEDI,Harbor ETF Trust Harbor Health
+MEDX,Horizon Kinetics Medical ETF
+MJ,ETFMG Alternative Harvest ETF
+MNTL,Tema Neuroscience and Mental He
+NEAR,iShares Short Duration Bond Act
+NFLT,Virtus Newfleet Multi-Sector Bo
+NVOH,Precidian ETFs Trust Novo Nordi
+NVOX,Tidal Trust II Defiance Daily T
+OZEM,Roundhill GLP-1 & Weight Loss E
+PBE,Invesco Biotechnology & Genome
+PILL,Direxion Daily Pharmaceutical &
+PINK,Simplify Health Care ETF
+PJP,Invesco Pharmaceuticals ETF
+PPH,VanEck Pharmaceutical ETF
+PSCH,Invesco S&P SmallCap Health Car
+PSIL,AdvisorShares Psychedelics ETF
+PTH,Invesco Dorsey Wright Healthcar
+RSPH,Invesco S&P 500 Equal Weight He
+RXL,ProShares Ultra Health Care
+SBIO,ALPS Medical Breakthroughs ETF
+SURI,Simplify Exchange Traded Funds
+SYNB,Putnam ETF Trust Putnam BioRevo
+THNR,Amplify ETF Trust Amplify Weigh
+VHT,Vanguard Health Care ETF
+WDNA,WisdomTree BioRevolution Fund
+WEED,Listed Funds Trust Roundhill Ca
+XBI,SPDR Series Trust  SPDR S&P Bio
+XHE,SPDR S&P Health Care Equipment
+XHS,SPDR S&P Health Care Services E
+XLV,SPDR Select Sector Fund - Healt
+XPH,SPDR S&P Pharmaceuticals ETF
+YOLO,AdvisorShares Pure Cannabis ETF
+BILD,Macquarie ETF Trust Macquarie G
+BNDS,Series Portfolios Trust Infrast
+BYLD,iShares Yield Optimized Bond ET
+CDX,Simplify High Yield ETF
+CGCP,Capital Group Core Plus Income
+CGMS,Capital Group U.S. Multi-Sector
+CVRT,Calamos ETF Trust Calamos Conve
+CWB,SPDR Bloomberg Convertible Secu
+DUKH,Ocean Park High Income ETF
+ECLN,First Trust EIP Carbon Impact E
+FAN,First Trust Global Wind Energy
+FIBR,iShares U.S. Fixed Income Balan
+FLRT,Pacer Funds Pacer Pacific Asset
+FUTY,Fidelity MSCI Utilities Index E
+FXU,First Trust Utilities AlphaDEX
+GHYG,iShares US & Intl High Yield Co
+HSUN,Hartford Strategic Income ETF
+HYG,iShares iBoxx $ High Yield Corp
+HYGH,iShares Interest Rate Hedged Hi
+HYGI,iShares U.S. ETF Trust iShares
+HYGW,iShares Trust iShares High Yiel
+HYMB,SPDR Nuveen Bloomberg High Yiel
+HYTR,Counterpoint High Yield Trend E
+IBHF,iShares iBonds 2026 Term High Y
+IBHI,iShares Trust iShares iBonds 20
+ICLN,iShares Global Clean Energy ETF
+ICSH,iShares Ultra Short-Term Bond A
+IDU,iShares U.S. Utilities ETF
+IPPP,Listed Funds Trust Preferred-Pl
+ISTB,iShares Core 1-5 Year USD Bond
+IUSB,iShares Core Total USD Bond Mar
+JHMU,John Hancock Exchange-Traded Fu
+JOJO,ATAC Credit Rotation ETF
+JXI,iShares Global Utilities ETF
+LDRH,iShares Trust iShares iBonds 1-
+MAMB,Monarch Ambassador Income Index
+MFLX,First Trust Flexible Municipal
+MUSI,American Century Multisector In
+PFF,iShares Preferred and Income Se
+PFFA,Virtus InfraCap U.S. Preferred
+PFFD,Global X U.S. Preferred ETF
+PFFV,Global X Variable Rate Preferre
+PFLD,AAM Low Duration Preferred and
+PFXF,VanEck Preferred Securities ex
+PSK,SPDR ICE Preferred Securities E
+PUI,Invesco Dorsey Wright Utilities
+QCON,American Century ETF Trust Amer
+QPFF,American Century ETF Trust Amer
+RNRG,Global X Renewable Energy Produ
+RNWZ,Listed Funds Trust TrueShares E
+RSPU,Invesco S&P 500 Equal Weight Ut
+RTAI,Rareview Tax Advantaged Income
+SDFI,"AB Active ETFs, Inc. AB Short D"
+SHYG,iShares 0-5 Year High Yield Cor
+THY,Toews Agility Shares Dynamic Ta
+UPW,ProShares Ultra Utilities
+USHY,iShares Broad USD High Yield Co
+UTES,Virtus Reaves Utilities ETF
+UTSL,Direxion Daily Utilities Bull 3
+VPU,Vanguard Utilities ETF
+VRP,Invesco Variable Rate Preferred
+XLU,SPDR Select Sector Fund - Utili
+XMPT,VanEck CEF Muni Income ETF
+ZAP,Global X U.S. Electrification E
+ADFI,Anfield Dynamic Fixed Income ET
+BINC,iShares Flexible Income Active
+BNGE,First Trust S-Network Streaming
+CMDY,iShares Bloomberg Roll Select C
+DUKZ,Northern Lights Fund Trust Ocea
+ESPO,VanEck Video Gaming and eSports
+FCOM,Fidelity MSCI Communication Ser
+FHYS,Federated Hermes ETF Trust Fede
+FLXR,TCW Flexible Income ETF
+GAMR,Amplify Video Game Leaders ETF
+GGLL,Direxion Daily GOOGL Bull 2X Sh
+GOOX,ETF Opportunities Trust T-Rex 2
+HERO,Global X Video Games & Esports
+HYFI,"AB Active ETFs, Inc. AB High Yi"
+HYS,PIMCO 0-5 Year High Yield Corpo
+HYSA,BondBloxx ETF Trust BondBloxx U
+HYXF,iShares ESG Advanced High Yield
+HYXU,iShares International High Yiel
+ICVT,iShares Convertible Bond ETF
+IXP,iShares Global Comm Services ET
+IYZ,iShares U.S. Telecommunications
+JPIB,J.P. Morgan Exchange-Traded Fun
+KMLM,KraneShares Mount Lucas Managed
+KPOP,JAKOTA K-Pop and Korean Enterta
+LTL,ProShares Ultra Communication S
+METU,Direxion Daily META Bull 2X Sha
+MSMR,ETF Series Solutions McElhenny
+MUSQ,MUSQ Global Music Industry Inde
+NERD,Roundhill Video Games ETF
+OBND,SPDR Loomis Sayles Opportunisti
+OND,ProShares On-Demand ETF
+PFRL,PGIM ETF Trust PGIM Floating Ra
+RMIF,ETF Series Solutions LHA Risk-M
+RSPC,Invesco S&P 500 Equal Weight Co
+SDSI,American Century Short Duration
+SJNK,SPDR Bloomberg Short Term High
+SOCL,Global X Social Media ETF
+SRLN,SPDR Blackstone Senior Loan ETF
+STOT,SPDR DoubleLine Short Duration
+VOX,Vanguard Communication Services
+XCCC,BondBloxx ETF Trust BondBloxx C
+XHYT,BondBloxx ETF Trust BondBloxx U
+XLC,The Communication Services Sele
+AFIF,Anfield Universal Fixed Income
+AGIH,iShares U.S. ETF Trust iShares
+AGRH,iShares U.S. ETF Trust iShares
+AMLP,Alerian MLP ETF
+AMZA,InfraCap MLP ETF
+BPH,Precidian ETFs Trust BP plc
+BSJS,Invesco BulletShares 2028 High
+COAL,Exchange Traded Concepts Trust
+CRAK,VanEck Oil Refiners ETF
+DIG,ProShares Ultra Energy
+DRLL,EA Series Trust Strive U.S. Ene
+EINC,VanEck Energy Income ETF
+EIPI,First Trust Exchange-Traded Fun
+EIPX,First Trust Exchange-Traded Fun
+EMCB,WisdomTree Emerging Markets Cor
+ENFR,Alerian Energy Infrastructure E
+ERX,Direxion Energy Bull 2X Shares
+FBND,Fidelity Total Bond ETF
+FCG,First Trust Natural Gas ETF
+FCSH,Federated Hermes ETF Trust Fede
+FENY,Fidelity MSCI Energy Index ETF
+FILL,iShares MSCI Global Energy Prod
+FISR,SPDR SSGA Fixed Income Sector R
+FTRB,Federated Hermes ETF Trust Fede
+FTXN,First Trust Nasdaq Oil & Gas ET
+FXN,First Trust Energy AlphaDEX Fun
+GDMA,GadsdenA DynamicA Multi-AssetA
+GUSH,Direxion Daily S&P Oil & Gas Ex
+HSBH,Precidian ETFs Trust HSBC Holdi
+HTRB,Hartford Total Return Bond ETF
+HYGV,FlexShares High Yield Value-Sco
+HYZD,WisdomTree Interest Rate Hedged
+IEO,iShares U.S. Oil & Gas Explorat
+IEZ,iShares U.S. Oil Equipment & Se
+IGE,iShares North American Natural
+IXC,iShares Global Energy ETF
+IYE,iShares U.S. Energy ETF
+JCPB,JPMorgan Core Plus Bond ETF
+JNK,SPDR Bloomberg High Yield Bond
+JPIE,JPMorgan Income ETF
+LNGZ,Exchange Traded Concepts Trust
+MDST,Ultimus Managers Trust Westwood
+MLPA,Global X MLP ETF
+MLPD,Global X Funds Global X MLP & E
+MLPX,Global X MLP & Energy Infrastru
+NBET,Neuberger Berman Energy Transit
+NDIV,Amplify ETF Trust Amplify Natur
+NRGD,Bank Of Montreal MicroSectors
+NRGU,Bank Of Montreal MicroSectors U
+NVIR,Listed Funds Trust Horizon Kine
+OFOS,Exchange Traded Concepts Trust
+OIH,VanEck Oil Services ETF
+OILD,MicroSectors Oil & Gas Exp. & P
+OILT,Texas Capital Funds Trust Texas
+OILU,MicroSectors Oil & Gas Exp. & P
+PGHY,Invesco Global ex-US High Yield
+PHYD,Putnam ETF Trust Putnam ESG Hig
+PHYL,PGIM Active High Yield Bond ETF
+PIPE,Invesco Actively Managed Exchan
+PSCE,Invesco S&P SmallCap Energy ETF
+PSH,PGIM ETF Trust PGIM Short Durat
+PXE,Invesco Energy Exploration & Pr
+PXI,Invesco Dorsey Wright Energy Mo
+PXJ,Invesco Oil & Gas Services ETF
+RSPG,Invesco S&P 500 Equal Weight En
+SMTH,ALPS ETF Trust ALPS
+SPHY,SPDR Portfolio High Yield Bond
+TOTL,SPDR DoubleLine Total Return Ta
+TPYP,Tortoise North American Pipelin
+UITB,VictoryShares Core Intermediate
+UJB,ProShares Ultra High Yield ETF
+UMI,USCF Midstream Energy Income Fu
+URA,Global X Uranium ETF
+URAA,Direxion Shares ETF Trust Direx
+URAX,Tidal Trust II Defiance Daily T
+URNJ,Sprott Junior Uranium Miners ET
+URNM,Sprott Uranium Miners ETF
+USAI,Pacer American Energy Independe
+UX,Roundhill ETF Trust Roundhill U
+VDE,Vanguard Energy ETF
+VNLA,Janus Henderson Short Duration
+WEEI,Westwood Salient Enhanced Energ
+WEEL,Tidal Trust II Peerless Option
+WTID,Bank Of Montreal MicroSectors E
+WTIU,Bank Of Montreal MicroSectors E
+XES,SPDR Series Trust SPDR S&P Oil
+XLE,SPDR Select Sector Fund - Energ
+XOP,SPDR S&P Oil & Gas Explor & Pro
+AIRL,Themes Airlines ETF
+AIRR,First Trust RBA American Indust
+BOAT,SonicShares Global Shipping ETF
+DFEN,Direxion Daily Aerospace & Defe
+DUSL,Direxion Daily Industrials Bull
+EUAD,Spinnaker ETF Series Select STO
+EVX,VanEck Environmental Services E
+EXI,iShares Global Industrials ETF
+FIDU,Fidelity MSCI Industrials Index
+FOWF,Pacer Funds Trust Pacer Solacti
+FTXR,First Trust Nasdaq Transportati
+FXR,First Trust Industrials AlphaDE
+GCAD,Gabelli Commercial Aerospace an
+GRID,First Trust NASDAQ Clean Edge S
+GSY,Invesco Ultra Short Duration ET
+GUNZ,Spinnaker ETF Series Tuttle Cap
+HDRO,ETF Series Solutions Defiance N
+HWAY,Themes US Infrastructure ETF
+HYDR,Global X Hydrogen ETF
+ITA,iShares U.S. Aerospace & Defens
+IYJ,iShares U.S. Industrials ETF
+IYT,iShares Trust iShares U.S. Tran
+JETD,Bank Of Montreal MAX Airlines -
+JETS,U.S. Global Jets ETF
+JETU,Bank Of Montreal MAX Airlines 3
+KDEF,Exchange Listed Funds Trust PLU
+MADE,iShares Trust iShares U.S. Manu
+MISL,First Trust Exchange-Traded Fun
+NRSH,Tidal ETF Trust Aztlan North Am
+PAVE,Global X Funds Global X U.S. In
+PHO,Invesco Water Resources ETF
+PIO,Invesco Global Water ETF
+PPA,Invesco Aerospace & Defense ETF
+PRN,Invesco Dorsey Wright Industria
+PSCI,Invesco S&P SmallCap Industrial
+RKLX,Defiance Daily Target 2X Long R
+ROKT,SPDR S&P Kensho Final Frontiers
+RSBA,Tidal Trust II Return Stacked B
+RSHO,Tema ETF Trust Tema American Re
+RSPN,Invesco S&P 500 Equal Weight In
+SEA,ETF Series Solutions U.S. Globa
+SHLD,Global X Funds Global X Defense
+SHPP,Pacer Funds Pacer Industrials a
+SUPL,ProShares Trust ProShares Suppl
+SUPP,TCW Transform Supply Chain ETF
+TBLU,Tortoise Global Water ESG Fund
+TEMP,J.P. Morgan Exchange-Traded Fun
+TPOR,Direxion Daily Transportation B
+UXI,ProShares Ultra Industrials
+VIS,Vanguard Industrials ETF
+VOLT,Tema Electrification ETF
+XAR,SPDR S&P Aerospace & Defense ET
+XLI,SPDR Select Sector Fund - Indus
+XTN,SPDR S&P Transportation ETF
+AAPU,Direxion Daily AAPL Bull 2X Sha
+AAPX,ETF Opportunities Trust T-Rex 2
+AGIX,KraneShares Artificial Intellig
+AIBU,Direxion Shares ETF Trust Direx
+AIFD,TCW Artificial Intelligence ETF
+AIPI,REX AI Equity Premium Income ET
+AIQ,Global X Artificial Intelligenc
+AOTG,AOT Growth and Innovation ETF
+APCB,Trust for Professional Managers
+ARVR,First Trust Indxx Metaverse ETF
+BAI,BlackRock ETF Trust iShares A.I
+BERZ,MicroSectors FANG & Innovation
+BNDW,Vanguard Total World Bond ETF
+BNDX,Vanguard Total International Bo
+BOTT,Themes Robotics & Automation ET
+BRLN,iShares Floating Rate Loan Acti
+BUG,Global X Cybersecurity ETF
+BULD,Pacer BlueStar Engineering the
+BULZ,MicroSectors FANG & Innovation
+CFIT,Cambria ETF Trust Cambria Fixed
+CHAT,Roundhill Generative AI & Techn
+CHPS,Xtrackers Semiconductor Select
+CIBR,First Trust NASDAQ Cybersecurit
+CLDL,Direxion Daily Cloud Computing
+CLOD,Themes Cloud Computing ETF
+CLOU,Global X Cloud Computing ETF
+COWG,Pacer US Large Cap Cash Cows Gr
+DAT,ProShares Big Data Refiners ETF
+DGIN,VanEck ETF Trust VanEck Digital
+DRUP,GraniteShares Nasdaq Select Dis
+DTEC,ALPS ETF Trust ALPS Disruptive
+DYNI,IDX Dynamic Innovation ETF
+EGGQ,NestYield Visionary ETF
+EGGS,Tidal Trust III NestYield Total
+EGGY,NestYield Dynamic Income ETF
+EWT,iShares Inc iShares MSCI Taiwan
+FAI,First Trust Exchange-Traded Fun
+FCLD,Fidelity Cloud Computing ETF
+FDTX,Fidelity Disruptive Technology
+FEPI,REX FANG & Innovation Equity Pr
+FINX,Global X FinTech ETF
+FLTW,Franklin FTSE Taiwan ETF
+FNGD,MicroSectors FANG  Index -3X In
+FNGG,Direxion Daily NYSE FANG+ Bull
+FNGO,MicroSectors FANG  Index 2X Lev
+FNGS,MicroSectors FANG  ETNs due Jan
+FTEC,Fidelity MSCI Information Techn
+FTXL,First Trust Nasdaq Semiconducto
+FXL,First Trust Technology AlphaDEX
+GPTY,Tidal Trust II YieldMax AI & Te
+GTEK,Goldman Sachs Future Tech Leade
+HACK,Amplify ETF Trust Amplify Cyber
+IBOT,VanEck Robotics ETF
+IDAT,iShares Future Cloud 5G and Tec
+IETC,iShares U.S. Tech Independence
+IGM,iShares Expanded Tech Sector ET
+IGPT,Invesco AI and Next Gen Softwar
+IGV,iShares Expanded Tech-Software
+IHAK,iShares Cybersecurity and Tech
+IPAY,Amplify Digital Payments ETF
+IQM,Franklin Intelligent Machines E
+ITEQ,Amplify ETF Trust Amplify BlueS
+IVRS,iShares Trust iShares Future Me
+IXN,iShares Global Tech ETF
+IYW,iShares U.S. Technology ETF
+IZRL,ARK Israel Innovative Technolog
+JTEK,JPMorgan U.S. Tech Leaders ETF
+KNCT,Invesco Next Gen Connectivity E
+KSTR,KraneShares SSE STAR Market 50
+LOUP,Innovator Deepwater Frontier Te
+LRNZ,"TrueShares Technology, AI & Dee"
+MAKX,ProShares S&P Kensho Smart Fact
+MSFU,Direxion Daily MSFT Bull 2X Sha
+MSFX,ETF Opportunities Trust T-Rex 2
+MSTU,ETF Opportunities Trust T-Rex 2
+MUU,Direxion Daily MU Bull 2X Share
+NBDS,Neuberger Berman ETF Trust Neub
+NVDU,Direxion Daily NVDA Bull 2X Sha
+NVDX,ETF Opportunities Trust T-Rex 2
+NVW,Roundhill ETF Trust Roundhill N
+NXTG,First Trust Indxx NextG ETF
+ORCX,Defiance Daily Target 2X Long O
+PSCT,Invesco S&P SmallCap Informatio
+PSI,Invesco Semiconductors ETF
+PSWD,Xtrackers Cybersecurity Select
+PTF,Invesco Dorsey Wright Technolog
+QBIG,Invesco Top QQQ ETF
+QOWZ,Invesco Nasdaq Free Cash Flow A
+QQMG,Invesco ESG NASDAQ 100 ETF
+QQQA,ProShares Nasdaq-100 Dorsey Wri
+QQQG,Pacer Nasdaq 100 Top 50 Cash Co
+QTEC,First Trust NASDAQ-100-Technolo
+QTUM,Defiance Quantum ETF
+RAYS,Global X Solar ETF
+ROBT,First Trust Nasdaq Artificial I
+ROM,ProShares Ultra Technology
+RSPT,Invesco S&P 500 Equal Weight Te
+SEMI,Columbia Select Technology ETF
+SHOC,EA Series Trust Strive U.S. Sem
+SIXG,Defiance Connective Technologie
+SKYU,ProShares Ultra Cloud Computing
+SKYY,First Trust Cloud Computing ETF
+SMH,VanEck Semiconductor ETF
+SMHX,VanEck Fabless Semiconductor ET
+SNSR,Global X Internet of Things ETF
+SOXL,Direxion Daily Semiconductor Bu
+SOXQ,Invesco PHLX Semiconductor ETF
+SOXX,iShares Semiconductor ETF
+SOXY,Tidal Trust II YieldMax Target
+SPAM,Themes Cybersecurity ETF
+SPRX,Spear Alpha ETF
+SPTE,SP Funds Trust SP Funds S&P Glo
+TAN,Invesco Solar ETF
+TDIV,First Trust NASDAQ Technology D
+TDV,ProShares S&P Technology Divide
+TDVI,FT Vest Technology Dividend Tar
+TECB,iShares U.S. Tech Breakthrough
+TECL,Direxion Technology Bull 3X Sha
+TEK,BlackRock ETF Trust iShares Tec
+THNQ,ROBO Global Artificial Intellig
+TINY,ProShares Nanotechnology ETF
+TRFK,Pacer Funds Pacer Data and Digi
+TRFM,ETF Series Solutions AAM Transf
+TTEQ,T. Rowe Price Technology ETF
+TYLG,Global X Funds Global X Informa
+UCYB,ProShares Ultra Nasdaq Cybersec
+USD,ProShares Ultra Semiconductors
+USRD,Themes US R&D Champions ETF
+VERS,ProShares Trust ProShares Metav
+VGT,Vanguard Information Tech ETF
+WCBR,WisdomTree Cybersecurity Fund
+WCLD,WisdomTree Cloud Computing Fund
+WFH,Direxion Work From Home ETF
+WISE,Themes Generative Artificial In
+WTAI,WisdomTree Trust WisdomTree Art
+WUGI,AXS Esoterica NextG Economy ETF
+XAIX,Xtrackers Artificial Intelligen
+XDAT,Franklin Exponential Data ETF
+XITK,SPDR FactSet Innovative Technol
+XLK,SPDR Select Sector Fund - Techn
+XNTK,SPDR NYSE Technology ETF
+XPND,First Trust Expanded Technology
+XSD,SPDR S&P Semiconductor ETF
+XSW,SPDR S&P Software & Services ET
+XT,iShares Exponential Technologie
+XTL,SPDR S&P Telecom ETF
 RCWBX,American Funds Capital World Bond R2
 CCWFX,American Funds Capital World Bond Fund
 RCEBX,American Funds Capital World Bond R2E
