@@ -136,6 +136,43 @@ def calculate_efficient_frontier(mean_returns, cov_matrix, risk_free_rate, point
         'tangency_portfolio': tangency_portfolio
     }
 
+# NEW UTILITY FUNCTION
+def utility_function(expected_return, volatility, risk_aversion):
+    """
+    Calculate investor utility based on expected return, volatility, and risk aversion.
+    U = r - (σ²A)/2
+    """
+    return expected_return - 0.5 * risk_aversion * (volatility ** 2)
+
+# NEW FUNCTION: Find portfolio that maximizes utility for a given risk aversion
+def get_portfolio_for_utility(efficient_frontier_data, risk_level):
+    """
+    Find portfolio that maximizes utility for given risk level (1-10)
+    
+    Args:
+        efficient_frontier_data (dict): Dictionary containing portfolios on efficient frontier
+        risk_level (int): Risk level from 1-10
+        
+    Returns:
+        dict: Portfolio with maximum utility
+    """
+    # Convert risk level (1-10) to risk aversion parameter
+    # Lower risk level = higher risk aversion = more concerned about risk
+    # Higher risk level = lower risk aversion = more willing to take risk
+    risk_aversion = 11 - risk_level  # Invert the scale: risk_level 1 → risk_aversion 10, risk_level 10 → risk_aversion 1
+    
+    # Find portfolio with maximum utility
+    portfolio = max(
+        efficient_frontier_data['efficient_portfolios'],
+        key=lambda p: utility_function(p['return'], p['volatility'], risk_aversion)
+    )
+    
+    # Calculate and add utility to portfolio info
+    portfolio['utility'] = utility_function(portfolio['return'], portfolio['volatility'], risk_aversion)
+    portfolio['risk_aversion'] = risk_aversion
+    
+    return portfolio, risk_aversion
+
 # Map risk tolerance (1-10) directly to a portfolio on the efficient frontier
 def get_portfolio_for_risk_level(efficient_frontier_data, risk_level):
     # Get all portfolios on the efficient frontier
@@ -333,6 +370,7 @@ def risk_appetite_questionnaire():
                 <h3 style='margin:0; color:#0e1117;'>Risk Level: {st.session_state.risk_level}/10</h3>
                 <h4 style='margin-top:5px; color:#0e1117;'>{risk_profile["profile"]}</h4>
                 <p style='color:#0e1117;'>{risk_profile["description"]}</p>
+                <p style='color:#0e1117;'><b>Risk Aversion:</b> {11 - st.session_state.risk_level}</p>
             </div>
             """, 
             unsafe_allow_html=True
@@ -404,11 +442,14 @@ def main():
     # Add questionnaire to sidebar and get risk level
     risk_level = risk_appetite_questionnaire()
     
-    # Get portfolio based on risk level
-    portfolio, target_volatility = get_portfolio_for_risk_level(ef_no_short, risk_level)
+    # Get portfolio based on risk level (original approach)
+    risk_mapped_portfolio, target_volatility = get_portfolio_for_risk_level(ef_no_short, risk_level)
+    
+    # NEW: Get portfolio that maximizes utility based on risk aversion
+    utility_portfolio, risk_aversion = get_portfolio_for_utility(ef_no_short, risk_level)
     
     # Create tabs for Portfolio Recommendation and Technical Analysis
-    tab1, tab2 = st.tabs(["Portfolio Recommendation", "Technical Analysis"])
+    tab1, tab2, tab3 = st.tabs(["Portfolio Recommendation", "Technical Analysis", "Utility Analysis"])
     
     with tab1:
         # Create interactive plot
@@ -466,8 +507,8 @@ def main():
         
         # Add selected portfolio based on risk level
         fig.add_trace(go.Scatter(
-            x=[portfolio['volatility']],
-            y=[portfolio['return']],
+            x=[utility_portfolio['volatility']],
+            y=[utility_portfolio['return']],
             mode='markers',
             marker=dict(
                 size=15,
@@ -579,33 +620,37 @@ def main():
         # Display portfolio details based on risk level
         st.header("Your Optimal Portfolio")
         
-        # Show the corresponding volatility as read-only information
+        # Show the corresponding information
         st.info(f"""
-        **Your selected risk level is {risk_level}/10, which corresponds to a volatility of {target_volatility:.2f}**
+        **Your selected risk level is {risk_level}/10, which corresponds to a risk aversion of {risk_aversion}**
         
-        This portfolio is optimized to give you the highest expected return for this level of risk.
+        This portfolio is optimized to maximize your utility function: U = r - (σ²A)/2
         """)
         
-        # Create 3 columns for metrics
-        metrics_col1, metrics_col2, metrics_col3 = st.columns(3)
+        # Create 4 columns for metrics (including utility)
+        metrics_col1, metrics_col2, metrics_col3, metrics_col4 = st.columns(4)
         
         metrics_col1.metric(
             "Expected Annual Return", 
-            f"{portfolio['return']:.2%}",
-            delta=f"{portfolio['return'] - risk_free_rate:.2%} vs Risk-Free"
+            f"{utility_portfolio['return']:.2%}",
+            delta=f"{utility_portfolio['return'] - risk_free_rate:.2%} vs Risk-Free"
         )
         metrics_col2.metric(
             "Expected Volatility", 
-            f"{portfolio['volatility']:.2%}"
+            f"{utility_portfolio['volatility']:.2%}"
         )
         metrics_col3.metric(
             "Sharpe Ratio", 
-            f"{portfolio['sharpe_ratio']:.2f}"
+            f"{utility_portfolio['sharpe_ratio']:.2f}"
+        )
+        metrics_col4.metric(
+            "Utility Value",
+            f"{utility_portfolio['utility']:.4f}"
         )
         
         # Portfolio weights
         st.subheader("Portfolio Allocation")
-        weights_dict = dict(zip(selected_funds, portfolio['weights']))
+        weights_dict = dict(zip(selected_funds, utility_portfolio['weights']))
         sorted_weights = {k: v for k, v in sorted(weights_dict.items(), key=lambda item: item[1], reverse=True) if v > 0.01}
         
         # Create columns for chart and table
@@ -643,14 +688,15 @@ def main():
         st.subheader("Portfolio Insights")
         
         # Potential loss based on volatility
-        potential_loss = -(portfolio['volatility'] * 2.33 * 100)  # Approximation based on normal distribution
+        potential_loss = -(utility_portfolio['volatility'] * 2.33 * 100)  # Approximation based on normal distribution
         
         # Display insights
         st.markdown("### Risk and Return Profile")
         st.markdown(f"""
-        - **Expected Annual Return**: {portfolio['return']:.2%}
-        - **Expected Volatility**: {portfolio['volatility']:.2%}
+        - **Expected Annual Return**: {utility_portfolio['return']:.2%}
+        - **Expected Volatility**: {utility_portfolio['volatility']:.2%}
         - **Potential Loss (Bad Year)**: Around {potential_loss:.1f}%
+        - **Utility Value**: {utility_portfolio['utility']:.4f}
         """)
         
         # Explanation section
@@ -683,7 +729,16 @@ def main():
         
         ### Portfolio Construction
         
-        Your portfolio is positioned on the efficient frontier to maximize expected return for your specific risk tolerance level. It represents the mathematically optimal allocation of funds based on Modern Portfolio Theory.
+        Your portfolio is positioned on the efficient frontier to maximize your utility function:
+        
+        **U = r - (σ²A)/2**
+        
+        Where:
+        - **r** is the expected return
+        - **σ** is the volatility (standard deviation)
+        - **A** is your risk aversion parameter
+        
+        This represents the mathematical tradeoff between risk and return based on your personal risk tolerance.
         """)
     
     with tab2:
@@ -786,6 +841,137 @@ def main():
                 'Weight': [f"{w*100:.2f}%" for w in tang_weights]
             })
             st.dataframe(tang_weights_df, hide_index=True)
+            
+    # NEW TAB: Utility Analysis
+    with tab3:
+        st.header("Utility Analysis")
+        
+        st.markdown(f"""
+        ## Investor Utility Function
+        
+        Your utility function represents your preference for risk and return:
+        
+        **U = r - (σ²A)/2**
+        
+        Where:
+        - **r** is the expected return
+        - **σ** is the volatility (standard deviation)
+        - **A** is the risk aversion parameter (currently {risk_aversion})
+        
+        With your risk level of {risk_level}/10:
+        - Higher risk level (10) = Lower risk aversion (1) = More willing to take risks
+        - Lower risk level (1) = Higher risk aversion (10) = Less willing to take risks
+        
+        This function helps us find the portfolio that maximizes your satisfaction based on your risk tolerance.
+        """)
+        
+        # Compare risk-mapped portfolio vs utility-optimized portfolio
+        st.subheader("Portfolio Comparison")
+        
+        # Calculate utility for risk-mapped portfolio for fair comparison
+        risk_mapped_utility = utility_function(
+            risk_mapped_portfolio['return'],
+            risk_mapped_portfolio['volatility'],
+            risk_aversion
+        )
+        
+        # Create a comparison dataframe
+        comparison_data = {
+            "Metric": ["Expected Return", "Volatility", "Sharpe Ratio", "Utility Value"],
+            "Risk-Mapped Portfolio": [
+                f"{risk_mapped_portfolio['return']:.2%}",
+                f"{risk_mapped_portfolio['volatility']:.2%}",
+                f"{risk_mapped_portfolio['sharpe_ratio']:.2f}",
+                f"{risk_mapped_utility:.4f}"
+            ],
+            "Utility-Optimized Portfolio": [
+                f"{utility_portfolio['return']:.2%}",
+                f"{utility_portfolio['volatility']:.2%}",
+                f"{utility_portfolio['sharpe_ratio']:.2f}",
+                f"{utility_portfolio['utility']:.4f}"
+            ]
+        }
+        
+        comparison_df = pd.DataFrame(comparison_data)
+        st.table(comparison_df)
+        
+        # Explanation of utility maximization
+        st.markdown("""
+        ### Understanding Utility Maximization
+        
+        The utility-optimized portfolio directly maximizes your satisfaction based on your risk aversion parameter.
+        This approach differs from the risk-mapped portfolio in that:
+        
+        1. **Mathematically Optimal**: It finds the exact portfolio that maximizes the utility function
+        
+        2. **Personalized**: It accounts for your specific risk aversion parameter
+        
+        3. **Theoretically Sound**: It's based on economic theory of rational choice under uncertainty
+        
+        The higher the utility value, the better the portfolio matches your personal preferences for the risk-return tradeoff.
+        """)
+        
+        # Create a utility visualization across the efficient frontier
+        st.subheader("Utility Across the Efficient Frontier")
+        
+        # Calculate utilities for all portfolios on the efficient frontier
+        utilities = []
+        for idx, p in enumerate(ef_no_short['efficient_portfolios']):
+            util = utility_function(p['return'], p['volatility'], risk_aversion)
+            utilities.append({
+                'Portfolio': idx,
+                'Return': p['return'],
+                'Volatility': p['volatility'],
+                'Utility': util
+            })
+        
+        # Create a DataFrame for visualization
+        utilities_df = pd.DataFrame(utilities)
+        
+        # Create a scatter plot to show utility values across the efficient frontier
+        fig_utility = px.scatter(
+            utilities_df,
+            x='Volatility',
+            y='Return',
+            color='Utility',
+            color_continuous_scale='Viridis',
+            title=f'Utility Values Across the Efficient Frontier (Risk Aversion = {risk_aversion})'
+        )
+        
+        # Mark the optimal portfolio
+        fig_utility.add_trace(go.Scatter(
+            x=[utility_portfolio['volatility']],
+            y=[utility_portfolio['return']],
+            mode='markers',
+            marker=dict(
+                size=15,
+                color='red',
+                symbol='star',
+                line=dict(width=2, color='black')
+            ),
+            name='Optimal Portfolio'
+        ))
+        
+        # Update layout
+        fig_utility.update_layout(
+            xaxis_title='Volatility',
+            yaxis_title='Expected Return',
+            height=500,
+            coloraxis_colorbar=dict(title='Utility')
+        )
+        
+        st.plotly_chart(fig_utility, use_container_width=True)
+        
+        # Explanation
+        st.markdown("""
+        ### Key Insights
+        
+        * The color gradient shows utility values across the efficient frontier
+        * The red star marks the portfolio that maximizes your utility
+        * As your risk aversion changes, the optimal portfolio will move along the efficient frontier
+        * Higher risk aversion (more risk-averse) will shift the optimal portfolio toward lower volatility
+        * Lower risk aversion (more risk-tolerant) will shift the optimal portfolio toward higher returns
+        """)
 
 if __name__ == "__main__":
     # Initialize session state for questionnaire
