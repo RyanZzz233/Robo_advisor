@@ -240,68 +240,115 @@ def risk_appetite_questionnaire():
         
         # Define questions and options with their associated scores
         questions = {
-            "life_stage": {
-                "question": "1. Which best describes your current stage of life?",
+            "investment_objective": {
+                "question": "1. What is your primary investment objective?",
                 "options": {
-                    1: "Few financial burdens, accumulating wealth",
-                    2: "Establishing home, may have children",
-                    3: "Own home with mortgage & regular costs",
-                    4: "Peak earning years, thinking of retirement",
-                    5: "Preparing for retirement, few burdens",
-                    6: "Retired, relying on existing funds"
+                    "A": "Maximum capital growth, accepting high volatility",
+                    "B": "Strong capital growth, tolerating significant volatility",
+                    "C": "Moderate growth with some income, accepting moderate volatility",
+                    "D": "Income generation with some growth, preferring limited volatility",
+                    "E": "Capital preservation with minimal risk"
                 },
-                "weights": {1: 9, 2: 3, 3: 1, 4: 5, 5: 3, 6: 2}
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
             },
-            "investment_purpose": {
-                "question": "2. What is your primary investment purpose?",
+            "time_horizon": {
+                "question": "2. What is your investment time horizon?",
                 "options": {
-                    1: "Long-term capital growth",
-                    2: "To meet income needs",
-                    3: "Both growth and income",
-                    4: "Capital security"
+                    "A": "Over 15 years",
+                    "B": "10-15 years",
+                    "C": "6-10 years",
+                    "D": "3-5 years",
+                    "E": "Less than 3 years"
                 },
-                "weights": {1: 7, 2: 3, 3: 5, 4: 1}
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
             },
-            "income_security": {
-                "question": "3. How secure is your current/future income?",
+            "loss_reaction": {
+                "question": "3. If your portfolio suddenly lost 20% of its value, what would you do?",
                 "options": {
-                    1: "Not secure",
-                    2: "Somewhat secure",
-                    3: "Fairly secure",
-                    4: "Very secure"
+                    "A": "Invest substantially more to take advantage of lower prices",
+                    "B": "Invest a small amount more",
+                    "C": "Hold my position and wait for recovery",
+                    "D": "Sell a small portion to reduce further risk",
+                    "E": "Sell most or all of my investments"
                 },
-                "weights": {1: 1, 2: 3, 3: 5, 4: 7}
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
             },
-            "investment_timeframe": {
-                "question": "4. How long will you invest before needing access?",
+            "investment_experience": {
+                "question": "4. How much investment experience do you have?",
                 "options": {
-                    1: "2 years or less",
-                    2: "Within 3-5 years",
-                    3: "Within 6-10 years",
-                    4: "Not for 10+ years"
+                    "A": "Very experienced, including complex investment products",
+                    "B": "Experienced with stocks, bonds, and mutual funds",
+                    "C": "Some experience, mainly with mutual funds or managed investments",
+                    "D": "Limited experience, mainly bank deposits and low-risk investments",
+                    "E": "No investment experience"
                 },
-                "weights": {1: 1, 2: 3, 3: 5, 4: 7}
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
             },
-            "market_drop_reaction": {
-                "question": "5. If your $100,000 investment fell to $85,000, would you:",
+            "investment_percentage": {
+                "question": "5. What percentage of your liquid net worth are you investing?",
                 "options": {
-                    1: "Sell all investments - avoid risk",
-                    2: "Sell some and invest in more secure assets",
-                    3: "Hold all investments, expecting improvement",
-                    4: "Buy more at the lower price"
+                    "A": "Less than 20%",
+                    "B": "20-40%",
+                    "C": "41-60%",
+                    "D": "61-80%",
+                    "E": "More than 80%"
                 },
-                "weights": {1: 1, 2: 3, 3: 5, 4: 7}
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
             },
-            "portfolio_volatility": {
-                "question": "6. Which portfolio matches your risk comfort level?",
+            "income_stability": {
+                "question": "6. How stable is your current and expected future income?",
                 "options": {
-                    1: "25% growth, 3.5% return, -7.9% potential loss",
-                    2: "42% growth, 4.4% return, -12.7% potential loss",
-                    3: "66% growth, 5.5% return, -17.3% potential loss",
-                    4: "79% growth, 6.1% return, -20.9% potential loss",
-                    5: "98% growth, 7.1% return, -25.9% potential loss"
+                    "A": "Very stable with high growth potential",
+                    "B": "Stable with some growth potential",
+                    "C": "Moderately stable",
+                    "D": "Somewhat unstable",
+                    "E": "Very unstable or declining"
                 },
-                "weights": {1: 1, 2: 3, 3: 5, 4: 7, 5: 9}
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
+            },
+            "portfolio_preference": {
+                "question": "7. Which portfolio would you be most comfortable with over 10 years?",
+                "options": {
+                    "A": "Portfolio A: Potential return 12%+, potential loss 25%+",
+                    "B": "Portfolio B: Potential return 10%, potential loss 20%",
+                    "C": "Portfolio C: Potential return 8%, potential loss 15%",
+                    "D": "Portfolio D: Potential return 6%, potential loss 10%",
+                    "E": "Portfolio E: Potential return 4%, potential loss 5%"
+                },
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
+            },
+            "check_frequency": {
+                "question": "8. How often do you check your investment performance?",
+                "options": {
+                    "A": "Rarely, maybe annually",
+                    "B": "Quarterly",
+                    "C": "Monthly",
+                    "D": "Weekly",
+                    "E": "Daily or multiple times daily"
+                },
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
+            },
+            "withdrawal_timeline": {
+                "question": "9. How many years until you plan to begin making withdrawals?",
+                "options": {
+                    "A": "20+ years",
+                    "B": "11-20 years",
+                    "C": "5-10 years",
+                    "D": "1-4 years",
+                    "E": "Already withdrawing"
+                },
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
+            },
+            "investment_attitude": {
+                "question": "10. When making a long-term investment, I am...",
+                "options": {
+                    "A": "Focused solely on maximum returns regardless of risk",
+                    "B": "Primarily concerned with growth, secondarily with risk",
+                    "C": "Equally concerned with risk and return",
+                    "D": "Primarily concerned with risk, secondarily with growth",
+                    "E": "Focused solely on minimizing risk"
+                },
+                "weights": {"A": 9, "B": 7, "C": 5, "D": 3, "E": 1}
             }
         }
         
